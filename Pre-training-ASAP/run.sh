@@ -1,6 +1,6 @@
-export WANDB_MODE=disabled
+# export WANDB_MODE=disabled
 source activate simcrop
-cd /rongshengwang/Code/ASAP/Pre-training-ASAP/
+cd /workspace/ASAP/Pre-training-ASAP/
 export OMP_NUM_THREADS=1
 export OPENBLAS_NUM_THREADS=1
 export MKL_NUM_THREADS=1

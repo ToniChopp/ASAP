@@ -6,14 +6,14 @@ from transformers.modeling_outputs import MaskedLMOutput, BaseModelOutputWithPoo
 from torch.nn import CrossEntropyLoss
 import torch.nn.functional as F
 
-from .context_fusion import ECAMPFusionLayer
+from .fusion import ASAPFusionLayer
 import ipdb
 
 
 class MultimodalBertModel(BertModel):
     def __init__(self, config, add_pooling_layer=True):
         super().__init__(config)
-        self.context_fusion_layer = ECAMPFusionLayer(config)
+        self.fusion_layer = ASAPFusionLayer(config)
 
     def forward(
         self,
@@ -136,7 +136,7 @@ class MultimodalBertModel(BertModel):
                 past_key_values_length=past_key_values_length,
             )
         
-            fusion_feature = self.context_fusion_layer(
+            fusion_feature = self.fusion_layer(
                 embedding_output,
                 latent,
                 gap_token,
@@ -160,7 +160,7 @@ class MultimodalBertModel(BertModel):
             )
 
         elif input_ids is None:
-            fusion_feature = self.context_fusion_layer(
+            fusion_feature = self.fusion_layer(
                 inputs_embeds,
                 latent,
                 gap_token,

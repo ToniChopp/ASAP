@@ -152,7 +152,7 @@ class BertSelfAttention(nn.Module):
         return outputs
 
 
-class ECAMPFusionLayer(nn.Module):
+class ASAPFusionLayer(nn.Module):
     def __init__(self, config):
         super().__init__()
         self.chunk_size_feed_forward = config.chunk_size_feed_forward

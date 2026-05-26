@@ -1,0 +1,147 @@
+{
+    "description": "Lung and cancer segmentation",
+    "labels": {
+        "0": "background",
+        "1": "cancer"
+    },
+    "licence": "CC-BY-SA 4.0",
+    "modality": {
+        "0": "CT"
+    },
+    "name": "Lung",
+    "numTest": 13,
+    "numTraining": 5,
+    "reference": "The Cancer Imaging Archive",
+    "relase": "1.0 04/05/2018",
+    "tensorImageSize": "3D",
+    "training": [
+        {
+            "image": "./imagesTr/lung_016.nii.gz",
+            "label": "./labelsTr/lung_016.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_081.nii.gz",
+            "label": "./labelsTr/lung_081.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_027.nii.gz",
+            "label": "./labelsTr/lung_027.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_054.nii.gz",
+            "label": "./labelsTr/lung_054.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_074.nii.gz",
+            "label": "./labelsTr/lung_074.nii.gz"
+        }
+    ],
+    "validation": [
+        {
+            "image": "./imagesTr/lung_006.nii.gz",
+            "label": "./labelsTr/lung_006.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_010.nii.gz",
+            "label": "./labelsTr/lung_010.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_033.nii.gz",
+            "label": "./labelsTr/lung_033.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_034.nii.gz",
+            "label": "./labelsTr/lung_034.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_041.nii.gz",
+            "label": "./labelsTr/lung_041.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_042.nii.gz",
+            "label": "./labelsTr/lung_042.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_046.nii.gz",
+            "label": "./labelsTr/lung_046.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_048.nii.gz",
+            "label": "./labelsTr/lung_048.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_059.nii.gz",
+            "label": "./labelsTr/lung_059.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_065.nii.gz",
+            "label": "./labelsTr/lung_065.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_066.nii.gz",
+            "label": "./labelsTr/lung_066.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_070.nii.gz",
+            "label": "./labelsTr/lung_070.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_079.nii.gz",
+            "label": "./labelsTr/lung_079.nii.gz"
+        }
+    ],
+    "testing": [
+        {
+            "image": "./imagesTr/lung_006.nii.gz",
+            "label": "./labelsTr/lung_006.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_010.nii.gz",
+            "label": "./labelsTr/lung_010.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_033.nii.gz",
+            "label": "./labelsTr/lung_033.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_034.nii.gz",
+            "label": "./labelsTr/lung_034.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_041.nii.gz",
+            "label": "./labelsTr/lung_041.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_042.nii.gz",
+            "label": "./labelsTr/lung_042.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_046.nii.gz",
+            "label": "./labelsTr/lung_046.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_048.nii.gz",
+            "label": "./labelsTr/lung_048.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_059.nii.gz",
+            "label": "./labelsTr/lung_059.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_065.nii.gz",
+            "label": "./labelsTr/lung_065.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_066.nii.gz",
+            "label": "./labelsTr/lung_066.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_070.nii.gz",
+            "label": "./labelsTr/lung_070.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_079.nii.gz",
+            "label": "./labelsTr/lung_079.nii.gz"
+        }
+    ]
+}

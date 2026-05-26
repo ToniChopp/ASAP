@@ -1,0 +1,956 @@
+{
+  "name": "RIDER Lung CT",
+  "description": "RIDER Lung CT segmentation. Generated 2026-04-14 16:45:13.",
+  "reference": "https://doi.org/10.7937/K9/TCIA.2015.U1X8A5NR",
+  "licence": "https://creativecommons.org/licenses/by/3.0/",
+  "release": "1.0",
+  "tensorImageSize": "3D",
+  "modality": {
+    "0": "CT"
+  },
+  "labels": {
+    "0": "background",
+    "1": "foreground"
+  },
+  "numTraining": 0,
+  "numValidation": 0,
+  "numTest": 234,
+  "testing": [
+    {
+      "image": "./RIDER-2619750334/RETEST_14214320/ct.nii.gz",
+      "label": "./RIDER-2619750334/RETEST_14214320/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2619750334/RETEST_14214320/ct.nii.gz",
+      "label": "./RIDER-2619750334/RETEST_14214320/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2619750334/RIDER-261975033420190220RETEST_6.958509/ct.nii.gz",
+      "label": "./RIDER-2619750334/RIDER-261975033420190220RETEST_6.958509/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2619750334/RIDER-261975033420190220RETEST_6.958509/ct.nii.gz",
+      "label": "./RIDER-2619750334/RIDER-261975033420190220RETEST_6.958509/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2619750334/RIDER-261975033420190220TEST_7.597451/ct.nii.gz",
+      "label": "./RIDER-2619750334/RIDER-261975033420190220TEST_7.597451/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2619750334/RIDER-261975033420190220TEST_7.597451/ct.nii.gz",
+      "label": "./RIDER-2619750334/RIDER-261975033420190220TEST_7.597451/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2619750334/TEST_14214241/ct.nii.gz",
+      "label": "./RIDER-2619750334/TEST_14214241/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2619750334/TEST_14214241/ct.nii.gz",
+      "label": "./RIDER-2619750334/TEST_14214241/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1129164940/RETEST_14221610/ct.nii.gz",
+      "label": "./RIDER-1129164940/RETEST_14221610/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1129164940/RETEST_14221610/ct.nii.gz",
+      "label": "./RIDER-1129164940/RETEST_14221610/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1129164940/RIDER-112916494020190220TEST_07.24503/ct.nii.gz",
+      "label": "./RIDER-1129164940/RIDER-112916494020190220TEST_07.24503/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1129164940/RIDER-112916494020190220TEST_07.24503/ct.nii.gz",
+      "label": "./RIDER-1129164940/RIDER-112916494020190220TEST_07.24503/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1129164940/RIDER-112916494020190402RETEST_3.193341/ct.nii.gz",
+      "label": "./RIDER-1129164940/RIDER-112916494020190402RETEST_3.193341/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1129164940/RIDER-112916494020190402RETEST_3.193341/ct.nii.gz",
+      "label": "./RIDER-1129164940/RIDER-112916494020190402RETEST_3.193341/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1129164940/TEST_14221526/ct.nii.gz",
+      "label": "./RIDER-1129164940/TEST_14221526/mask_rtstruct_roi01_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1129164940/TEST_14221526/ct.nii.gz",
+      "label": "./RIDER-1129164940/TEST_14221526/mask_rtstruct_roi02_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1225316081/RETEST_221305.1/ct.nii.gz",
+      "label": "./RIDER-1225316081/RETEST_221305.1/mask_rtstruct_roi01_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1225316081/RETEST_221305.1/ct.nii.gz",
+      "label": "./RIDER-1225316081/RETEST_221305.1/mask_rtstruct_roi02_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1225316081/RIDER-122531608120190220TEST_5.472211/ct.nii.gz",
+      "label": "./RIDER-1225316081/RIDER-122531608120190220TEST_5.472211/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1225316081/RIDER-122531608120190220TEST_5.472211/ct.nii.gz",
+      "label": "./RIDER-1225316081/RIDER-122531608120190220TEST_5.472211/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1225316081/RIDER-122531608120190402RETEST_7.973188/ct.nii.gz",
+      "label": "./RIDER-1225316081/RIDER-122531608120190402RETEST_7.973188/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1225316081/RIDER-122531608120190402RETEST_7.973188/ct.nii.gz",
+      "label": "./RIDER-1225316081/RIDER-122531608120190402RETEST_7.973188/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1225316081/TEST_14221305/ct.nii.gz",
+      "label": "./RIDER-1225316081/TEST_14221305/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1225316081/TEST_14221305/ct.nii.gz",
+      "label": "./RIDER-1225316081/TEST_14221305/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1286684383/RETEST_14221200/ct.nii.gz",
+      "label": "./RIDER-1286684383/RETEST_14221200/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1286684383/RETEST_14221200/ct.nii.gz",
+      "label": "./RIDER-1286684383/RETEST_14221200/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1286684383/RIDER-128668438320190220TEST_7.472678/ct.nii.gz",
+      "label": "./RIDER-1286684383/RIDER-128668438320190220TEST_7.472678/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1286684383/RIDER-128668438320190220TEST_7.472678/ct.nii.gz",
+      "label": "./RIDER-1286684383/RIDER-128668438320190220TEST_7.472678/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1286684383/RIDER-128668438320190402RETEST_3.471316/ct.nii.gz",
+      "label": "./RIDER-1286684383/RIDER-128668438320190402RETEST_3.471316/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1286684383/RIDER-128668438320190402RETEST_3.471316/ct.nii.gz",
+      "label": "./RIDER-1286684383/RIDER-128668438320190402RETEST_3.471316/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1286684383/TEST_14221115/ct.nii.gz",
+      "label": "./RIDER-1286684383/TEST_14221115/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1286684383/TEST_14221115/ct.nii.gz",
+      "label": "./RIDER-1286684383/TEST_14221115/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1332496276/RETEST_14221017/ct.nii.gz",
+      "label": "./RIDER-1332496276/RETEST_14221017/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1332496276/RETEST_14221017/ct.nii.gz",
+      "label": "./RIDER-1332496276/RETEST_14221017/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1332496276/RIDER-133249627620190220TEST_0.109841/ct.nii.gz",
+      "label": "./RIDER-1332496276/RIDER-133249627620190220TEST_0.109841/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1332496276/RIDER-133249627620190220TEST_0.109841/ct.nii.gz",
+      "label": "./RIDER-1332496276/RIDER-133249627620190220TEST_0.109841/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1332496276/RIDER-133249627620190402RETEST_8.919088/ct.nii.gz",
+      "label": "./RIDER-1332496276/RIDER-133249627620190402RETEST_8.919088/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1332496276/RIDER-133249627620190402RETEST_8.919088/ct.nii.gz",
+      "label": "./RIDER-1332496276/RIDER-133249627620190402RETEST_8.919088/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1332496276/TEST_14220943/ct.nii.gz",
+      "label": "./RIDER-1332496276/TEST_14220943/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1332496276/TEST_14220943/ct.nii.gz",
+      "label": "./RIDER-1332496276/TEST_14220943/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1344011628/RETEST_14220744/ct.nii.gz",
+      "label": "./RIDER-1344011628/RETEST_14220744/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1344011628/RETEST_14220744/ct.nii.gz",
+      "label": "./RIDER-1344011628/RETEST_14220744/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1344011628/RIDER-134401162820190220RETEST_2.971275/ct.nii.gz",
+      "label": "./RIDER-1344011628/RIDER-134401162820190220RETEST_2.971275/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1344011628/RIDER-134401162820190220RETEST_2.971275/ct.nii.gz",
+      "label": "./RIDER-1344011628/RIDER-134401162820190220RETEST_2.971275/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1344011628/RIDER-134401162820190220TEST_5.429266/ct.nii.gz",
+      "label": "./RIDER-1344011628/RIDER-134401162820190220TEST_5.429266/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1344011628/RIDER-134401162820190220TEST_5.429266/ct.nii.gz",
+      "label": "./RIDER-1344011628/RIDER-134401162820190220TEST_5.429266/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1344011628/TEST_14220657/ct.nii.gz",
+      "label": "./RIDER-1344011628/TEST_14220657/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1344011628/TEST_14220657/ct.nii.gz",
+      "label": "./RIDER-1344011628/TEST_14220657/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1346917136/RETEST_14220558/ct.nii.gz",
+      "label": "./RIDER-1346917136/RETEST_14220558/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1346917136/RETEST_14220558/ct.nii.gz",
+      "label": "./RIDER-1346917136/RETEST_14220558/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1346917136/RIDER-134691713620190220TEST_5.805873/ct.nii.gz",
+      "label": "./RIDER-1346917136/RIDER-134691713620190220TEST_5.805873/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1346917136/RIDER-134691713620190220TEST_5.805873/ct.nii.gz",
+      "label": "./RIDER-1346917136/RIDER-134691713620190220TEST_5.805873/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1346917136/RIDER-134691713620190402RETEST_2.214723/ct.nii.gz",
+      "label": "./RIDER-1346917136/RIDER-134691713620190402RETEST_2.214723/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1346917136/RIDER-134691713620190402RETEST_2.214723/ct.nii.gz",
+      "label": "./RIDER-1346917136/RIDER-134691713620190402RETEST_2.214723/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1346917136/TEST_14220509/ct.nii.gz",
+      "label": "./RIDER-1346917136/TEST_14220509/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1346917136/TEST_14220509/ct.nii.gz",
+      "label": "./RIDER-1346917136/TEST_14220509/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1500037140/RETEST_14220340/ct.nii.gz",
+      "label": "./RIDER-1500037140/RETEST_14220340/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1500037140/RETEST_14220340/ct.nii.gz",
+      "label": "./RIDER-1500037140/RETEST_14220340/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1500037140/RIDER-150003714020190220RETEST_04.94647/ct.nii.gz",
+      "label": "./RIDER-1500037140/RIDER-150003714020190220RETEST_04.94647/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1500037140/RIDER-150003714020190220RETEST_04.94647/ct.nii.gz",
+      "label": "./RIDER-1500037140/RIDER-150003714020190220RETEST_04.94647/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1500037140/RIDER-150003714020190220TEST_4.285935/ct.nii.gz",
+      "label": "./RIDER-1500037140/RIDER-150003714020190220TEST_4.285935/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1500037140/RIDER-150003714020190220TEST_4.285935/ct.nii.gz",
+      "label": "./RIDER-1500037140/RIDER-150003714020190220TEST_4.285935/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1500037140/TEST_14220217/ct.nii.gz",
+      "label": "./RIDER-1500037140/TEST_14220217/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1500037140/TEST_14220217/ct.nii.gz",
+      "label": "./RIDER-1500037140/TEST_14220217/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1532432635/RETEST_14220121/ct.nii.gz",
+      "label": "./RIDER-1532432635/RETEST_14220121/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1532432635/RETEST_14220121/ct.nii.gz",
+      "label": "./RIDER-1532432635/RETEST_14220121/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1532432635/RIDER-153243263520190220TEST_4.833742/ct.nii.gz",
+      "label": "./RIDER-1532432635/RIDER-153243263520190220TEST_4.833742/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1532432635/RIDER-153243263520190220TEST_4.833742/ct.nii.gz",
+      "label": "./RIDER-1532432635/RIDER-153243263520190220TEST_4.833742/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1532432635/RIDER-153243263520190402RETEST_7.560675/ct.nii.gz",
+      "label": "./RIDER-1532432635/RIDER-153243263520190402RETEST_7.560675/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1532432635/RIDER-153243263520190402RETEST_7.560675/ct.nii.gz",
+      "label": "./RIDER-1532432635/RIDER-153243263520190402RETEST_7.560675/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1532432635/TEST_14220030/ct.nii.gz",
+      "label": "./RIDER-1532432635/TEST_14220030/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1532432635/TEST_14220030/ct.nii.gz",
+      "label": "./RIDER-1532432635/TEST_14220030/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1760553574/RETEST_14215933/ct.nii.gz",
+      "label": "./RIDER-1760553574/RETEST_14215933/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1760553574/RETEST_14215933/ct.nii.gz",
+      "label": "./RIDER-1760553574/RETEST_14215933/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1760553574/RIDER-176055357420190220TEST_3.511219/ct.nii.gz",
+      "label": "./RIDER-1760553574/RIDER-176055357420190220TEST_3.511219/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1760553574/RIDER-176055357420190220TEST_3.511219/ct.nii.gz",
+      "label": "./RIDER-1760553574/RIDER-176055357420190220TEST_3.511219/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1760553574/RIDER-176055357420190402RETEST_0.400783/ct.nii.gz",
+      "label": "./RIDER-1760553574/RIDER-176055357420190402RETEST_0.400783/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1760553574/RIDER-176055357420190402RETEST_0.400783/ct.nii.gz",
+      "label": "./RIDER-1760553574/RIDER-176055357420190402RETEST_0.400783/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1760553574/TEST_14215852/ct.nii.gz",
+      "label": "./RIDER-1760553574/TEST_14215852/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1760553574/TEST_14215852/ct.nii.gz",
+      "label": "./RIDER-1760553574/TEST_14215852/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1801720707/RETEST_14215800/ct.nii.gz",
+      "label": "./RIDER-1801720707/RETEST_14215800/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1801720707/RETEST_14215800/ct.nii.gz",
+      "label": "./RIDER-1801720707/RETEST_14215800/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1801720707/RIDER-180172070720190220TEST_2.493501/ct.nii.gz",
+      "label": "./RIDER-1801720707/RIDER-180172070720190220TEST_2.493501/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1801720707/RIDER-180172070720190220TEST_2.493501/ct.nii.gz",
+      "label": "./RIDER-1801720707/RIDER-180172070720190220TEST_2.493501/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1801720707/RIDER-180172070720190402RETEST_5.927371/ct.nii.gz",
+      "label": "./RIDER-1801720707/RIDER-180172070720190402RETEST_5.927371/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1801720707/RIDER-180172070720190402RETEST_5.927371/ct.nii.gz",
+      "label": "./RIDER-1801720707/RIDER-180172070720190402RETEST_5.927371/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1801720707/TEST_14215730/ct.nii.gz",
+      "label": "./RIDER-1801720707/TEST_14215730/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1801720707/TEST_14215730/ct.nii.gz",
+      "label": "./RIDER-1801720707/TEST_14215730/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1825099523/RETEST_14215643/ct.nii.gz",
+      "label": "./RIDER-1825099523/RETEST_14215643/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1825099523/RETEST_14215643/ct.nii.gz",
+      "label": "./RIDER-1825099523/RETEST_14215643/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1825099523/RIDER-182509952320190220TEST_5.783866/ct.nii.gz",
+      "label": "./RIDER-1825099523/RIDER-182509952320190220TEST_5.783866/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1825099523/RIDER-182509952320190220TEST_5.783866/ct.nii.gz",
+      "label": "./RIDER-1825099523/RIDER-182509952320190220TEST_5.783866/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1825099523/RIDER-182509952320190402RETEST_2.252553/ct.nii.gz",
+      "label": "./RIDER-1825099523/RIDER-182509952320190402RETEST_2.252553/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1825099523/RIDER-182509952320190402RETEST_2.252553/ct.nii.gz",
+      "label": "./RIDER-1825099523/RIDER-182509952320190402RETEST_2.252553/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1825099523/TEST_14215610/ct.nii.gz",
+      "label": "./RIDER-1825099523/TEST_14215610/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1825099523/TEST_14215610/ct.nii.gz",
+      "label": "./RIDER-1825099523/TEST_14215610/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1867199702/RETEST_14215515/ct.nii.gz",
+      "label": "./RIDER-1867199702/RETEST_14215515/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1867199702/RETEST_14215515/ct.nii.gz",
+      "label": "./RIDER-1867199702/RETEST_14215515/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-1867199702/RIDER-186719970220190220RETEST_7.867545/ct.nii.gz",
+      "label": "./RIDER-1867199702/RIDER-186719970220190220RETEST_7.867545/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1867199702/RIDER-186719970220190220RETEST_7.867545/ct.nii.gz",
+      "label": "./RIDER-1867199702/RIDER-186719970220190220RETEST_7.867545/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1867199702/RIDER-186719970220190220TEST_2.390085/ct.nii.gz",
+      "label": "./RIDER-1867199702/RIDER-186719970220190220TEST_2.390085/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-1867199702/RIDER-186719970220190220TEST_2.390085/ct.nii.gz",
+      "label": "./RIDER-1867199702/RIDER-186719970220190220TEST_2.390085/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-1867199702/TEST_14215442/ct.nii.gz",
+      "label": "./RIDER-1867199702/TEST_14215442/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-1867199702/TEST_14215442/ct.nii.gz",
+      "label": "./RIDER-1867199702/TEST_14215442/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2016615262/RETEST_14215355/ct.nii.gz",
+      "label": "./RIDER-2016615262/RETEST_14215355/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2016615262/RIDER-201661526220190220TEST_7.296719/ct.nii.gz",
+      "label": "./RIDER-2016615262/RIDER-201661526220190220TEST_7.296719/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2016615262/RIDER-201661526220190220TEST_7.296719/ct.nii.gz",
+      "label": "./RIDER-2016615262/RIDER-201661526220190220TEST_7.296719/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2016615262/RIDER-201661526220190402RETEST_3.850552/ct.nii.gz",
+      "label": "./RIDER-2016615262/RIDER-201661526220190402RETEST_3.850552/mask_seg_seg.nii.gz"
+    },
+    {
+      "image": "./RIDER-2016615262/TEST_14215321/ct.nii.gz",
+      "label": "./RIDER-2016615262/TEST_14215321/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2016615262/TEST_14215321/ct.nii.gz",
+      "label": "./RIDER-2016615262/TEST_14215321/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2073083717/RETEST_14215228/ct.nii.gz",
+      "label": "./RIDER-2073083717/RETEST_14215228/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2073083717/RETEST_14215228/ct.nii.gz",
+      "label": "./RIDER-2073083717/RETEST_14215228/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2073083717/RIDER-207308371720190220RETEST_5.560572/ct.nii.gz",
+      "label": "./RIDER-2073083717/RIDER-207308371720190220RETEST_5.560572/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2073083717/RIDER-207308371720190220RETEST_5.560572/ct.nii.gz",
+      "label": "./RIDER-2073083717/RIDER-207308371720190220RETEST_5.560572/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2073083717/RIDER-207308371720190220TEST_0.541699/ct.nii.gz",
+      "label": "./RIDER-2073083717/RIDER-207308371720190220TEST_0.541699/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2073083717/RIDER-207308371720190220TEST_0.541699/ct.nii.gz",
+      "label": "./RIDER-2073083717/RIDER-207308371720190220TEST_0.541699/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2073083717/TEST_14215159/ct.nii.gz",
+      "label": "./RIDER-2073083717/TEST_14215159/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2073083717/TEST_14215159/ct.nii.gz",
+      "label": "./RIDER-2073083717/TEST_14215159/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2151469008/RETEST_14215104/ct.nii.gz",
+      "label": "./RIDER-2151469008/RETEST_14215104/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2151469008/RETEST_14215104/ct.nii.gz",
+      "label": "./RIDER-2151469008/RETEST_14215104/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2151469008/RIDER-215146900820190220TEST_3.229719/ct.nii.gz",
+      "label": "./RIDER-2151469008/RIDER-215146900820190220TEST_3.229719/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2151469008/RIDER-215146900820190220TEST_3.229719/ct.nii.gz",
+      "label": "./RIDER-2151469008/RIDER-215146900820190220TEST_3.229719/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2151469008/RIDER-215146900820190402RETEST_3.669661/ct.nii.gz",
+      "label": "./RIDER-2151469008/RIDER-215146900820190402RETEST_3.669661/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2151469008/RIDER-215146900820190402RETEST_3.669661/ct.nii.gz",
+      "label": "./RIDER-2151469008/RIDER-215146900820190402RETEST_3.669661/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2151469008/TEST_14215032/ct.nii.gz",
+      "label": "./RIDER-2151469008/TEST_14215032/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2151469008/TEST_14215032/ct.nii.gz",
+      "label": "./RIDER-2151469008/TEST_14215032/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2283289298/RETEST_14214938/ct.nii.gz",
+      "label": "./RIDER-2283289298/RETEST_14214938/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2283289298/RETEST_14214938/ct.nii.gz",
+      "label": "./RIDER-2283289298/RETEST_14214938/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2283289298/RIDER-228328929820190220RETEST_2.679599/ct.nii.gz",
+      "label": "./RIDER-2283289298/RIDER-228328929820190220RETEST_2.679599/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2283289298/RIDER-228328929820190220RETEST_2.679599/ct.nii.gz",
+      "label": "./RIDER-2283289298/RIDER-228328929820190220RETEST_2.679599/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2357766186/RETEST_14214840/ct.nii.gz",
+      "label": "./RIDER-2357766186/RETEST_14214840/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2357766186/RETEST_14214840/ct.nii.gz",
+      "label": "./RIDER-2357766186/RETEST_14214840/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2357766186/RIDER-235776618620190220TEST_2.237181/ct.nii.gz",
+      "label": "./RIDER-2357766186/RIDER-235776618620190220TEST_2.237181/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2357766186/RIDER-235776618620190220TEST_2.237181/ct.nii.gz",
+      "label": "./RIDER-2357766186/RIDER-235776618620190220TEST_2.237181/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2357766186/RIDER-235776618620190402RETEST_4.942943/ct.nii.gz",
+      "label": "./RIDER-2357766186/RIDER-235776618620190402RETEST_4.942943/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2357766186/RIDER-235776618620190402RETEST_4.942943/ct.nii.gz",
+      "label": "./RIDER-2357766186/RIDER-235776618620190402RETEST_4.942943/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2357766186/TEST_14214759/ct.nii.gz",
+      "label": "./RIDER-2357766186/TEST_14214759/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2357766186/TEST_14214759/ct.nii.gz",
+      "label": "./RIDER-2357766186/TEST_14214759/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2539508879/RETEST_14214653/ct.nii.gz",
+      "label": "./RIDER-2539508879/RETEST_14214653/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2539508879/RETEST_14214653/ct.nii.gz",
+      "label": "./RIDER-2539508879/RETEST_14214653/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2539508879/RIDER-253950887920190220RETEST_7.820136/ct.nii.gz",
+      "label": "./RIDER-2539508879/RIDER-253950887920190220RETEST_7.820136/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2539508879/RIDER-253950887920190220RETEST_7.820136/ct.nii.gz",
+      "label": "./RIDER-2539508879/RIDER-253950887920190220RETEST_7.820136/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2539508879/RIDER-253950887920190220TEST_4.125440/ct.nii.gz",
+      "label": "./RIDER-2539508879/RIDER-253950887920190220TEST_4.125440/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2539508879/RIDER-253950887920190220TEST_4.125440/ct.nii.gz",
+      "label": "./RIDER-2539508879/RIDER-253950887920190220TEST_4.125440/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2539508879/TEST_14214617/ct.nii.gz",
+      "label": "./RIDER-2539508879/TEST_14214617/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2539508879/TEST_14214617/ct.nii.gz",
+      "label": "./RIDER-2539508879/TEST_14214617/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2541949645/RETEST_14214522/ct.nii.gz",
+      "label": "./RIDER-2541949645/RETEST_14214522/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2541949645/RETEST_14214522/ct.nii.gz",
+      "label": "./RIDER-2541949645/RETEST_14214522/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2541949645/RIDER-254194964520190220TEST_2.112310/ct.nii.gz",
+      "label": "./RIDER-2541949645/RIDER-254194964520190220TEST_2.112310/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2541949645/RIDER-254194964520190220TEST_2.112310/ct.nii.gz",
+      "label": "./RIDER-2541949645/RIDER-254194964520190220TEST_2.112310/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2541949645/RIDER-254194964520190402RETEST_6.111330/ct.nii.gz",
+      "label": "./RIDER-2541949645/RIDER-254194964520190402RETEST_6.111330/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2541949645/RIDER-254194964520190402RETEST_6.111330/ct.nii.gz",
+      "label": "./RIDER-2541949645/RIDER-254194964520190402RETEST_6.111330/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2541949645/TEST_14214435/ct.nii.gz",
+      "label": "./RIDER-2541949645/TEST_14214435/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2541949645/TEST_14214435/ct.nii.gz",
+      "label": "./RIDER-2541949645/TEST_14214435/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2655999012/RETEST_14214138/ct.nii.gz",
+      "label": "./RIDER-2655999012/RETEST_14214138/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2655999012/RETEST_14214138/ct.nii.gz",
+      "label": "./RIDER-2655999012/RETEST_14214138/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2655999012/RIDER-265599901220190220TEST_4.486584/ct.nii.gz",
+      "label": "./RIDER-2655999012/RIDER-265599901220190220TEST_4.486584/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2655999012/RIDER-265599901220190220TEST_4.486584/ct.nii.gz",
+      "label": "./RIDER-2655999012/RIDER-265599901220190220TEST_4.486584/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2655999012/RIDER-265599901220190402RETEST_9.273338/ct.nii.gz",
+      "label": "./RIDER-2655999012/RIDER-265599901220190402RETEST_9.273338/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2655999012/RIDER-265599901220190402RETEST_9.273338/ct.nii.gz",
+      "label": "./RIDER-2655999012/RIDER-265599901220190402RETEST_9.273338/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2655999012/TEST_14214056/ct.nii.gz",
+      "label": "./RIDER-2655999012/TEST_14214056/mask_rtstruct_roi01_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2655999012/TEST_14214056/ct.nii.gz",
+      "label": "./RIDER-2655999012/TEST_14214056/mask_rtstruct_roi02_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2669524182/RETEST_14213958/ct.nii.gz",
+      "label": "./RIDER-2669524182/RETEST_14213958/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2669524182/RETEST_14213958/ct.nii.gz",
+      "label": "./RIDER-2669524182/RETEST_14213958/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2669524182/RIDER-266952418220190220RETEST_7.156486/ct.nii.gz",
+      "label": "./RIDER-2669524182/RIDER-266952418220190220RETEST_7.156486/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2669524182/RIDER-266952418220190220RETEST_7.156486/ct.nii.gz",
+      "label": "./RIDER-2669524182/RIDER-266952418220190220RETEST_7.156486/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2669524182/RIDER-266952418220190220TEST_6.288515/ct.nii.gz",
+      "label": "./RIDER-2669524182/RIDER-266952418220190220TEST_6.288515/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2669524182/RIDER-266952418220190220TEST_6.288515/ct.nii.gz",
+      "label": "./RIDER-2669524182/RIDER-266952418220190220TEST_6.288515/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2669524182/TEST_14213920/ct.nii.gz",
+      "label": "./RIDER-2669524182/TEST_14213920/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2669524182/TEST_14213920/ct.nii.gz",
+      "label": "./RIDER-2669524182/TEST_14213920/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2799584460/RETEST_14213820/ct.nii.gz",
+      "label": "./RIDER-2799584460/RETEST_14213820/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2799584460/RETEST_14213820/ct.nii.gz",
+      "label": "./RIDER-2799584460/RETEST_14213820/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-2799584460/RIDER-279958446020190220TEST_5.562011/ct.nii.gz",
+      "label": "./RIDER-2799584460/RIDER-279958446020190220TEST_5.562011/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2799584460/RIDER-279958446020190220TEST_5.562011/ct.nii.gz",
+      "label": "./RIDER-2799584460/RIDER-279958446020190220TEST_5.562011/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2799584460/RIDER-279958446020190402RETEST_5.400512/ct.nii.gz",
+      "label": "./RIDER-2799584460/RIDER-279958446020190402RETEST_5.400512/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-2799584460/RIDER-279958446020190402RETEST_5.400512/ct.nii.gz",
+      "label": "./RIDER-2799584460/RIDER-279958446020190402RETEST_5.400512/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-2799584460/TEST_14213747/ct.nii.gz",
+      "label": "./RIDER-2799584460/TEST_14213747/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-2799584460/TEST_14213747/ct.nii.gz",
+      "label": "./RIDER-2799584460/TEST_14213747/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-3023568408/RETEST_14213646/ct.nii.gz",
+      "label": "./RIDER-3023568408/RETEST_14213646/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-3023568408/RETEST_14213646/ct.nii.gz",
+      "label": "./RIDER-3023568408/RETEST_14213646/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-3023568408/RIDER-302356840820190220TEST_3.444952/ct.nii.gz",
+      "label": "./RIDER-3023568408/RIDER-302356840820190220TEST_3.444952/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-3023568408/RIDER-302356840820190220TEST_3.444952/ct.nii.gz",
+      "label": "./RIDER-3023568408/RIDER-302356840820190220TEST_3.444952/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-3023568408/RIDER-302356840820190402RETEST_2.122464/ct.nii.gz",
+      "label": "./RIDER-3023568408/RIDER-302356840820190402RETEST_2.122464/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-3023568408/RIDER-302356840820190402RETEST_2.122464/ct.nii.gz",
+      "label": "./RIDER-3023568408/RIDER-302356840820190402RETEST_2.122464/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-3023568408/TEST_14213613/ct.nii.gz",
+      "label": "./RIDER-3023568408/TEST_14213613/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-3023568408/TEST_14213613/ct.nii.gz",
+      "label": "./RIDER-3023568408/TEST_14213613/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-3115188676/RETEST_14213508/ct.nii.gz",
+      "label": "./RIDER-3115188676/RETEST_14213508/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-3115188676/RETEST_14213508/ct.nii.gz",
+      "label": "./RIDER-3115188676/RETEST_14213508/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-3115188676/RIDER-311518867620190220RETEST_2.753472/ct.nii.gz",
+      "label": "./RIDER-3115188676/RIDER-311518867620190220RETEST_2.753472/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-3115188676/RIDER-311518867620190220RETEST_2.753472/ct.nii.gz",
+      "label": "./RIDER-3115188676/RIDER-311518867620190220RETEST_2.753472/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-3115188676/RIDER-311518867620190220TEST_7.354881/ct.nii.gz",
+      "label": "./RIDER-3115188676/RIDER-311518867620190220TEST_7.354881/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-3115188676/RIDER-311518867620190220TEST_7.354881/ct.nii.gz",
+      "label": "./RIDER-3115188676/RIDER-311518867620190220TEST_7.354881/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-3115188676/TEST_14213427/ct.nii.gz",
+      "label": "./RIDER-3115188676/TEST_14213427/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-3115188676/TEST_14213427/ct.nii.gz",
+      "label": "./RIDER-3115188676/TEST_14213427/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-3152132495/RETEST_14213309/ct.nii.gz",
+      "label": "./RIDER-3152132495/RETEST_14213309/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-3152132495/RETEST_14213309/ct.nii.gz",
+      "label": "./RIDER-3152132495/RETEST_14213309/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-3152132495/RIDER-315213249520190220RETEST_1.437970/ct.nii.gz",
+      "label": "./RIDER-3152132495/RIDER-315213249520190220RETEST_1.437970/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-3152132495/RIDER-315213249520190220RETEST_1.437970/ct.nii.gz",
+      "label": "./RIDER-3152132495/RIDER-315213249520190220RETEST_1.437970/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-3152132495/RIDER-315213249520190220TEST_3.449566/ct.nii.gz",
+      "label": "./RIDER-3152132495/RIDER-315213249520190220TEST_3.449566/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-3152132495/RIDER-315213249520190220TEST_3.449566/ct.nii.gz",
+      "label": "./RIDER-3152132495/RIDER-315213249520190220TEST_3.449566/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-3152132495/TEST_14213212/ct.nii.gz",
+      "label": "./RIDER-3152132495/TEST_14213212/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-3152132495/TEST_14213212/ct.nii.gz",
+      "label": "./RIDER-3152132495/TEST_14213212/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-3160137230/RETEST_14213105/ct.nii.gz",
+      "label": "./RIDER-3160137230/RETEST_14213105/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-3160137230/RETEST_14213105/ct.nii.gz",
+      "label": "./RIDER-3160137230/RETEST_14213105/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-3160137230/RIDER-316013723020190220RETEST_9.990449/ct.nii.gz",
+      "label": "./RIDER-3160137230/RIDER-316013723020190220RETEST_9.990449/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-3160137230/RIDER-316013723020190220RETEST_9.990449/ct.nii.gz",
+      "label": "./RIDER-3160137230/RIDER-316013723020190220RETEST_9.990449/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-3160137230/RIDER-316013723020190220TEST_3.648863/ct.nii.gz",
+      "label": "./RIDER-3160137230/RIDER-316013723020190220TEST_3.648863/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-3160137230/RIDER-316013723020190220TEST_3.648863/ct.nii.gz",
+      "label": "./RIDER-3160137230/RIDER-316013723020190220TEST_3.648863/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-3160137230/TEST_14213011/ct.nii.gz",
+      "label": "./RIDER-3160137230/TEST_14213011/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-3160137230/TEST_14213011/ct.nii.gz",
+      "label": "./RIDER-3160137230/TEST_14213011/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-5195703382/RIDER-519570338220190220TEST_6.857013/ct.nii.gz",
+      "label": "./RIDER-5195703382/RIDER-519570338220190220TEST_6.857013/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-5195703382/RIDER-519570338220190220TEST_6.857013/ct.nii.gz",
+      "label": "./RIDER-5195703382/RIDER-519570338220190220TEST_6.857013/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-5195703382/TEST_14212919/ct.nii.gz",
+      "label": "./RIDER-5195703382/TEST_14212919/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-5195703382/TEST_14212919/ct.nii.gz",
+      "label": "./RIDER-5195703382/TEST_14212919/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-6324870494/RETEST_14212648/ct.nii.gz",
+      "label": "./RIDER-6324870494/RETEST_14212648/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-6324870494/RETEST_14212648/ct.nii.gz",
+      "label": "./RIDER-6324870494/RETEST_14212648/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-6324870494/RIDER-632487049420190220RETEST_8.297024/ct.nii.gz",
+      "label": "./RIDER-6324870494/RIDER-632487049420190220RETEST_8.297024/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-6324870494/RIDER-632487049420190220RETEST_8.297024/ct.nii.gz",
+      "label": "./RIDER-6324870494/RIDER-632487049420190220RETEST_8.297024/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-6324870494/RIDER-632487049420190220TEST_3.346079/ct.nii.gz",
+      "label": "./RIDER-6324870494/RIDER-632487049420190220TEST_3.346079/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-6324870494/RIDER-632487049420190220TEST_3.346079/ct.nii.gz",
+      "label": "./RIDER-6324870494/RIDER-632487049420190220TEST_3.346079/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-6324870494/TEST_14212606/ct.nii.gz",
+      "label": "./RIDER-6324870494/TEST_14212606/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-6324870494/TEST_14212606/ct.nii.gz",
+      "label": "./RIDER-6324870494/TEST_14212606/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-8509201188/RIDER-850920118820190220TEST_6.221187/ct.nii.gz",
+      "label": "./RIDER-8509201188/RIDER-850920118820190220TEST_6.221187/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-8509201188/RIDER-850920118820190220TEST_6.221187/ct.nii.gz",
+      "label": "./RIDER-8509201188/RIDER-850920118820190220TEST_6.221187/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-8509201188/TEST_14212440/ct.nii.gz",
+      "label": "./RIDER-8509201188/TEST_14212440/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-8509201188/TEST_14212440/ct.nii.gz",
+      "label": "./RIDER-8509201188/TEST_14212440/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-9763310455/RETEST_14211543/ct.nii.gz",
+      "label": "./RIDER-9763310455/RETEST_14211543/mask_rtstruct_roi01_GTVp_retest_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-9763310455/RETEST_14211543/ct.nii.gz",
+      "label": "./RIDER-9763310455/RETEST_14211543/mask_rtstruct_roi02_GTVp_retest_auto.nii.gz"
+    },
+    {
+      "image": "./RIDER-9763310455/RIDER-976331045520190220RETEST_4.209653/ct.nii.gz",
+      "label": "./RIDER-9763310455/RIDER-976331045520190220RETEST_4.209653/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-9763310455/RIDER-976331045520190220RETEST_4.209653/ct.nii.gz",
+      "label": "./RIDER-9763310455/RIDER-976331045520190220RETEST_4.209653/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-9763310455/RIDER-976331045520190220TEST_7.916239/ct.nii.gz",
+      "label": "./RIDER-9763310455/RIDER-976331045520190220TEST_7.916239/mask_seg_seg01.nii.gz"
+    },
+    {
+      "image": "./RIDER-9763310455/RIDER-976331045520190220TEST_7.916239/ct.nii.gz",
+      "label": "./RIDER-9763310455/RIDER-976331045520190220TEST_7.916239/mask_seg_seg02.nii.gz"
+    },
+    {
+      "image": "./RIDER-9763310455/TEST_14212236/ct.nii.gz",
+      "label": "./RIDER-9763310455/TEST_14212236/mask_rtstruct_roi01_GTVp_test_man.nii.gz"
+    },
+    {
+      "image": "./RIDER-9763310455/TEST_14212236/ct.nii.gz",
+      "label": "./RIDER-9763310455/TEST_14212236/mask_rtstruct_roi02_GTVp_test_auto.nii.gz"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+    "description": "Lung and COVID-19 infection segmentation masks for 20 COVID-19 cases. The data is preprocessed and aligned to the same space. The data is split into training and testing sets, with 10 cases in each set.",
+    "labels": {
+        "0": "background",
+        "1": "left lung",
+        "2": "right lung"
+    },
+    "license": "CC BY-NC-SA 4.0",
+    "modality": "CT",
+    "name": "COVID-19 CT Segmentation Dataset",
+    "numTest": 20,
+    "tensorImageSize": "3D",
+    "testing": [
+        {
+            "image": "images_preprocessed/coronacases_001.nii.gz",
+            "label": "lung_masks_preprocessed/coronacases_001.nii.gz"
+        },
+        {
+            "image": "images_preprocessed/coronacases_002.nii.gz",
+            "label": "lung_masks_preprocessed/coronacases_002.nii.gz"
+        },
+        {
+            "image": "images_preprocessed/coronacases_003.nii.gz",
+            "label": "lung_masks_preprocessed/coronacases_003.nii.gz"
+        },
+        {
+            "image": "images_preprocessed/coronacases_004.nii.gz",
+            "label": "lung_masks_preprocessed/coronacases_004.nii.gz"
+        },
+        {
+            "image": "images_preprocessed/coronacases_005.nii.gz",
+            "label": "lung_masks_preprocessed/coronacases_005.nii.gz"
+        },
+        {
+            "image": "images_preprocessed/coronacases_006.nii.gz",
+            "label": "lung_masks_preprocessed/coronacases_006.nii.gz"
+        },
+        {
+            "image": "images_preprocessed/coronacases_007.nii.gz",
+            "label": "lung_masks_preprocessed/coronacases_007.nii.gz"
+        },
+        {
+            "image": "images_preprocessed/coronacases_008.nii.gz",
+            "label": "lung_masks_preprocessed/coronacases_008.nii.gz"
+        },
+        {
+            "image": "images_preprocessed/coronacases_009.nii.gz",
+            "label": "lung_masks_preprocessed/coronacases_009.nii.gz"
+        },
+        {
+            "image": "images_preprocessed/coronacases_010.nii.gz",
+            "label": "lung_masks_preprocessed/coronacases_010.nii.gz"
+        }
+    ]
+}

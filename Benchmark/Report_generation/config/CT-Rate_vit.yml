@@ -1,0 +1,10 @@
+_BASE_: CT-Rate.yml
+
+# Visual Extractor
+visual_extractor: vit_base
+d_vf: 768
+
+# d_vf: 1152, 2304, 4608 for base, large, huge respectively
+
+# Output Dir
+save_dir: results

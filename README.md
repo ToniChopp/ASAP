@@ -1,16 +1,18 @@
 # ASAP
 
-This work presents **ASAP**, a principled vision–language pre-training framework for fine-grained medical volumetric representation learning from large-scale chest CT scans and their corresponding radiology reports. Beyond methodological contributions, we establish a comprehensive benchmark for medical volumetric vision–language pre-training on chest CT, covering 15 datasets and 22 downstream tasks spanning abnormality classification, segmentation, disease prognosis prediction, report generation, vocabulary classification, cross-modal retrieval and visual question answering.
+This work presents **ASAP**, a principled vision–language pre-training framework designed for fine-grained medical volumetric representation learning from large-scale chest CT scans and their corresponding radiology reports.
+
+Beyond methodological contributions, we further establish a comprehensive benchmark for medical volumetric vision–language pre-training on chest CT. The benchmark spans 15 datasets and 22 downstream tasks, covering abnormality classification, segmentation, disease prognosis prediction, report generation, vocabulary classification, cross-modal retrieval, and visual question answering.
 
 ![teaser](./assets/teaser.jpg)
 
 ## Quick Start
-- Pre-trained model can be accessed [here](https://drive.google.com/file/d/1_TD1_OV3JGqQYTFE87a42cVC1MJ_AjY-/view?usp=drive_link) with request is needed.
-- [Benchmark](./Benchmark/) includes 22 tasks (abnormality classification, segmentation, disease prognosis prediction, report generation, vocabulary classification, cross-modal retrieval and visual question answering).
-- Datasets:
+- The **pre-trained model** is available at [here](https://drive.google.com/file/d/1_TD1_OV3JGqQYTFE87a42cVC1MJ_AjY-/view?usp=drive_link) (access request may be required).
+- The **[Benchmark](./Benchmark/)** provides implementations of 22 downstream tasks, including abnormality classification, segmentation, disease prognosis prediction, report generation, vocabulary classification, cross-modal retrieval, and visual question answering.
+- **Datasets**:
     - Download [CT-Rate](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE) dataset.
-    - Preprocess the original volumes using [preprocess.py](./preprocess/preprocess.py), modify the ``img_root`` and ``save_folder`` as needed.
-    - Download [AKI_Mask](https://huggingface.co/datasets/ToniChopper99/ASAP_AKI) (Anatomy-aware Knowledge Injection mask) and put it to CT-Rate folder as:
+    - Preprocess raw volumes using [preprocess.py](./preprocess/preprocess.py). Please adjust ``img_root`` and ``save_folder`` accordingly.
+    - Download [AKI_Mask](https://huggingface.co/datasets/ToniChopper99/ASAP_AKI) (Anatomy-aware Knowledge Injection mask) aand place it under the CT-Rate directory as follows:
 ```
 ├── CT-RATE
     ├── mask_preprocessed
@@ -19,7 +21,7 @@ This work presents **ASAP**, a principled vision–language pre-training framewo
 ```
 
 ## Pre-trained Models
-We provide various models for downstream tasks.
+We provide pre-trained model for downstream tasks.
 ### Load pre-trained models
 ```python
 import numpy as np
@@ -142,7 +144,7 @@ pip install torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 --index-url https
 pip install --no-deps -r requirements.txt
 ```
 
-We have released the code for Pre-training in our approach.
+We release the full pre-training pipeline of ASAP for reproducibility.
 - Download the pre-trained weight of [MAE](https://github.com/facebookresearch/mae) and [CXR-BERT](https://huggingface.co/microsoft/BiomedVLP-CXR-BERT-specialized/tree/main).
 - Merge the weights using [merge_checkpoint_asap.py](./Pre-training-ASAP/checkpoints/merge_checkpoint_asap.py).
 
@@ -155,8 +157,12 @@ bash run.sh
 
 ## Benchmark
 ### Download downstream datasets
-Please refer to [Acknowledgement](#Acknowledgment). 
+Please refer to [Acknowledgement](#acknowledgement) section for dataset sources and licensing details.
 
 
 ## Acknowledgement
-**NOTE THAT** we are not the authors of these datasets. Although all these datasets are publicly available for academic research, you need to **cite the original works** as shown in our paper. For certain datasets (e.g., RadChestCT) that necessitate approval from the authors, you need to download it from the original link.
+We emphasize that we are not the original authors of the datasets used in this benchmark. Although all datasets are publicly available for academic research, users are required to **properly cite the corresponding original publications**, as specified in our paper.
+
+For certain datasets (e.g., RadChestCT) that require authorization, access must be obtained directly from the original authors.
+
+We also acknowledge that part of the codebase is adapted from [VOCO](https://github.com/Luffy03/Large-Scale-Medical). Without their contributions, constructing this benchmark would not have been possible.

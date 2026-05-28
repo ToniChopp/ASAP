@@ -415,13 +415,13 @@ class ASAP(nn.Module):
         seg_mask_patches_onehot = F.one_hot(seg_mask_patches.long(), num_classes=self.seg_num_classes)
         seg_mask_label_counts = seg_mask_patches_onehot.sum(dim=2)
         seg_mask_labels = seg_mask_label_counts / seg_mask_label_counts.sum(dim=2, keepdim=True)
-        seg_mask_loss = self.seg_mask_criterion(pred_seg_masks, seg_mask_labels)
+        injection_loss = self.seg_mask_criterion(pred_seg_masks, seg_mask_labels)
 
-        return mim_loss, seg_mask_loss
+        return mim_loss, injection_loss
 
     
 
-    def finding_patch_align(self, latent, report_feature, sentence_mask_f, temperature=0.07):
+    def selective_align(self, latent, report_feature, sentence_mask_f, temperature=0.07):
         image_feature = self.finding_align_img_mlp(latent[:, 1:])
         # image_feature = latent[:, 1:]
         report_feature = report_feature[:, 1:, :]       # remove cls token
@@ -568,11 +568,11 @@ class ASAP(nn.Module):
         finding_feature = self.bert_encoder(ids_f, attention_mask_f, type_ids_f).last_hidden_state
         report_feature = self.bert_encoder(ids, attention_mask, type_ids).last_hidden_state
             
-        align_loss, topk_similarity_patch, topk_img_feature, topk_img_feature_mask = self.finding_patch_align(latent, finding_feature, sentence_mask_f)
+        align_loss, topk_similarity_patch, topk_img_feature, topk_img_feature_mask = self.selective_align(latent, finding_feature, sentence_mask_f)
 
         pred_seg_masks, pred_img = self.image_decoder(latent, ids_restore)  # [N, L, p*p*3]
 
-        mim_loss, seg_mask_loss = self.forward_loss(imgs, pred_img, seg_masks, pred_seg_masks, img_mask)
+        mim_loss, injection_loss = self.forward_loss(imgs, pred_img, seg_masks, pred_seg_masks, img_mask)
 
         mlm_loss = self.forward_report_decoder(
             latent=latent,
@@ -585,7 +585,7 @@ class ASAP(nn.Module):
             topk_img_feature_mask=topk_img_feature_mask,
         )
 
-        return mim_loss, seg_mask_loss, mlm_loss, align_loss
+        return mim_loss, injection_loss, mlm_loss, align_loss
 
 
 def asap(norm_pix_loss=False, mask_ratio=0.75):

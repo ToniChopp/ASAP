@@ -1,4 +1,5 @@
 # export WANDB_MODE=disabled
+$PATH_TO_CTRATE="Your path to the CT-Rate dataset"
 source activate simcrop
 cd /workspace/ASAP/Pre-training-ASAP/
 export OMP_NUM_THREADS=1
@@ -18,7 +19,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 OMP_NUM_THREADS=1 torchrun --nproc_per_node=4 main_
     --warmup_epochs 20 \
     --lr 1.5e-4 --weight_decay 0.05 \
     --data_path ./dataset/ \
-    --dataset_path ../../../CT-Rate \
+    --dataset_path $PATH_TO_CTRATE \
     --resume ./checkpoints/checkpoint_CXRBERT_imagenetMAE.pth \
-    --output_dir ../output_asap_womlp \
+    --output_dir ../output_asap \
     --description "ASAP Pretraining based on the manustript" \

@@ -1,0 +1,201 @@
+Volumename,Disorders
+train_1_a_1.nii.gz,"venous collaterals in the anterior left chest wall, left subclavian vein occlusion, bronchial wall thickening, peribronchial reticulonodular densities, pulmonary infections, atelectasis, thoracic spondylosis"
+train_2_a_1.nii.gz,"emphysema, passive atelectasis, bronchial wall thickening, pulmonary nodule, cholelithiasis, degenerative bone disease"
+train_3_a_1.nii.gz,"coronary atherosclerosis, cardiomegaly, reactive mediastinal lymphadenopathy, bronchiectasis, peribronchial thickening, pulmonary fibrosis"
+train_3_b_1.nii.gz,"chronic renal failure, bilateral pleural effusion, interlobular septal thickening, centriacinar nodules, pulmonary edema, lung consolidation, pneumonic infiltration, pulmonary nodules, lymphadenopathy, atherosclerosis, hiatal hernia"
+train_4_a_1.nii.gz,"sequelae changes in right upper lobe, sequelae changes in left upper lobe apicoposterior segment, nonspecific parenchymal nodules, osteopenia of thoracolumbar vertebrae"
+train_5_a_1.nii.gz,"sequela parenchymal changes, nonspecific nodules, calcified atheroma plaques"
+train_6_a_1.nii.gz,no findings
+train_6_b_1.nii.gz,"viral pneumonia, interlobular septal thickening, subsegmental atelectasis, calcific parenchymal metastases, thyroid nodules, aortic dilatation, hepatic cyst"
+train_7_a_1.nii.gz,"sequelae changes in the right lung, calcified nonspecific parenchymal nodules in both lungs, hepatomegaly"
+train_8_a_1.nii.gz,"pleural effusion, compression atelectasis, nonspecific lung nodules, cardiomegaly, pericardial effusion"
+train_8_b_1.nii.gz,"regressed bilateral pulmonary consolidation, bilateral lung nodules"
+train_9_a_1.nii.gz,pulmonary calcific nodules
+train_10_a_1.nii.gz,"covid pneumonia, aortic atherosclerosis, coronary artery atherosclerosis, liver cyst"
+train_11_a_1.nii.gz,covid-19 pneumonia
+train_12_a_1.nii.gz,"atherosclerosis, pulmonary emphysema, atelectasis"
+train_13_a_1.nii.gz,hepatosteatosis
+train_14_a_1.nii.gz,"hiatal hernia, mild scoliosis"
+train_15_a_1.nii.gz,"ground-glass opacity, peribronchial disease, focal pleural thickening, possible early viral pneumonia, accessory spleen"
+train_16_a_1.nii.gz,"postoperative changes from right mastectomy and axillary curettage, pathological lymph nodes adjacent to bilateral supraclavicular, aortopulmonary, and left subclavian arteries, mediastinal lymph nodes not reaching pathological dimensions, increased pleural effusion in the right hemithorax, pleural thickening in the left posterior costal pleura, ground glass consolidations with crazy paving patterns suggestive of radiation pneumonia or covid-19 pneumonia, pulmonary nodules in both lungs, possible metastatic lesions in both lobes of the liver, metastasis in the sternum corpus"
+train_16_b_1.nii.gz,"metastatic breast cancer, covid pneumonia, lymph node metastases, hilar mass lesions, bronchial stenosis, liver metastases, bilateral mild pleural effusion"
+train_17_a_1.nii.gz,"covid-19 viral pneumonia, hepatosteatosis"
+train_18_a_1.nii.gz,"pulmonary nodules, mediastinal lymphadenopathy, abdominal lymphadenopathy, osteopenia or osteoporosis, degenerative bone disease"
+train_19_a_1.nii.gz,"parenchymal distortion, linear atelectasis, kidney parenchyma thinning, kidney collecting system dilatation"
+train_20_a_1.nii.gz,viral pneumonia
+train_21_a_1.nii.gz,"cardiomegaly, atherosclerosis, pericardial effusion, bronchial wall thickening, pulmonary nodule, adrenal adenoma"
+train_22_a_1.nii.gz,"consolidated mass lesion in the right lower lobe, possible infectious process, potential neoplasm (carcinoma)"
+train_23_a_1.nii.gz,"foreign body in the left lung, foreign body in the left pectoral muscles, emphysema, adenoma in the left adrenal gland, cortical irregularities in the right 4th rib, medullary bone structure heterogeneity, sclerotic lesion in the left 4th rib"
+train_24_a_1.nii.gz,"diffuse emphysema, coronary artery disease due to calcified atherosclerotic plaques in the left anterior descending (lad) artery, atherosclerosis of the abdominal and thoracic aorta, atelectasis, volume loss in the right lung, nodular mass with traction bronchiectasis in the right lung - possibly post-inflammatory changes or scarring"
+train_25_a_1.nii.gz,nonspecific pulmonary nodule
+train_26_a_1.nii.gz,"left pleural effusion, subsegmental atelectasis, nonspecific pulmonary nodule"
+train_27_a_1.nii.gz,"fusiform aneurysm of the ascending aorta, covid-19 pneumonia, status post right hepatic lobectomy, status post cholecystectomy"
+train_28_a_1.nii.gz,"covid pneumonia, cardiomegaly, aortic valve calcification, calcific plaque in the left anterior descending (lad) artery"
+train_29_a_1.nii.gz,covid-19 pneumonia
+train_29_b_1.nii.gz,viral pneumonia
+train_30_a_1.nii.gz,"covid pneumonia, lobar pneumonia, hepatosteatosis"
+train_31_a_1.nii.gz,"emphysematous changes, subsegmental atelectasis"
+train_32_a_1.nii.gz,"viral pneumonia, linear atelectasis, stable lytic bone lesions"
+train_33_a_1.nii.gz,viral pneumonia
+train_34_a_1.nii.gz,"lymphadenopathy, bronchiectasis, pulmonary emphysema, pulmonary nodules, atherosclerosis"
+train_35_a_1.nii.gz,"common bile duct stone, intrahepatic bile ducts dilatation, common bile duct dilatation, grade 0-1 spondylolisthesis at l4-l5, cholelithiasis"
+train_36_a_1.nii.gz,"cavitary lesions in the right lung lower lobe superior segment, cavitary lesions in the left hilar region, cavitary lesions in the lower lobe superior segment, newly developed pleural-based millimetric nodule in the left lung upper lobe apical segment, lymphadenopathies in the right paratracheal area of the mediastinum, suspected metastases, progressive disease"
+train_36_b_1.nii.gz,"lymphadenopathy, pulmonary masses, pulmonary nodules, ground-glass opacity, possible pneumonia, liver metastasis"
+train_37_a_1.nii.gz,"lung infection, tree-in-bud pattern, centriacinar nodules, atelectasis, mediastinal lymphadenopathy"
+train_37_b_1.nii.gz,"acute myeloid leukemia (aml), budding tree pattern in lungs"
+train_37_c_1.nii.gz,"acute myeloid leukemia, infective pathologies, cholelithiasis, mesenteric and omental fatty plane abnormalities"
+train_38_a_1.nii.gz,no findings
+train_39_a_1.nii.gz,"nonspecific parenchymal nodules, subcutaneous edema-inflammation, subcutaneous emphysema"
+train_39_b_1.nii.gz,"slight cardiomegaly, pulmonary nodule"
+train_39_c_1.nii.gz,"ground-glass densities likely indicative of viral pneumonia, nonspecific millimetric nodules in both lungs"
+train_39_d_1.nii.gz,lymphadenopathy
+train_40_a_1.nii.gz,"pulmonary hypertension, cardiomegaly, pericardial effusion, bilateral pleural effusion, atherosclerosis, atelectasis, mosaic attenuation pattern, biliary sludge, abdominal atherosclerosis, degenerative bone disease"
+train_41_a_1.nii.gz,"postoperative rib fractures, pleuroparachymal sequelae, focal pleural thickening, parenchymal distortion, post-operative lung changes, pulmonary nodule"
+train_42_a_1.nii.gz,"mosaic attenuation pattern, small airway disease, small vessel disease, fibroatelectatic changes, subpleural nodule, foreign body in the lung"
+train_43_a_1.nii.gz,"pericardial effusion, pulmonary nodule, pulmonary sequelae"
+train_44_a_1.nii.gz,"parenchymal damage, pulmonary hemorrhage, pleural effusion, rib fractures, pneumothorax, emphysema"
+train_44_b_1.nii.gz,no findings
+train_45_a_1.nii.gz,"pulmonary artery hypertension, atherosclerosis, esophageal disorder, bilateral pleural effusion, consolidation, pneumonia, pulmonary emphysema"
+train_46_a_1.nii.gz,"nonspecific parenchymal nodules, pleural thickening, periportal edema, osteodegenerative changes"
+train_46_b_1.nii.gz,"pleural effusion, atelectasis, pulmonary nodules"
+train_47_a_1.nii.gz,"enlarged thyroid gland with nodules, thyroid heterogeneity, atherosclerosis, covid-19 pneumonia, pleural-based consolidation, possible autosplenectomy, degenerative bone changes"
+train_48_a_1.nii.gz,"covid-19 infection-related pneumonia, mediastinal lymphadenopathy"
+train_48_b_1.nii.gz,"sequelae of covid-19 pneumonia, mosaic attenuation pattern in lungs, calcific nodule in the left lung, atherosclerosis, minimal pericardial effusion, hiatal hernia"
+train_49_a_1.nii.gz,"thyroid nodule, pulmonary emphysema, tubular bronchiectasis, peribronchial thickening, fibroatelectasis, volume loss in right lung, traction bronchiectasis, hepatosteatosis"
+train_50_a_1.nii.gz,no findings
+train_51_a_1.nii.gz,"pulmonary nodules, lung metastasis, hepatic metastasis"
+train_51_b_1.nii.gz,"subsegmental atelectasis, liver metastases, intraabdominal lymphadenopathies, cholelithiasis"
+train_51_c_1.nii.gz,viral pneumonia
+train_52_a_1.nii.gz,"space-occupying lesions in the right lung, pleural effusion, cardiomegaly, thyroid goiter, thyroid nodule, cortical cyst in the left kidney"
+train_52_b_1.nii.gz,"cardiomegaly, plunging goiter, thyroid nodule, cortical cyst in the left kidney, intra-abdominal free fluid"
+train_53_a_1.nii.gz,"nodular lesion in the right lung, pleuroparenchymal sequelae, thoracic kyphosis, thoracic spondylosis, mixed type diaphragmatic hernia"
+train_53_b_1.nii.gz,"pulmonary nodule, post-inflammatory pulmonary fibrosis, hiatal hernia"
+train_53_c_1.nii.gz,"musk type hiatal hernia, ground glass densities in both lung basal segments, sequelae atelectasis in both lower lobes, semi-solid nodule in the right lung upper lobe"
+train_54_a_1.nii.gz,no findings
+train_55_a_1.nii.gz,"gallbladder stones, gallbladder sludge"
+train_55_b_1.nii.gz,atelectasis
+train_56_a_1.nii.gz,covid-19 pneumonia
+train_57_a_1.nii.gz,"mediastinal lymphadenopathy, supraclavicular lymphadenopathy, abdominal lymphadenopathy, bilateral minimal pleural effusion, bilateral lower lobe atelectasis, liver parenchyma heterogeneity, segment 4b liver lesion"
+train_58_a_1.nii.gz,"pulmonary sequelae, hiatal hernia, cholelithiasis"
+train_59_a_1.nii.gz,pulmonary nodule
+train_60_a_1.nii.gz,"aortic atherosclerosis, nonspecific pulmonary nodule, lytic lesions of the vertebrae, vertebral compression"
+train_60_b_1.nii.gz,"calcific atheroma plaque in the aortic arch, atypical viral pneumonia, fungal infections, lytic bone lesions consistent with multiple myeloma, vertebral compression fracture at t5"
+train_60_c_1.nii.gz,no findings
+train_60_d_1.nii.gz,no findings
+train_60_e_1.nii.gz,no findings
+train_61_a_1.nii.gz,no findings
+train_61_b_1.nii.gz,"metastatic lung disease, ground glass opacities with crazy paving pattern, bilateral stable pleural effusion, bone metastases, malignant compression fracture of t12 vertebra"
+train_61_c_1.nii.gz,"breast cancer, pulmonary metastases, liver metastases, right axillary lymphadenopathy, bone metastases, ground-glass opacities, interlobular septal thickening, pulmonary microcystic areas, bilateral pleural effusion"
+train_61_d_1.nii.gz,no findings
+train_62_a_1.nii.gz,no findings
+train_63_a_1.nii.gz,"peribronchial thickening, bronchiolitis sequelae, emphysema, bulla formation, pulmonary nodules, cholelithiasis, adrenal adenoma, degenerative bone disease, hiatal hernia, atherosclerosis, lymphadenopathy"
+train_64_a_1.nii.gz,"pericardial effusion, infectious pulmonary pathology"
+train_65_a_1.nii.gz,bronchopneumonic infiltration
+train_66_a_1.nii.gz,"emphysema, bronchiectasis, pulmonary nodules, linear atelectasis, mediastinal lymphadenopathy"
+train_67_a_1.nii.gz,"covid-19 pneumonia, influenza pneumonia, organizing pneumonia, drug toxicity, connective tissue disease"
+train_68_a_1.nii.gz,covid pneumonia
+train_69_a_1.nii.gz,"calcified atherosclerotic changes, cardiomegaly, hiatal hernia, nonspecific parenchymal lung nodules, degenerative bone changes"
+train_70_a_1.nii.gz,"pulmonary consolidation in the lower lobe of the right lung, possible bacterial pneumonia, pulmonary emphysema"
+train_71_a_1.nii.gz,no findings
+train_72_a_1.nii.gz,acute respiratory distress syndrome (ards)
+train_73_a_1.nii.gz,no findings
+train_74_a_1.nii.gz,"moderate hepatosteatosis, cardiomegaly, possible renal cyst"
+train_75_a_1.nii.gz,"pneumonia, passive atelectasis of the right middle lobe medial segment, left adrenal gland adenoma"
+train_76_a_1.nii.gz,"infective-inflammatory events, left-facing scoliosis in the thoracic vertebral column"
+train_77_a_1.nii.gz,"bilateral peribronchial thickening, nonspecific parenchymal nodules, mild hepatosteatosis, postoperative changes in the pancreas, expansile bone lesion on the right 5th rib"
+train_78_a_1.nii.gz,"paraseptal emphysema, sequela of parenchymal changes in the upper lobes"
+train_79_a_1.nii.gz,nonspecific lung nodules
+train_79_b_1.nii.gz,no findings
+train_80_a_1.nii.gz,"pulmonary nodules, pulmonary emphysema"
+train_81_a_1.nii.gz,"pulmonary consolidation, air bronchograms, centriacinar nodular opacities, ground glass opacities, cytomegalovirus (cmv) infection"
+train_82_a_1.nii.gz,"mild pulmonary artery dilatation, post-inflammatory pulmonary fibrosis, ground-glass opacities, mosaic attenuation pattern, peribronchial thickening, atelectasis, bilateral pleural effusion, cholelithiasis"
+train_82_b_1.nii.gz,no findings
+train_83_a_1.nii.gz,"mild hiatal hernia, mild hepatosteatosis"
+train_84_a_1.nii.gz,"massive pleural effusion, total loss of aeration in the right lung"
+train_84_b_1.nii.gz,no findings
+train_84_c_1.nii.gz,no findings
+train_84_d_1.nii.gz,no findings
+train_85_a_1.nii.gz,"breast cancer, skin thickening, lymphadenopathies, interlobular septal thickening, lymphangitis carcinomatosa, bone metastases, pleural effusion, pericardial effusion, mediastinal lymphadenopathy, hilar lymphadenopathy, hiatal hernia, nonspecific lung nodules, atelectasis"
+train_86_a_1.nii.gz,"cardiomegaly, bilateral pleural effusion, vascular enhancement in bilateral lungs, free peritoneal fluid, scoliosis"
+train_86_b_1.nii.gz,"resolution of left pleural effusion, pulmonary vascular prominence, small vessel involvement, parenchymal mosaic attenuation pattern, ground glass opacity in the right lung suggestive of possible pneumonia, possible covid pneumonia"
+train_86_c_1.nii.gz,"cardiomegaly, pulmonary arterial dilatation, bilateral subpleural bands, scoliosis"
+train_87_a_1.nii.gz,no findings
+train_88_a_1.nii.gz,"bronchiectasis, pleuroparenchymal sequelae, nephrolithiasis"
+train_89_a_1.nii.gz,"thoracic scoliosis, calcific nodule in the right lung"
+train_90_a_1.nii.gz,"tree bud images, bronchiectasis, lung effusion, lymphadenopathy, lytic bone lesions, possible multiple myeloma"
+train_90_b_1.nii.gz,"pulmonary infectious process, pulmonary sequela, bilateral pleural effusion, mediastinal lymphadenopathy, multiple myeloma with bone involvement"
+train_91_a_1.nii.gz,"mosaic attenuation pattern, centriacinar emphysema"
+train_92_a_1.nii.gz,"nasopharyngeal carcinoma, lymphadenopathy in the prevascular region, mediastinal and hilar lymphadenopathy, pericardial fat pad abnormality, liver metastases, bilateral pleural effusion, sclerotic bone lesions, atelectasis in the lower lobe of the right lung, peribronchial thickening in the right lung, pulmonary consolidation in the central section of the right lung"
+train_93_a_1.nii.gz,"bronchovascular structure clarification, pulmonary fibrosis, nonspecific pulmonary nodules, diffuse degenerative changes in the vertebrae"
+train_93_b_1.nii.gz,"osteopenia or osteoporosis, hypertrophic osteophytes, possible fungal infection in the left lung"
+train_93_c_1.nii.gz,no findings
+train_93_d_1.nii.gz,no findings
+train_93_e_1.nii.gz,no findings
+train_94_a_1.nii.gz,"coronary atherosclerosis, ectasia of the ascending aorta, ground glass opacities in lungs, possible covid pneumonia, history of cholecystectomy"
+train_95_a_1.nii.gz,hepatomegaly
+train_96_a_1.nii.gz,"covid pneumonia, mediastinal lymphadenopathy, hepatosteatosis"
+train_97_a_1.nii.gz,no findings
+train_98_a_1.nii.gz,"atypical ground-glass opacities in the lungs, possible prosthesis rupture in the right breast, mild hiatal hernia"
+train_99_a_1.nii.gz,"cardiomegaly, pericardial effusion, pulmonary hypertension, atherosclerosis, atelectasis, ground glass opacities, liver lobe macrolobulation, ascites, polycystic kidney disease, hemorrhagic renal cysts, thyroid calcification, vertebral sclerosis, vertebral lytic lesions"
+train_100_a_1.nii.gz,"right pleural effusion, compressive atelectasis, lung consolidation, pneumonic infiltration, pulmonary nodules"
+train_101_a_1.nii.gz,"atherosclerotic wall calcifications, coronary artery disease, hiatal hernia, covid-19 pneumonia, diaphragmatic elevation, subsegmental atelectasis, bronchiectasis, peribronchial thickening, pleural thickening, liver lesion, adrenal gland thickening, spinal osteophytosis, mild dextroscoliosis"
+train_101_b_1.nii.gz,"covid pneumonia, increased pneumonic infiltrates"
+train_102_a_1.nii.gz,"consolidation of lung parenchyma, ground glass opacities, covid-19 pneumonia"
+train_102_b_1.nii.gz,no findings
+train_102_c_1.nii.gz,no findings
+train_103_a_1.nii.gz,no findings
+train_104_a_1.nii.gz,"diffuse metastatic lesions in both lungs, consolidation-ground glass opacities in both lungs, regression in consolidation area of right lung upper lobe"
+train_105_a_1.nii.gz,"artifact, subpleural hemorrhage, lead material deposition, rib destruction, atelectasis, moderate hepatosteatosis"
+train_105_b_1.nii.gz,"right hydropneumothorax, subtotal atelectasis in right lung, left deviation of mediastinum and heart, postoperative changes in the intercostal space and right anterior chest wall, displaced old fracture in the right 6th rib, hepatomegaly, hepatosteatosis"
+train_106_a_1.nii.gz,atelectasis
+train_107_a_1.nii.gz,"mild ectasia, peribronchial thickening, bronchial structure changes, minimal emphysematous changes"
+train_107_b_1.nii.gz,no findings
+train_107_c_1.nii.gz,"progressive pneumonic infiltration, consolidation, ground-glass opacities"
+train_108_a_1.nii.gz,pulmonary nodules
+train_109_a_1.nii.gz,"foreign body in right lung upper lobe apical segment, foreign body in right lung upper lobe anterior segment, sequela parenchymal changes in the middle lobe, minimal pericardial effusion, hepatosteatosis"
+train_110_a_1.nii.gz,"emphysema, fibrotic changes in the lungs, air cyst in the left lingular segment"
+train_111_a_1.nii.gz,no findings
+train_112_a_1.nii.gz,"advanced hepatosteatosis, nonspecific nodular density in the lung"
+train_113_a_1.nii.gz,"emphysema, pulmonary nodule, atherosclerosis, lymphadenopathy, hepatic contour irregularity"
+train_114_a_1.nii.gz,no findings
+train_115_a_1.nii.gz,"emphysema, pulmonary nodules"
+train_116_a_1.nii.gz,no findings
+train_117_a_1.nii.gz,"hiatal hernia, passive atelectasis, stable millimetric pulmonary nodule"
+train_118_a_1.nii.gz,"hiatal hernia, mosaic attenuation pattern, small airway disease, small vessel disease, linear sequela pleuroparenchymal changes"
+train_119_a_1.nii.gz,"right lung mass, pneumonic infiltration, possible lymphangitic spread, bilateral pulmonary nodules, bilateral pleural effusion, bulla in the right lung, atherosclerosis"
+train_120_a_1.nii.gz,"lung nodules, history of cholecystectomy, colonic diverticulosis"
+train_121_a_1.nii.gz,"ground-glass opacifications, interlobular septal thickening, left pleural effusion, pericardial effusion, possible atypical viral infections"
+train_121_b_1.nii.gz,"atelectasis, pulmonary nodule, emphysema, thyroid nodule"
+train_122_a_1.nii.gz,"lung cancer, mediastinal lymphadenopathy, parenchymal lung nodules"
+train_122_b_1.nii.gz,"stable mass in the upper lobe of the right lung, ground glass densities in the lower lobe of the right lung suggestive of viral pneumonia"
+train_122_c_1.nii.gz,no findings
+train_123_a_1.nii.gz,no findings
+train_124_a_1.nii.gz,"nodular lesions near the heart, chronic liver disease, postsurgical changes in the right lobe of the liver, collateral veins in the abdomen indicating portal hypertension, hepatic lobe hypertrophy (left lobe and caudate lobe), calcified nodule near t11-t12 vertebrae, patchy ground glass opacities in the lungs, interlobular septal thickening, subsegmental atelectasis, bronchiectasis, possible pneumonic infiltration, potential viral pneumonia (covid-19), rib fracture (left 5th rib)"
+train_125_a_1.nii.gz,"bronchiectasis, peribronchial thickening, secretion-mucus plugs, infective pathology in both lungs, ground-glass opacities, interlobular septal thickening, potential viral pneumonia, pulmonary emphysema, occasional atelectasis"
+train_126_a_1.nii.gz,"pulmonary nodule in the right lower lobe, interstitial lung disease, pericardial effusion, air-fluid level in the esophagus, mediastinal lymphadenopathy, hepatic metastases, pelvicalyceal ectasia in the right kidney, ascites, mesenteric edema, degenerative sclerotic changes in bone structures"
+train_127_a_1.nii.gz,pulmonary nodules
+train_128_a_1.nii.gz,"pulmonary consolidation, atherosclerosis, hiatal hernia, cholelithiasis, thoracic spondylosis"
+train_129_a_1.nii.gz,"coronary artery disease, cardiomegaly, aortic valve calcification, mild pleural effusion, chronic thromboembolic pulmonary disease, liver parenchyma disease, left adrenal adenoma"
+train_130_a_1.nii.gz,"centriacinar nodular densities, small airway disease, small vessel disease"
+train_131_a_1.nii.gz,"emphysema, non-specific pulmonary nodules, subcutaneous fat deposition, foreign bodies in muscle planes, foreign body near the 7th rib on the left, post-traumatic cortical irregularities of the scapula, millimetric bone fragments in the left scapula"
+train_132_a_1.nii.gz,"emphysema, central bronchiectasis, linear sequelae, calcific densities, fibrotic densities"
+train_133_a_1.nii.gz,"pulmonary hypertension or heart disease (suggested by enlarged pulmonary artery and cardiomegaly), atherosclerosis (due to wall calcifications), coronary artery disease (cad) (implied by coronary artery calcifications and presence of bypass grafts), status post cardiac surgery (evidenced by sternotomy and bypass grafts), chronic obstructive pulmonary disease (copd) or emphysema (from emphysematous changes), bronchitis (suggested by bronchial wall thickening), pleural disease/scarring (thickening of the pleura and sequela), pleuroparenchymal fibroelastosis (ppfe) or fibroatelectatic changes in the left lung, atelectasis (volume loss in the left lung and compressive atelectasis in the middle lobe of the right lung), degenerative bone disease (such as osteoarthritis, suggested by osteodegenerative changes)"
+train_134_a_1.nii.gz,"pleuroparenchymal fibroatelectasis, nonspecific parenchymal nodules"
+train_135_a_1.nii.gz,"emphysema, air cysts, fusiform enlargement of the ascending aorta, aortic calcification, coronary artery calcification"
+train_136_a_1.nii.gz,no findings
+train_137_a_1.nii.gz,"viral pneumonia, pericardial effusion, right pleural effusion, thyroid nodule with exophytic extension, hiatal hernia"
+train_138_a_1.nii.gz,"covid-19 pneumonia, tubular bronchiectasis, pleuroparenchymal sequelae"
+train_138_b_1.nii.gz,"bronchiectasis, paramediastinal band atelectasis"
+train_139_a_1.nii.gz,"lymphadenopathy, viral pneumonia (suspected early-stage covid-19), atelectasis, hepatosteatosis, hiatal hernia"
+train_139_b_1.nii.gz,"sarcoidosis, mediastinal lymphadenopathy, bilateral hilar lymphadenopathy, pulmonary nodules, ground glass opacities"
+train_140_a_1.nii.gz,"sequelae changes in the left lung lower lobe, intense post-op changes at the breast and pectoral level, air bubbles, presence of catheter"
+train_140_b_1.nii.gz,"post-mastectomy changes with prosthesis, breast skin thickening, increased density in subcutaneous fat tissues, minimal sequela of fibrotic changes in the right lung upper and middle lobes"
+train_141_a_1.nii.gz,"covid-19 viral pneumonia, bilateral cortical cysts, small lymph nodes in the mediastinum, atherosclerosis"
+train_142_a_1.nii.gz,mild hepatosteatosis
+train_143_a_1.nii.gz,"cardiac stasis, small airway disease, small vessel disease, mediastinal lymphadenopathy, atherosclerosis, bilateral pleural effusion, osteopenia or osteoporosis, degenerative disc disease, thyroid parenchymal disease, hepatic cyst, cholelithiasis"
+train_144_a_1.nii.gz,no findings
+train_145_a_1.nii.gz,"cardiomegaly, atherosclerosis, coronary artery disease, mediastinal lymphadenopathy, interstitial lung disease, emphysema, lung consolidation, infectious lung disease, malignant lung disease, pleural effusion, atelectasis, chronic liver disease, renal cyst"
+train_146_a_1.nii.gz,no findings
+train_147_a_1.nii.gz,"lytic bone lesions, possible bone metastases, post-implant changes in both breasts, nodular skin thickening in both breasts, fibrotic changes in the right lung apex, pleuroparenchymal sequela"
+train_148_a_1.nii.gz,viral pneumonia
+train_149_a_1.nii.gz,"mediastinal lymphadenopathy, pulmonary nodule, pulmonary sequelae, hepatosteatosis, hiatal hernia"

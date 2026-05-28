@@ -1,0 +1,104 @@
+Volumename,Anatomy,Abnormality,Size
+train_3_b_1.nii.gz,pleura/pleura,pleural effusion,50 mm
+train_6_b_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,calcific parenchymal metastases,2 cm
+train_6_b_1.nii.gz,lung/lung,calcific parenchymal metastases,2 cm
+train_6_b_1.nii.gz,thyroid/thyroid/thyroid gland,hypodense nodules,12 mm
+train_6_b_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,13 mm
+train_8_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,pulmonary nodules,5 mm
+train_8_a_1.nii.gz,lung/lung,pulmonary nodules,5 mm
+train_8_b_1.nii.gz,lung/lung,nodule,2 mm
+train_8_b_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,6x4 mm
+train_8_b_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,3 mm
+train_8_b_1.nii.gz,lung/lung/lung lower lobe,nodules,3 mm
+train_8_b_1.nii.gz,pleura/pleura,calcification,6x4 mm
+train_9_a_1.nii.gz,lung/lung,calcific nodules,3 mm
+train_10_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,5 mm calcific nodule,5 mm
+train_12_a_1.nii.gz,heart/heart/heart ascending aorta,above normal,39 mm
+train_15_a_1.nii.gz,abdomen/abdomen/spleen,accessory spleen,12 mm
+train_23_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nonspecific nodule,3 mm
+train_26_a_1.nii.gz,pleura/pleura,pleural effusion,15 mm
+train_27_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,40 mm
+train_34_a_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathy,15 mm
+train_35_a_1.nii.gz,abdomen/abdomen/gallbladder,obstructive stone,6.6 mm
+train_36_a_1.nii.gz,pleura/pleura,pleural-based nodule,7x4 mm
+train_36_b_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,mass,32 mm
+train_36_b_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,cavitary nodule,23 mm
+train_36_b_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,cavitary lesion,23 mm
+train_36_b_1.nii.gz,lung/lung,nodules,6 mm
+train_37_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,centracinar parenchymal nodules,4 mm
+train_37_a_1.nii.gz,lung/lung,centracinar parenchymal nodules,4 mm
+train_40_a_1.nii.gz,heart/heart/heart tissue,pericardial effusion,19 mm
+train_41_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,parenchymal nodule,4 mm
+train_43_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific parenchymal nodules,2.5 mm
+train_46_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nonspecific parenchymal nodules,3.9 mm
+train_46_a_1.nii.gz,lung/lung,nonspecific parenchymal nodules,3.9 mm
+train_47_a_1.nii.gz,pleura/pleura,pleural-based consolidation,16x11 mm
+train_49_a_1.nii.gz,thyroid/thyroid,hypodense nodule,4 mm
+train_51_b_1.nii.gz,pleura/pleura,parenchymal nodule,4.5 mm
+train_51_b_1.nii.gz,abdomen/abdomen/aorta,lymphadenopathies,14 mm
+train_52_a_1.nii.gz,trachea and bronchie/trachea,plunging nodule,78 mm
+train_52_a_1.nii.gz,mediastinum/mediastinal tissue,plunging nodule,78 mm
+train_52_b_1.nii.gz,trachea and bronchie/trachea,plunging nodule,78 mm
+train_52_b_1.nii.gz,mediastinum/mediastinal tissue,plunging nodule,78 mm
+train_53_c_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,semisolid nodule,8x6.5 mm
+train_54_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,calcific nodule,2 mm
+train_58_a_1.nii.gz,pleura/pleura,calcific 2-3 mm diameter nonspecific nodules,2-3 mm
+train_59_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nodule,5x5 mm
+train_61_b_1.nii.gz,lung/lung,lymphadenomegaly,1.5 cm
+train_61_b_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,metastases,1.2 cm
+train_61_b_1.nii.gz,lung/lung,metastases,1.2 cm
+train_61_c_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,13 mm
+train_61_c_1.nii.gz,breast/breast/right breast,short lymphadenopathy,17 mm
+train_61_c_1.nii.gz,abdomen/abdomen/liver,lesions,32 mm
+train_63_a_1.nii.gz,heart/heart/heart ascending aorta,slight dilatation,40 mm
+train_63_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,hypodense lesion,15 mm
+train_64_a_1.nii.gz,heart/heart/heart tissue,effusion,20 mm
+train_65_a_1.nii.gz,abdomen/abdomen/liver,cystic density lesion,2 cm
+train_66_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,pulmonary nodule,5 mm
+train_66_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,pulmonary nodule,7x6 mm
+train_71_a_1.nii.gz,lung/lung/left lung,nodule,3 mm
+train_71_a_1.nii.gz,lung/lung/right lung,nodule,3 mm
+train_80_a_1.nii.gz,lung/lung,nonspecific nodules,5 mm
+train_82_a_1.nii.gz,mediastinum/pulmonary artery,mild dilatation,31 mm
+train_83_a_1.nii.gz,lung/lung,nodule,6 mm
+train_84_c_1.nii.gz,pleura/pleura,pleural effusion,30 mm
+train_85_a_1.nii.gz,breast/breast/left breast,lymphadenopathies,16 mm
+train_87_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,ground-glass nodule,3 mm
+train_88_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,stone,3 mm
+train_92_a_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathy,15 mm
+train_92_a_1.nii.gz,pleura/pleura,pleural effusion,70 mm
+train_94_a_1.nii.gz,heart/heart/heart ascending aorta,ectatic,36 mm
+train_95_a_1.nii.gz,abdomen/abdomen/liver,liver cc,165 mm
+train_99_a_1.nii.gz,thyroid/thyroid/thyroid gland,calcific nodule,4 mm
+train_100_a_1.nii.gz,lung/lung/right lung,effusion,80 mm
+train_100_a_1.nii.gz,lung/lung/left lung,millimetric nodules,5.5x3.5 mm
+train_100_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,30 mm
+train_101_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,21x20 mm
+train_103_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,3 mm
+train_109_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,foreign body,12x9 mm
+train_113_a_1.nii.gz,lung/lung/right lung,nodule,6x4 mm
+train_113_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,30 mm
+train_119_a_1.nii.gz,mediastinum/mediastinal tissue,mass,6 cm
+train_119_a_1.nii.gz,lung/lung/lung upper lobe,mass,6 cm
+train_119_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,mass,6 cm
+train_119_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,pulmonary parenchymal nodules,4 mm
+train_119_a_1.nii.gz,lung/lung/right lung,nodule,7 mm
+train_121_a_1.nii.gz,heart/heart/heart tissue,effusion,3 mm
+train_121_a_1.nii.gz,pleura/pleura,minimal effusion,5 mm
+train_121_b_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific nodule,5 mm
+train_121_b_1.nii.gz,thyroid/thyroid/thyroid gland/right thyroid,calcific nodule,7.5 mm
+train_124_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,lesions,14 mm
+train_129_a_1.nii.gz,pleura/pleura,pleural effusion,13 mm
+train_131_a_1.nii.gz,pleura/pleura,subpleural nodule,2 mm
+train_133_a_1.nii.gz,abdomen/abdomen/kidney,cortical cysts,78 mm
+train_135_a_1.nii.gz,heart/heart/heart ascending aorta,increased,40 mm
+train_137_a_1.nii.gz,heart/heart/heart tissue,effusion,5 mm
+train_137_a_1.nii.gz,thyroid/thyroid/thyroid gland,hypodense nodule,25x33 mm
+train_137_a_1.nii.gz,breast/breast/left breast,coarse calcification,7 mm
+train_139_b_1.nii.gz,pleura/pleura,nodules,4 mm
+train_140_b_1.nii.gz,breast/breast,diffuse thickening,4 mm
+train_141_a_1.nii.gz,abdomen/abdomen/abdominal tissue,cysts,29 mm
+train_141_a_1.nii.gz,abdomen/abdomen/kidney,cysts,29 mm
+train_143_a_1.nii.gz,heart/heart/heart tissue,pericardial effusion,6 mm
+train_145_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,hypodense lesion,6 cm
+train_149_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,calcified nonspecific parenchymal nodule,3 mm

@@ -1,0 +1,1565 @@
+Volumename,Disorders
+valid_1_a_1.nii.gz,"nonspecific pulmonary nodules, slight recessions in lung lobes"
+valid_2_a_1.nii.gz,"metastatic breast cancer, lung metastasis, post-radiation therapy sequelae changes in left lung, bilateral peribronchial thickening, stable mass lesion in anterior left shoulder, hiatal hernia, thickening of the left breast skin"
+valid_3_a_1.nii.gz,"hiatal hernia, covid-19 pneumonia, intrapulmonary lymphadenopathy"
+valid_4_a_1.nii.gz,no findings
+valid_4_b_1.nii.gz,"bronchial mass, pleuroparenchymal opacities, bronchiectasis, ground glass opacities, right pleural effusion, hepatic metastases, hepatomegaly, adrenal metastatic lesion, mediastinal lymphadenopathy"
+valid_5_a_1.nii.gz,moderate hepatosteatosis
+valid_6_a_1.nii.gz,linear atelectasis in both lungs
+valid_7_a_1.nii.gz,"covid pneumonia, parenchymal nodules, gallbladder calculus, possible cystic duct calculus"
+valid_7_b_1.nii.gz,irregular contoured pulmonary nodules
+valid_8_a_1.nii.gz,"pulmonary edema, possible infectious process, atherosclerosis, osteoporosis, degenerative disease in vertebral bodies, fractures, scoliosis, mediastinal lymphadenopathy"
+valid_9_a_1.nii.gz,"enlarged thyroid gland, diffuse thyroid nodules, covid-19 pneumonia, nonspecific parenchymal nodules in lungs"
+valid_10_a_1.nii.gz,"increased density in dorsal subpleural area, mild sequela changes, mild emphysema, hepatosteatosis, hiatal hernia, intense degenerative changes in bone structure"
+valid_11_a_1.nii.gz,no findings
+valid_12_a_1.nii.gz,"ground-glass opacities, pulmonary nodules, septal thickenings, alveolar consolidation, possible cardiac pathology, possible infectious process, bilateral pleural effusion, atelectasis, cholelithiasis, degenerative bone disease"
+valid_13_a_1.nii.gz,"pleural plaque calcification, parenchymal scarring"
+valid_14_a_1.nii.gz,viral pneumonia
+valid_15_a_1.nii.gz,no findings
+valid_16_a_1.nii.gz,pneumonic infiltration
+valid_17_a_1.nii.gz,"pulmonary nodules, ground glass opacities, pneumonia, atelectasis, osteopenia, degenerative disc disease"
+valid_18_a_1.nii.gz,viral pneumonia
+valid_19_a_1.nii.gz,"sequelae changes in the left lung, nonspecific parenchymal nodules, loculated pleural effusion in the left hemithorax"
+valid_20_a_1.nii.gz,ground glass opacities
+valid_20_b_1.nii.gz,no findings
+valid_21_a_1.nii.gz,"operated hepatocellular carcinoma (hcc), pulmonary nodules, emphysematous changes"
+valid_22_a_1.nii.gz,"infectious process in lungs, potential malignancy, mediastinal lymphadenopathy, hilar lymphadenopathy, atherosclerosis, degenerative bone disease, osteopenia, vertebral endplate tapering, pleural effusion, pericardial effusion"
+valid_23_a_1.nii.gz,"mild atherosclerosis, pulmonary nodules, diffuse degenerative changes of thoracic spine, hypertrophic osteophytic spurring"
+valid_24_a_1.nii.gz,viral pneumonia
+valid_25_a_1.nii.gz,"metastatic lung disease, lymphangitic carcinomatosis, mediastinal lymphadenopathy, coronary artery disease, thoracic spondylosis"
+valid_26_a_1.nii.gz,left kidney suspicious for ectasia
+valid_27_a_1.nii.gz,"cardiomegaly, aortic ectasia, pericardial effusion, bilateral pleural effusions, pulmonary consolidation, infective process in lungs, thick-walled air cyst in the right lung lower lobe"
+valid_27_b_1.nii.gz,no findings
+valid_28_a_1.nii.gz,"pulmonary embolism, pulmonary emphysema, vascular prominence, bilateral renal cysts"
+valid_29_a_1.nii.gz,"bronchial ectasia, peribronchial thickening, centriacinar nodular density increase, distal airway disease, pneumonic infiltration, scoliosis"
+valid_30_a_1.nii.gz,minimal sequelae changes in both lungs
+valid_31_a_1.nii.gz,loculated pleural effusion on the left
+valid_32_a_1.nii.gz,no findings
+valid_33_a_1.nii.gz,"small vessel disease, small airway disease, pleural effusion, cardiomegaly, mediastinal lymphadenopathy"
+valid_34_a_1.nii.gz,"coronary atherosclerosis, stent positioning, chronic bronchitis, sequelae fibrotic changes in the lungs, subsegmental atelectasis, rib fractures"
+valid_35_a_1.nii.gz,viral pneumonia
+valid_36_a_1.nii.gz,"pulmonary nodules, paraseptal emphysema, centrilobular emphysema, cholelithiasis"
+valid_37_a_1.nii.gz,mild degenerative changes in the vertebral column
+valid_38_a_1.nii.gz,"thyroid gland enlargement, thyroid heterogeneity, borderline cardiomegaly, aneurysmatic dilatation of the thoracic aorta, calcific atheroma plaques in the thoracic aorta, coronary artery disease, calcified mass in the left breast, mosaic attenuation pattern in the lungs, possible small airway disease, possible small vessel disease, atelectatic changes in both lungs, chronic liver parenchymal disease, cholelithiasis, nodular thickening of the left adrenal gland, rotoscoliosis of the thoracic spine, osteodegenerative changes"
+valid_39_a_1.nii.gz,"covid-19 pneumonia, other viral pneumonias"
+valid_40_a_1.nii.gz,covid-19 pneumonia
+valid_41_a_1.nii.gz,"mild pleuroparenchymal sequelae, possible early interstitial lung disease suggested by ground-glass-like density, bilateral renal cysts, bilateral nephrolithiasis, hepatic cysts, possible polycystic kidney disease"
+valid_41_b_1.nii.gz,viral pneumonia
+valid_42_a_1.nii.gz,"bronchiectasis, destroyed lung appearance, infectious bronchiolitis, parenchymal nodule, rotoscoliosis"
+valid_43_a_1.nii.gz,"covid pneumonia, mild hepatosteatosis, splenomegaly, aortic ectasia, atherosclerosis"
+valid_44_a_1.nii.gz,"cardiomegaly, atherosclerosis of aorta, coronary artery disease, pulmonary hypertension, emphysema, atelectasis, pulmonary consolidation, ground glass opacities, bilateral pleural effusion"
+valid_45_a_1.nii.gz,"nonspecific lung nodules, atelectasis, hepatosteatosis"
+valid_46_a_1.nii.gz,"postoperative changes after left upper lobectomy for lung cancer, peribronchial thickening, pulmonary emphysema, pulmonary nodules, atherosclerosis, pulmonary artery dilatation, hiatal hernia, thoracic spondylosis"
+valid_47_a_1.nii.gz,"coronary artery disease, pulmonary parenchymal changes, small airway disease, angiomyolipomas of the kidney"
+valid_48_a_1.nii.gz,"atelectasis, pulmonary nodule with calcification, hiatal hernia"
+valid_49_a_1.nii.gz,"calcific pulmonary nodules, dependent atelectasis"
+valid_50_a_1.nii.gz,"pulmonary nodules, atelectasis in the right middle lobe medial segment, atelectasis in the left upper lobe inferior segment, hepatosteatosis, renal cortical defects"
+valid_51_a_1.nii.gz,no findings
+valid_52_a_1.nii.gz,"millimetric pulmonary nodules, pericardial effusion"
+valid_53_a_1.nii.gz,"emphysematous changes, atelectasis, hiatal hernia"
+valid_53_b_1.nii.gz,"paraseptal emphysema, pulmonary parenchymal changes, calcified aortic arch atheroma, coronary artery calcifications, hepatosteatosis"
+valid_54_a_1.nii.gz,"atherosclerosis, mild cardiomegaly, mosaic attenuation pattern, mild emphysematous changes, parenchymal nodule"
+valid_55_a_1.nii.gz,linear atelectasis
+valid_56_a_1.nii.gz,no findings
+valid_57_a_1.nii.gz,"bilateral lower lobe pneumonia, right pleural effusion, ground glass opacities, lymphadenopathy"
+valid_58_a_1.nii.gz,"covid-19 pneumonia, atelectasis, cholelithiasis"
+valid_59_a_1.nii.gz,"fusiform dilatation of the ascending aorta, calcified atherosclerotic changes in the thoracoabdominal aorta, calcified atherosclerotic changes in the coronary artery, cardiomegaly, mosaic attenuation pattern of the lungs, small airway disease, small vessel disease of the lungs, fibroatelectatic changes in both lungs, calcified parenchymal nodules in the lungs, left atrophic kidney, left renal hypodense lesion (possible cyst)"
+valid_60_a_1.nii.gz,"mesothelioma, nodular pleural thickening, parenchymal lesions with ground-glass opacities, pulmonary metastases, mediastinal lymphadenopathy, subcutaneous metastatic nodules, muscle metastases, liver lesions suggesting capsular implants and omental cake, hiatal hernia"
+valid_60_b_1.nii.gz,"mesothelioma, parenchymal consolidation, pulmonary infiltrates, pleural effusion, displaced rib fracture, free or loculated fluid surrounding intestinal loops"
+valid_60_c_1.nii.gz,"mesothelioma, pulmonary consolidation with air bronchograms, multiple metastatic lung nodules, lesions with ground glass areas in the lungs, pneumonic infiltration, left pleural effusion, capsular implants in the liver, omental cake, nodular metastatic lesions in the skin, subcutaneous fat tissue, and muscle planes"
+valid_61_a_1.nii.gz,"gynecomastia, suspected lung infection"
+valid_62_a_1.nii.gz,"covid-19 pneumonia, fibroatelectasis, peribronchial thickening, left renal cortical cyst"
+valid_62_b_1.nii.gz,no findings
+valid_62_c_1.nii.gz,no findings
+valid_63_a_1.nii.gz,"mosaic attenuation pattern in both lungs, pulmonary consolidation, pleural effusion, infective pulmonary pathology, cardiomegaly, dilatation of major vascular structures, atherosclerosis, lymphadenopathy, osteodegenerative bone disease, right nephrolithiasis, left angiomyolipoma"
+valid_63_b_1.nii.gz,"small airway disease, small vessel disease, interstitial lung disease, pleural effusion, cardiomegaly, pulmonary artery dilatation, mediastinal lymphadenopathy, thoracic spondylosis"
+valid_64_a_1.nii.gz,"massive liver lesions, renal cortical cyst, osteopenia, degenerative bone disease"
+valid_64_b_1.nii.gz,"linear atelectasis in both lungs, millimetric nodules in both lungs, degenerative changes in bone structures, increased thoracic kyphosis"
+valid_64_c_1.nii.gz,"infective pathology in both lungs, peribronchial thickening, atelectasis, millimetric nodules in both lungs"
+valid_65_a_1.nii.gz,no findings
+valid_66_a_1.nii.gz,"emphysematous changes, pleuroparenchymal sequelae, pulmonary nodules, atherosclerosis of the aorta, coronary artery disease"
+valid_67_a_1.nii.gz,"sequelae changes in both lungs, non-specific millimetric nodules, nodular lesions likely subpleural lymph nodes"
+valid_68_a_1.nii.gz,pulmonary nodules
+valid_69_a_1.nii.gz,"pulmonary nodules, hiatal hernia"
+valid_70_a_1.nii.gz,"calcific atheroma plaques in the thoracic aorta, calcific atheroma plaques in supraaortic branches, calcific atheroma plaques in coronary arteries, hepatosteatosis, diffuse idiopathic skeletal hyperostosis (dish) at the mid-thoracic level"
+valid_71_a_1.nii.gz,covid pneumonia
+valid_71_b_1.nii.gz,"covid pneumonia, pulmonary nodules"
+valid_72_a_1.nii.gz,"effusions secondary to heart failure, interlobar thickening, interlobular thickening"
+valid_73_a_1.nii.gz,covid-19 viral pneumonia
+valid_74_a_1.nii.gz,mild emphysematous changes
+valid_75_a_1.nii.gz,"bronchopneumonia, viral pneumonia, atherosclerosis"
+valid_76_a_1.nii.gz,respiratory bronchiolitis
+valid_77_a_1.nii.gz,lymphadenopathy
+valid_78_a_1.nii.gz,"hiatal hernia, early covid-19 viral pneumonia, left lung lower lobe atelectasis, elevation of the left hemidiaphragm"
+valid_79_a_1.nii.gz,"emphysema, bronchiectasis, peribronchial thickening, pulmonary structural distortion, volume loss, pulmonary nodules, atherosclerosis"
+valid_80_a_1.nii.gz,pulmonary nodules
+valid_81_a_1.nii.gz,"paraseptal emphysema, centracinar emphysema, pulmonary nodules"
+valid_82_a_1.nii.gz,"viral pneumonia, covid-19, hepatosteatosis, degenerative bone changes"
+valid_83_a_1.nii.gz,no findings
+valid_84_a_1.nii.gz,"calcific atheromatous plaques, emphysematous changes, pulmonary nodules, sequela parenchymal changes, ground glass density, renal pelvicalyceal ectasia, degenerative changes in bone"
+valid_85_a_1.nii.gz,"covid-19 pneumonia, ground glass opacities, pulmonary nodules, infectious lung disease, non-infectious lung disease"
+valid_86_a_1.nii.gz,"atypical pneumonia, lung cavitation, liver lesions, degenerative bone disease, thyroid nodules"
+valid_87_a_1.nii.gz,"hiatal hernia, nonspecific parenchymal nodules in both lungs, pleuroparenchymal sequelae, ground glass density in the lung evaluated as sequelae, possible double collecting system in the left kidney, mild degenerative changes in bone structures"
+valid_88_a_1.nii.gz,no findings
+valid_89_a_1.nii.gz,"millimetric nodule in the right lung, sequelae changes in the middle lobe"
+valid_90_a_1.nii.gz,"tuberculosis, staphylococcus aureus pneumonia, carcinomatous processes, cavitary space-occupying lesions, lymphadenopathy"
+valid_90_b_1.nii.gz,"bronchiectasis, lung consolidation, centriacinar nodules, possible residual infectious process, potential ongoing infection"
+valid_90_c_1.nii.gz,no findings
+valid_91_a_1.nii.gz,viral pneumonia
+valid_92_a_1.nii.gz,pulmonary nodules
+valid_93_a_1.nii.gz,"mild emphysema, mild sequelae changes in both lungs, mild bronchioloectasia"
+valid_94_a_1.nii.gz,"cardiomegaly, pericardial effusion, linear atelectasis, atelectasis in the left lung upper lobe"
+valid_95_a_1.nii.gz,"consolidation in the right lung lower lobe, potential bacterial pneumonia, possible bacterial-viral pneumonia, atypical presentation of covid pneumonia"
+valid_96_a_1.nii.gz,"fibroatelectatic sequelae, minimal pericardial effusion, diffuse degenerative changes in thoracic vertebrae, schmorl's nodules with significant vertebral body height loss"
+valid_96_b_1.nii.gz,"calcified atherosclerotic changes, subsegmental atelectasis, nonspecific parenchymal nodule, right humerus fracture"
+valid_97_a_1.nii.gz,"pulmonary emphysema, nodular lung lesions, atherosclerosis"
+valid_98_a_1.nii.gz,"viral pneumonia, hepatosteatosis"
+valid_99_a_1.nii.gz,hypodense liver lesion at segment 5-6 junction
+valid_100_a_1.nii.gz,"cardiomegaly, pulmonary artery dilatation, atherosclerosis, mediastinal lymphadenopathy, interstitial lung disease, mosaic attenuation pattern, post-cholecystectomy status, thyroid nodule"
+valid_101_a_1.nii.gz,"prostate cancer, calcified atherosclerotic changes, stable hypodense lesions in the liver"
+valid_101_b_1.nii.gz,"prostate cancer, atherosclerosis, cardiomegaly, valvular heart disease, liver cysts, renal cortical cyst, osteoporosis"
+valid_102_a_1.nii.gz,"malignant pleural mass, lung nodules, lymphadenopathy, pleural thickening, loculated pleural effusion, pulmonary emphysema, consolidation, atelectasis"
+valid_103_a_1.nii.gz,"cardiomegaly, pulmonary consolidation, ground-glass opacities, possible infectious process, interlobular septal thickening, bilateral pleural effusion, pulmonary emphysema"
+valid_104_a_1.nii.gz,"bilateral minimal bronchiectasis, coronary atherosclerosis, hepatosteatosis, cholelithiasis"
+valid_105_a_1.nii.gz,"covid-19 pneumonia, fibroatelectatic changes, emphysematous changes, sclerotic changes in lower cervical vertebrae, possible metastasis to cervical vertebrae"
+valid_106_a_1.nii.gz,"endobronchial lesion in the left lung upper lobe lingular segment, irregular nodule in the left lung upper lobe lingular segment, mediastinal lymphadenopathies, left adrenal gland mass, diffuse bladder wall thickening"
+valid_107_a_1.nii.gz,"bilateral pleural effusion, lymphadenopathy, hepatic metastases, bone sclerotic metastases"
+valid_107_b_1.nii.gz,"mediastinal lymphadenopathy, bone metastases, liver metastases, ascites"
+valid_108_a_1.nii.gz,no findings
+valid_109_a_1.nii.gz,"early postoperative changes from coronary bypass, left pleural effusion, left cerebellar hemisphere acute infarct, diffusion restriction suggesting ischemia in pica territory"
+valid_110_a_1.nii.gz,nonspecific pulmonary nodules
+valid_111_a_1.nii.gz,"covid-19 pneumonia, thyroid nodule, nephrolithiasis, liver lesions"
+valid_112_a_1.nii.gz,no findings
+valid_113_a_1.nii.gz,left nephrolithiasis
+valid_114_a_1.nii.gz,"mediastinal lymphadenopathy, bilateral pleural effusion, atelectasis, ground-glass opacities, crazy-paving pattern, interlobular septal thickening, pulmonary edema, pulmonary nodules"
+valid_114_b_1.nii.gz,pulmonary nodules
+valid_115_a_1.nii.gz,no findings
+valid_116_a_1.nii.gz,no findings
+valid_117_a_1.nii.gz,"rectal cancer, lung metastases"
+valid_117_b_1.nii.gz,hepatic lesions
+valid_118_a_1.nii.gz,"mediastinal lymphadenopathies, bilateral peribronchial thickenings, nodular consolidations in both lungs, ground glass density increase in both lungs suggestive of fungal infections, cholelithiasis, bilateral nephrolithiasis, hypodense lesions in the liver"
+valid_118_b_1.nii.gz,no findings
+valid_118_c_1.nii.gz,no findings
+valid_118_d_1.nii.gz,no findings
+valid_119_a_1.nii.gz,"pulmonary emphysema, bronchiectasis, peribronchial thickening, pulmonary nodules, aortic aneurysm, aortic atherosclerosis, hiatal hernia, bilateral nephrolithiasis, adrenal adenoma"
+valid_120_a_1.nii.gz,"bilateral gynecomastia, coronary artery stent presence, interstitial fibrosis, bronchiectasis, peribrochial thickening, pleuroparenchymal fibroatelectatic changes, pulmonary nodules, left adrenal gland thickening, osteodegenerative changes"
+valid_121_a_1.nii.gz,"small airway disease, small vessel disease, atherosclerotic changes, nonspecific parenchymal nodules, degenerative changes in bone structures, osteopenia, pancreatic lipomatosis"
+valid_122_a_1.nii.gz,no findings
+valid_123_a_1.nii.gz,"lymphadenopathy with conglomerate mass formation, possible infective process, potential parenchymal involvement of lymphoma, irregular interlobular septal thickening, lymphangitic spread, bilateral pleural effusion, diffuse centriacinar nodular density increase"
+valid_124_a_1.nii.gz,minimal hiatal hernia
+valid_125_a_1.nii.gz,"tracheobronchopathia osteochondroplastica, fusiform aneurysm of the thoracic aorta, cardiomegaly, atherosclerosis with wall calcifications of the thoracic aorta, atherosclerosis with coronary artery calcification, aortic valve calcification, passive atelectasis of the right lung middle lobe, passive atelectasis of the left lung upper lobe inferior lingular segment, spinal osteophytosis, thoracic vertebral degeneration with schmorl's nodes"
+valid_126_a_1.nii.gz,subpleural fibrosis
+valid_127_a_1.nii.gz,"atherosclerosis, coronary artery disease, aortic valve calcification, esophageal wall thickening, lymphadenopathy, pulmonary emphysema, fibroatelectasis, small airway disease, pulmonary nodules, cholelithiasis"
+valid_128_a_1.nii.gz,gallbladder distension
+valid_129_a_1.nii.gz,"hiatal hernia, parenchymal nodules in the left lung, scoliosis"
+valid_130_a_1.nii.gz,"mass lesion in the air lumen, invasion of mass lesion into surrounding soft tissues, subcutaneous emphysema, pneumomediastinum, pulmonary infiltration, focal ground-glass densities in the lungs, hypodense liver lesion adjacent to the falciform ligament with variable perfusion"
+valid_131_a_1.nii.gz,"covid-19 pneumonia, pulmonary cysts, ground-glass opacities, pulmonary consolidation"
+valid_132_a_1.nii.gz,"emphysema, pulmonary nodules"
+valid_133_a_1.nii.gz,no findings
+valid_134_a_1.nii.gz,"small airway disease or small vessel disease, pulmonary nodules, pulmonary sequelae, renal cortical cyst, renal atrophy, pelvicalyceal system ectasia, hiatal hernia"
+valid_135_a_1.nii.gz,"pulmonary nodules, calcifications, subsegmental atelectasis"
+valid_136_a_1.nii.gz,reticulonodular fibrotic changes at the lung apex
+valid_137_a_1.nii.gz,"covid pneumonia, hiatal hernia"
+valid_138_a_1.nii.gz,"pulmonary nodules, linear atelectasis, dependent density increases in lungs"
+valid_139_a_1.nii.gz,pericardial effusion
+valid_140_a_1.nii.gz,"atherosclerosis, pulmonary emphysema, pulmonary fibrosis, rib fractures, lung nodules, chronic liver disease, splenomegaly"
+valid_141_a_1.nii.gz,no findings
+valid_142_a_1.nii.gz,"nonspecific pulmonary nodules, emphysema, post-inflammatory pulmonary fibrosis"
+valid_143_a_1.nii.gz,"hiatal hernia, pleuroparenchymal fibroatelectasis, sequelae change in right lung middle lobe"
+valid_144_a_1.nii.gz,"soft tissue mass in the mediastinum, right lung lower lobe involvement by mass, right main bronchus narrowing, mediastinal lymphadenopathy, pulmonary artery dilatation, thoracic aortic dilatation, atherosclerotic changes of the thoracic aorta, coronary artery calcification, right pleural effusion, nonspecific pulmonary nodules, pulmonary septal thickening, reticulonodular pattern in the right lung, hepatic lesions suggestive of cysts, left renal cyst"
+valid_145_a_1.nii.gz,suspected left millimetric nephrolithiasis
+valid_146_a_1.nii.gz,hepatosteatosis
+valid_147_a_1.nii.gz,pulmonary nodules
+valid_148_a_1.nii.gz,no findings
+valid_149_a_1.nii.gz,"atherosclerosis, fusiform abdominal aortic aneurysm with endograft, lung consolidation possible tuberculosis (tbc), pulmonary emphysema, fibrotic changes with structural distortion in the right lung upper lobe, calcified pulmonary nodules, diffuse idiopathic skeletal hyperostosis (dish), bilateral renal cortical cysts"
+valid_150_a_1.nii.gz,"non-specific subpleural nodules, ground-glass densities, early infectious process, hepatosteatosis, renal cortical hypodensity"
+valid_151_a_1.nii.gz,"tuberculosis, post-infectious sequelae, pleural thickening, pleural calcification, adrenal calcifications, liver lesion (nonspecific), renal cortical cysts"
+valid_151_b_1.nii.gz,no findings
+valid_151_c_1.nii.gz,"pulmonary fibrosis, reticular densities, pulmonary nodules, pleural calcification, pleural thickening, previous tuberculosis (tb) infection, liver lesion, adrenal calcification, adrenal gland thickening"
+valid_152_a_1.nii.gz,"covid-19 pneumonia, subsegmental atelectasis, hypodense hepatic lesion, subcutaneous nodular lesion"
+valid_153_a_1.nii.gz,"cardiomegaly, coronary artery disease, aortic calcification, cholelithiasis"
+valid_154_a_1.nii.gz,"atypical early viral pneumonia, small splenic nodule (splenula)"
+valid_155_a_1.nii.gz,"nodule in right lung horizontal fissure, non-specific millimetric nodules in right lung parenchyma, hypodense nodule with calcifications in left thyroid gland"
+valid_156_a_1.nii.gz,no findings
+valid_157_a_1.nii.gz,"bulla, ground-glass densities, cavitation, early viral pneumonia (covid-19)"
+valid_158_a_1.nii.gz,no findings
+valid_159_a_1.nii.gz,"centriacinar emphysema, pulmonary parenchymal changes, atherosclerosis of the aorta, coronary artery calcification, degenerative bone disease, increased thoracic kyphosis"
+valid_160_a_1.nii.gz,"type ii hiatal hernia, interseptal thickness increase, subpleural interstitial thickening, ground glass opacities, suspected covid-19 pneumonia, pulmonary fibrosis"
+valid_161_a_1.nii.gz,"possible thymic remnant, pleuroparenchymal sequelae, calcified pulmonary nodule, pulmonary nodules"
+valid_162_a_1.nii.gz,"covid-19 pneumonia, hepatosteatosis, left renal cysts"
+valid_162_b_1.nii.gz,"focal ground-glass opacity, hepatosteatosis, left renal cyst, atherosclerosis"
+valid_163_a_1.nii.gz,"intrapulmonary nodules, pulmonary fibrosis, tracheal diverticulum, decrease in lung volume (left lung lower lobe posterobasal segment), ground-glass nodularity"
+valid_163_b_1.nii.gz,"acute myeloid leukemia (aml), pneumomediastinum, cylindrical-cystic bronchiectasis, pulmonary parenchymal nodules, fibroatelectatic changes, interstitial and interlobular septal thickening"
+valid_163_c_1.nii.gz,"air trapping, interstitial lung disease, subpleural fibrosis, lung nodules, ground-glass opacities, mild bronchiectasis, chronic graft-versus-host disease (chronic gvhd) pulmonary involvement"
+valid_163_d_1.nii.gz,"sequelae changes in lungs, emphysema, solid pulmonary nodules, ground-glass opacities, possible covid-19 or other infections"
+valid_164_a_1.nii.gz,no findings
+valid_165_a_1.nii.gz,covid-19 pneumonia
+valid_166_a_1.nii.gz,no findings
+valid_167_a_1.nii.gz,"paraseptal-centriacinar emphysema, structural distortion in the right lung upper lobe, fibrotic nodular formation with volume loss, ground-glass opacities, linear-subsegmental atelectasis, covid-19 pneumonia in recovery, degenerative changes in bone structures"
+valid_168_a_1.nii.gz,"aortic and coronary artery atherosclerosis, ectasia in pulmonary arteries, emphysema, sequelae changes, bronchiectasis, mosaic density differences, millimetric nonspecific nodules"
+valid_168_b_1.nii.gz,"bilateral pleural effusion, interstitial lung disease, ground-glass opacities, mosaic attenuation pattern, pulmonary emphysema, bilateral minimal bronchiectasis, peribronchial thickening, pulmonary nodules, atherosclerosis with calcific plaques, coronary artery disease, pulmonary artery dilatation, thoracic spondylosis"
+valid_169_a_1.nii.gz,"nonspecific pulmonary nodules, thoracic spondylosis"
+valid_170_a_1.nii.gz,"sequelae changes in lungs, ground glass density changes, atypical findings for covid pneumonia, hepatosteatosis, bilateral atrophic kidney, renal cortical cysts, solid lesion in the right kidney, significant degenerative changes in bone structure"
+valid_170_b_1.nii.gz,"covid-19 pulmonary infection, splenomegaly, bilateral renal atrophy, vertebral osteodegenerative changes"
+valid_171_a_1.nii.gz,hypodense lesion in the liver
+valid_172_a_1.nii.gz,residual thymus tissue
+valid_173_a_1.nii.gz,"pericardial effusion, dependent density increases in lungs, parenchymal nodules in the lung, left nephrolithiasis"
+valid_174_a_1.nii.gz,"diffuse atherosclerotic calcifications, radiation therapy sequelae, bronchiectasis, peribronchial thickening, bone metastases"
+valid_175_a_1.nii.gz,hepatosteatosis
+valid_176_a_1.nii.gz,"atelectasis, hepatosteatosis"
+valid_177_a_1.nii.gz,viral pneumonia
+valid_178_a_1.nii.gz,"emphysematous changes, peribronchial thickening, atherosclerotic changes, minimal pericardial effusion, subsegmental atelectasis, consolidation in the lower lobe of the left lung"
+valid_179_a_1.nii.gz,"covid-19 pneumonia, other viral pneumonias, hepatosteatosis, left renal cyst, left nephrolithiasis"
+valid_180_a_1.nii.gz,"mediastinal lymphadenopathy, viral pneumonia, pulmonary nodules, post-cholecystectomy changes"
+valid_180_b_1.nii.gz,covid-19 pneumonia
+valid_181_a_1.nii.gz,"bilateral thyroid enlargement, thyroid nodules, aortic enlargement, pulmonary artery enlargement, increased cardiothoracic ratio, atherosclerosis, coronary artery disease, hiatal hernia, pulmonary emphysema, ground-glass opacities, respiratory infection, pulmonary nodules, degenerative bone disease"
+valid_182_a_1.nii.gz,"left lung mass, post-obstructive atelectasis, mediastinal lymphadenopathy, vascular calcification, left pleural effusion, right lung nodular lesion, left adrenal gland enlargement, thickening of the left crus"
+valid_183_a_1.nii.gz,no findings
+valid_184_a_1.nii.gz,"fusiform aneurysm of the ascending aorta, cardiomegaly, atherosclerosis with calcific atheroma plaques in the aortic arch, coronary artery disease, pulmonary fibrosis, fibroatelectasis, mosaic attenuation pattern, reticulonodular pattern, bilateral nephrolithiasis, degenerative bone disease"
+valid_185_a_1.nii.gz,"calcified atherosclerosis of the coronary arteries, mosaic attenuation pattern in the lungs suggestive of small airway disease or small vessel disease"
+valid_186_a_1.nii.gz,no findings
+valid_187_a_1.nii.gz,"covid-19 pneumonia, nonspecific pulmonary nodule"
+valid_188_a_1.nii.gz,"emphysema, fibroatelectasis, reticulonodular pattern, possible infectious process, bronchial wall thickening, mucus impaction, pulmonary nodule, hepatosteatosis"
+valid_188_b_1.nii.gz,"ground-glass opacities, consolidation, tracheomegaly, aspiration pneumonia, emphysema"
+valid_189_a_1.nii.gz,nonspecific millimetric nodule in the right lung middle lobe
+valid_190_a_1.nii.gz,"hiatal hernia, linear atelectasis"
+valid_191_a_1.nii.gz,"mild centrilobular emphysema, mild paraseptal emphysema, linear atelectasis, spur formation at l1-l2 level, retroperitoneal spur extension, hypertrophic osteophytic tapering"
+valid_191_b_1.nii.gz,"mild sequelae changes in both lungs, nonspecific pulmonary nodules, mild hepatosteatosis, gallbladder contraction with possible millimetric calculus, degenerative bone changes, fracture of the spinous process of the d5 vertebra"
+valid_192_a_1.nii.gz,"cardiomegaly, aneurysmatic dilatation of the ascending aorta, heart failure, hepatic vein enlargement, septal thickening"
+valid_193_a_1.nii.gz,"bilateral gynecomastia, compressive atelectatic changes, subpleural nonspecific nodules"
+valid_194_a_1.nii.gz,"lymphadenopathy, gallbladder wall thickening, cholelithiasis, atherosclerosis, pulmonary emphysema, pulmonary fibrosis, pulmonary nodules, lung consolidation, sclerotic bone lesions, hiatal hernia"
+valid_194_b_1.nii.gz,"mediastinal lymphadenopathy, retrocrural lymphadenopathy, gallbladder carcinoma, cholelithiasis, pulmonary emphysema, bullae formation, cavitary lung lesions, pulmonary consolidation, possible lung metastasis, focal pulmonary consolidation, possible infectious process, sclerotic bone lesions"
+valid_195_a_1.nii.gz,"atelectasis, accessory fissure, fibroatelectasis, bronchiectasis, pulmonary nodule, hepatosteatosis"
+valid_196_a_1.nii.gz,"solitary pulmonary nodule, calcification of pulmonary nodule, spiculation of pulmonary nodule, parenchymal distortion, pleural involvement, major fissure distortion and retraction, bronchiectasis"
+valid_197_a_1.nii.gz,"lymphadenopathy, pulmonary consolidation, pneumonic infiltration, ground glass opacities, interstitial lung disease, post-inflammatory pulmonary fibrosis, paraseptal emphysema"
+valid_198_a_1.nii.gz,"emphysema, bronchiectasis, atelectasis, pulmonary nodules, thoracic scoliosis"
+valid_199_a_1.nii.gz,viral pneumonia
+valid_200_a_1.nii.gz,covid-19 viral pneumonia
+valid_201_a_1.nii.gz,"right lung atelectasis, left kidney lesion"
+valid_202_a_1.nii.gz,"colonic carcinoma, pericardial effusion, pleural effusion, interstitial thickening, lymphangitis carcinomatosa, lung metastasis, pulmonary consolidation, volume loss in lungs, ground glass opacity, omental thickening"
+valid_202_b_1.nii.gz,"mediastinal lymphadenopathy, pericardial effusion, right pleural effusion, left pleural effusion, metastatic nodules, interlobular septal thickening, lymphangitis carcinomatosus"
+valid_203_a_1.nii.gz,"lung nodules, left adrenal gland mass, myelolipoma"
+valid_204_a_1.nii.gz,no findings
+valid_205_a_1.nii.gz,"ground-glass opacities, peribronchial thickening"
+valid_206_a_1.nii.gz,"atherosclerosis of the thoracic aorta, supraaortic branches and coronary arteries, post-valvuloplasty changes at the aortic valve, heart failure with lung fibrosis and pleural parenchymal sequelae, chronic parenchymal disease of the liver, cortical cysts with calcified septa in the kidneys, degenerative changes in bone structures"
+valid_207_a_1.nii.gz,"fusiform aneurysm of the thoracic aorta, pulmonary artery dilation, cardiomegaly, atherosclerosis with wall calcifications in the thoracic aorta, atherosclerosis in coronary arteries, pulmonary consolidation, ground glass opacities in the lungs, possible pneumonia (fungal, bacterial, or viral), paraseptal emphysema, sequela of pulmonary atelectasis, pulmonary nodules, renal cyst in the upper pole of the right kidney, nephrolithiasis, scoliosis"
+valid_208_a_1.nii.gz,no findings
+valid_209_a_1.nii.gz,"covid-19 pneumonia, pulmonary nodules"
+valid_210_a_1.nii.gz,"ground-glass opacity in the right middle lobe, degenerative bone disease, mild hepatic steatosis, small hypodense hepatic lesion"
+valid_210_b_1.nii.gz,"bronchiectasis, ground-glass opacities, small airway disease, bronchiolitis"
+valid_211_a_1.nii.gz,no findings
+valid_212_a_1.nii.gz,"ectasia of the thoracic aorta, atherosclerotic calcification, ground-glass opacities, possible bronchopneumonia, atelectasis, traction bronchiectasis, pulmonary nodules, hepatic lesion (possible cyst)"
+valid_212_b_1.nii.gz,"atherosclerosis, bronchiolitis sequelae in the right upper lobe, mild bronchiectasis, nonspecific parenchymal pulmonary nodules, calcified pulmonary nodules, nonspecific millimetric hypodense lesion in the liver"
+valid_213_a_1.nii.gz,"ectasia of the ascending aorta, coronary atherosclerosis, emphysema, lung nodules, pulmonary sequelae, hepatic cysts, history of cholecystectomy"
+valid_214_a_1.nii.gz,atheroma plaques in the aortic arch
+valid_215_a_1.nii.gz,"infectious processes in the lung parenchyma, large hiatal hernia, mediastinal lymphadenopathy, mild emphysematous changes"
+valid_215_b_1.nii.gz,"paraesophageal hiatal hernia, cavitary lesion with air-fluid level, bronchopneumonic infiltration, millimetric pulmonary nodules, nodular consolidations, primary malignancy (to be considered), mediastinal lymphadenopathy"
+valid_215_c_1.nii.gz,"decreased size of cavitary lesion, airbronchograms, focal consolidation, millimetric nonspecific nodules, sequela changes, decreased centrilobular ground-glass densities, mixed hiatal hernia"
+valid_216_a_1.nii.gz,covid pneumonia
+valid_217_a_1.nii.gz,no findings
+valid_218_a_1.nii.gz,"pneumonic infiltration with endobronchial spread, nonspecific subpleural pulmonary nodules"
+valid_219_a_1.nii.gz,thyroid nodule
+valid_220_a_1.nii.gz,"fusiform aneurysm of the ascending aorta, atherosclerosis of thoracic aorta, atherosclerosis of supraaortic branches, atherosclerosis of coronary arteries, hiatal hernia, mosaic attenuation pattern suggestive of small airway disease or small vessel disease, atelectasis in both lungs, irregular solid nodule in the upper lobe of the left lung, left adrenal adenoma, diffuse idiopathic skeletal hyperostosis (dish) in thoracic vertebrae"
+valid_221_a_1.nii.gz,"atelectasis, lingular segment consolidation, ground-glass opacities, hepatosteatosis, left-facing thoracic scoliosis"
+valid_222_a_1.nii.gz,"pleuroparenchymal fibrosis, passive atelectasis"
+valid_223_a_1.nii.gz,"nonspecific pulmonary nodules, emphysema, aortic atherosclerosis, hiatal hernia"
+valid_224_a_1.nii.gz,"covid pneumonia, hepatosteatosis, degenerative changes in bone structure"
+valid_225_a_1.nii.gz,mild scoliosis
+valid_225_b_1.nii.gz,no findings
+valid_226_a_1.nii.gz,"ground-glass opacities, subpleural parenchymal changes, consolidation, possible viral pneumonia, suspected covid-19 pneumonia"
+valid_227_a_1.nii.gz,pleuroparenchymal fibroelastosis
+valid_228_a_1.nii.gz,pulmonary nodules
+valid_229_a_1.nii.gz,"sequelae changes in both lungs, mosaic attenuation pattern, small airway stenosis, millimetric stable nonspecific nodules, infection-sequelae in the right lung, lytic bone lesions suggestive of metastasis, pathological compression fracture in t12 vertebra, vertebral augmentation with cement material in t11 and t12 vertebrae"
+valid_229_b_1.nii.gz,"atelectasis, pulmonary emphysema, lung nodules, lytic bone lesions"
+valid_230_a_1.nii.gz,covid-19 pneumonia
+valid_231_a_1.nii.gz,"dependent density increases in both lungs, mild bronchiectasis"
+valid_232_a_1.nii.gz,"nonspecific pulmonary nodules, mild bronchiectasis, peribronchial thickening"
+valid_233_a_1.nii.gz,"pleural-based nodular lesion, pulmonary nodules, renal parenchymal disease, hepatosplenomegaly"
+valid_234_a_1.nii.gz,"sequela parenchymal changes in the left lung, millimetric pulmonary nodules"
+valid_235_a_1.nii.gz,"mild hiatal hernia, mild hepatosteatosis"
+valid_236_a_1.nii.gz,pulmonary nodules
+valid_237_a_1.nii.gz,viral pneumonia
+valid_238_a_1.nii.gz,viral pneumonia
+valid_239_a_1.nii.gz,"possible intramammary lymph node, vascular calcification, pleuroparenchymal sequelae, subsegmental atelectasis, bronchiectasis, pulmonary nodule, lymphadenopathy, mesenteric root edema, degenerative bone disease, mild scoliosis"
+valid_240_a_1.nii.gz,"treatment-related sequelae in the left lung, sequelae changes in both lungs"
+valid_241_a_1.nii.gz,"ground glass opacities, consolidation, viral pneumonia, covid-19 pneumonia"
+valid_242_a_1.nii.gz,bilateral nephrolithiasis
+valid_243_a_1.nii.gz,"pleural effusion, pericardial effusion, ground glass opacities, interlobular septal thickening, pulmonary nodules, viral pneumonia"
+valid_244_a_1.nii.gz,"atherosclerosis of the aorta, atelectasis, pulmonary emphysema, ground glass nodule, pulmonary nodules, intraabdominal free fluid"
+valid_245_a_1.nii.gz,hiatal hernia
+valid_246_a_1.nii.gz,"infectious processes, covid-19 viral pneumonia"
+valid_247_a_1.nii.gz,"calcified atheroma plaques in the aortic arch, reticulonodular fibrotic changes in both lung apexes, peripheral subpleural ground glass nodules in both lungs, nonspecific focal ground glass density in the right lung middle lobe, nonspecific parenchymal nodules in both lungs, possible renal cyst in the right kidney, osteopenia"
+valid_248_a_1.nii.gz,"emphysematous changes, focal ground-glass opacity, possible covid-19 pneumonia, centriacinar nodules, pulmonary fibrosis, pneumoconiosis"
+valid_249_a_1.nii.gz,"cardiomegaly, pneumothorax, fusiform dilatation of the thoracic aorta, aortic valve replacement, calcified atherosclerotic changes, minimal pericardial effusion, pleural effusion, acinar opacities, infectious process, external drainage catheter placement, subsegmental atelectasis, interstitial lung disease, degenerative changes in bone structures"
+valid_250_a_1.nii.gz,"pneumonia, pleural effusion, pericardial effusion, cardiomegaly, atherosclerosis, mediastinal lymphadenopathy, hilar lymphadenopathy, mosaic attenuation pattern (suggestive of small airways disease or pulmonary vascular abnormalities), hiatal hernia"
+valid_250_b_1.nii.gz,"atelectasis, ground-glass opacities, previous pneumonia, mediastinal lymphadenopathy, type 1 hiatal hernia, osteodegenerative bone disease"
+valid_250_c_1.nii.gz,no findings
+valid_250_d_1.nii.gz,"regression of pulmonary consolidation, peribronchial sequelae, calcific nodule, nodular consolidation areas, air bronchograms, pneumonic infiltration, band-like atelectasis, calcific plaque formation in coronary artery, increased thoracic kyphosis, thoracic spondylosis"
+valid_250_e_1.nii.gz,"pulmonary consolidation, cavitary lesions"
+valid_250_f_1.nii.gz,"mass lesion with spiculated contours in the left hilus, bronchopneumonic infiltration, ground-glass opacities, nodular consolidations suggestive of fungal pneumonia, hepatosplenomegaly, free intra-abdominal fluid"
+valid_251_a_1.nii.gz,no findings
+valid_252_a_1.nii.gz,no findings
+valid_253_a_1.nii.gz,"fibrosis or post-inflammatory scarring, right lung volume loss, cardiomegaly, osteopenia, osteoarthritic changes"
+valid_254_a_1.nii.gz,"sequelae changes in both lungs, pneumonia in the resolution period, millimetric nonspecific nodules in both lungs"
+valid_255_a_1.nii.gz,no findings
+valid_256_a_1.nii.gz,"bilateral pleural effusion, atelectasis, cardiomegaly, dilated mediastinal vessels, mosaic attenuation, aspiration pneumonia, potential atypical covid pneumonia"
+valid_257_a_1.nii.gz,no findings
+valid_258_a_1.nii.gz,no findings
+valid_258_b_1.nii.gz,millimetric nodule in the left lung upper lobe
+valid_258_c_1.nii.gz,nonspecific pulmonary nodule
+valid_258_d_1.nii.gz,"pulmonary nodule, atelectasis, splenomegaly"
+valid_259_a_1.nii.gz,no findings
+valid_260_a_1.nii.gz,"ground glass opacities, consolidation, pulmonary nodules, possible covid-19 pneumonia"
+valid_261_a_1.nii.gz,"interstitial lung disease, millimetric lymph nodes in the mediastinum, right adrenal adenoma"
+valid_262_a_1.nii.gz,hydatid cyst stage ii with calcification
+valid_263_a_1.nii.gz,"calcific nodule in the lung, cortical thinning in kidney, renal cyst, atherosclerosis"
+valid_263_b_1.nii.gz,"atherosclerosis, coronary artery disease, cardiomegaly, pericardial effusion, hiatal hernia, pleural effusion, covid-19 pneumonia, pulmonary calcific nodule, renal cortical changes, renal cortical cyst"
+valid_264_a_1.nii.gz,"bronchiectasis, peribronchial thickening, sequela of prior pulmonary infection or inflammation, atherosclerosis of the thoracic aorta, coronary artery disease, adrenal adenoma"
+valid_265_a_1.nii.gz,"calcified pleural plaques, mosaic attenuation pattern, local atelectasis, pleuroparenchymal sequelae, nonspecific pulmonary nodules, atherosclerosis, hiatal hernia"
+valid_266_a_1.nii.gz,no findings
+valid_267_a_1.nii.gz,"mosaic attenuation pattern, possible small airway disease, possible small vessel disease"
+valid_268_a_1.nii.gz,"pneumonic infiltration in the right lung lower lobe superior segment, pneumonic infiltration in the left lung lower lobe, hepatic steatosis"
+valid_269_a_1.nii.gz,"linear atelectasis, pulmonary nodules"
+valid_270_a_1.nii.gz,"cystic bronchiectasis, peribronchial thickening, pleural retraction, millimetric calcific foci in lungs, diffuse osteopenia, degenerative changes in vertebral bodies, cholelithiasis, nodular ground glass opacities in lungs, possible early viral pneumonia, small mediastinal lymph nodes"
+valid_271_a_1.nii.gz,"covid-19 viral pneumonia, right kidney lesion, status post cholecystectomy"
+valid_272_a_1.nii.gz,covid-19 pneumonia
+valid_273_a_1.nii.gz,"nonspecific intrapulmonary nodules, pulmonary calcifications, nodular thickening, subpleural lymph node enlargement, mild hiatal hernia"
+valid_274_a_1.nii.gz,"anasarca, pleural effusion, lung atelectasis, coronary artery disease"
+valid_274_b_1.nii.gz,no findings
+valid_274_c_1.nii.gz,"atelectasis, volume loss in lower lobes of lungs, pleural effusion, pericardial effusion, degenerative changes in bone structures, decreased bone density"
+valid_275_a_1.nii.gz,"cardiomegaly, pericardial effusion, bilateral pleural effusion, increased interlobular septal thickness, ground glass opacities, subsegmental atelectasis, bilateral tubular bronchiectasis, peribronchial thickening, dilatation of the ascending aorta, hiatal hernia, thyromegaly, mediastinal hypodense nodule"
+valid_276_a_1.nii.gz,"operated renal cell carcinoma, mediastinal metastasis, lung metastasis, mediastinal vascular structure encasement, chest wall metastasis, new infectious process in the left lung, resolution of left hemithorax effusion, improved aeration in the right lung"
+valid_277_a_1.nii.gz,"emphysema, pulmonary nodules, lung sequelae, atelectasis"
+valid_277_b_1.nii.gz,"emphysematous changes, atherosclerotic changes, pulmonary atelectasis, nodular consolidation likely secondary to infection"
+valid_277_c_1.nii.gz,"no newly developed pathology, stability of previous findings"
+valid_277_d_1.nii.gz,lung nodule enlargement
+valid_277_e_1.nii.gz,no findings
+valid_277_f_1.nii.gz,no findings
+valid_277_g_1.nii.gz,"bilateral pleural effusion, pericardial effusion, atelectasis-consolidation complex in both lungs, emphysematous changes in both lungs, increased interlobular septal thickness in both lungs, hypodense thyroid nodules"
+valid_278_a_1.nii.gz,"pericardial calcification, atherosclerosis, coronary artery disease, lymphadenopathy, pleural effusion, empyema, renal hemorrhagic cyst, renal cortical cysts"
+valid_278_b_1.nii.gz,"new infectious processes in both lungs, space-occupying lesion in the lungs, crazy paving patterns, resolved hematoma in right axillary region, lymphadenopathy in the mediastinum, atelectasis in the lower lobes of both lungs, mild bronchiectasis, pleural effusion with air-fluid levels, pericardial calcifications, loculated pleural effusion in the right hemithorax, osteopenia or osteoporosis, cortical renal cyst, liver parenchymal disease"
+valid_279_a_1.nii.gz,"viral pneumonia, hepatosteatosis, left nephrolithiasis"
+valid_280_a_1.nii.gz,pulmonary nodules
+valid_281_a_1.nii.gz,"nonspecific parenchymal nodules, lung sequelae, ground-glass opacities, covid-19 pneumonia, hepatosteatosis"
+valid_282_a_1.nii.gz,"calcific atheromatous plaques in coronary arteries, sequelae changes in both lungs, tubular bronchiectasis, minimal peribronchial thickening"
+valid_283_a_1.nii.gz,no findings
+valid_284_a_1.nii.gz,"mild atelectasis of lower lobes, suspicious liver cyst, small hiatal hernia"
+valid_285_a_1.nii.gz,"pulmonary nodules, osteodegenerative changes"
+valid_286_a_1.nii.gz,no findings
+valid_287_a_1.nii.gz,"covid-19 pneumonia, other viral pneumonias"
+valid_288_a_1.nii.gz,"bronchial wall thickening, air trapping, left adrenal adenoma, status post cholecystectomy"
+valid_289_a_1.nii.gz,"covid pneumonia, cardiomegaly, biventricular dilation"
+valid_290_a_1.nii.gz,"ground glass opacities in lungs, possible early or resolving covid-19 pneumonia"
+valid_291_a_1.nii.gz,"mosaic attenuation pattern of the lungs, ground-glass opacities, goiter or large thyroid nodule, thyroid heterogeneity, degenerative bone disease, thoracic scoliosis, left adrenal nodule"
+valid_292_a_1.nii.gz,"covid-19 pneumonia, bilateral pleural effusion, degenerative changes in bone structure"
+valid_293_a_1.nii.gz,no findings
+valid_294_a_1.nii.gz,"ground-glass opacities, viral pneumonia, lymphadenopathy"
+valid_295_a_1.nii.gz,"calcific atheroma, pulmonary artery enlargement, mosaic attenuation pattern, small airway disease, small vessel disease, parenchymal changes, pulmonary calcified nodules, fibrotic nodular formation, bronchiectasis, peribronchial thickening, old compression fracture of l1, degenerative bone disease, thoracic kyphosis, thoracic spondylosis, thyroid enlargement, thyroid heterogeneity"
+valid_296_a_1.nii.gz,nonspecific millimetric pulmonary nodules
+valid_297_a_1.nii.gz,"covid pneumonia, coronary atherosclerosis, polycystic liver disease, polycystic kidney disease"
+valid_298_a_1.nii.gz,"covid pneumonia, mild parenchymal involvement"
+valid_299_a_1.nii.gz,no findings
+valid_300_a_1.nii.gz,"centrilobular nodules (possible bronchiolitis, infection, or hypersensitivity pneumonitis), upper zone prominence in both lungs, right nephrolithiasis (kidney stones), non-specific hypodense liver nodule, diverticulum in the descending colon, mild hiatal hernia"
+valid_301_a_1.nii.gz,"breast cancer with postoperative status, lung metastases, lymphangitic carcinomatosis, ground-glass opacities, lung consolidations, pleural effusion, air bronchograms, pleuritis, bone metastases"
+valid_302_a_1.nii.gz,infectious process at the basal level of the lower lobe of the left lung
+valid_303_a_1.nii.gz,"lung consolidation, pulmonary nodule, ground glass opacity, possible covid-19 pneumonia"
+valid_304_a_1.nii.gz,covid-19 viral pneumonia
+valid_305_a_1.nii.gz,"viral pneumonia, nonspecific millimetric nodules in both lungs, cystic nodule in the right lobe of the thyroid gland"
+valid_306_a_1.nii.gz,"pulmonary thrombosis, aortic atherosclerosis, coronary artery atherosclerosis, mediastinal lymphadenopathy, pulmonary nodules, pulmonary emphysema, adrenal nodular lesions (suspected metastasis)"
+valid_307_a_1.nii.gz,no findings
+valid_308_a_1.nii.gz,"pleural-based nodules, linear atelectasis, atherosclerosis, minimal pericardial effusion, hepatosteatosis"
+valid_309_a_1.nii.gz,"irregular contour of right lung upper lobe posterior segment, nodule in right lung upper lobe posterior segment, pleuroparenchymal sequelae around nodule in right lung upper lobe, subpleural nodule in left lung lower lobe laterobasal segment"
+valid_310_a_1.nii.gz,"covid-19, viral pneumonia, calcified atherosclerotic changes, nonspecific parenchymal nodules"
+valid_311_a_1.nii.gz,"possible lymphadenomegaly, contamination in fatty planes of the upper mediastinum, edema, inflammation"
+valid_312_a_1.nii.gz,sequelae changes in both lungs
+valid_313_a_1.nii.gz,fibrotic changes in the left lung
+valid_314_a_1.nii.gz,"pericardial effusion, mosaic attenuation pattern, small airway disease, small vessel disease, pacemaker or port catheter presence, peribronchovascular wall thickening"
+valid_315_a_1.nii.gz,"covid pneumonia, focal pleural thickening, mediastinal lymphadenopathy, atherosclerosis of the aorta and coronary arteries, degenerative changes in the vertebrae"
+valid_316_a_1.nii.gz,no findings
+valid_317_a_1.nii.gz,"ground glass opacities in the lungs, possible viral infection, covid-19 pneumonia"
+valid_318_a_1.nii.gz,"ground-glass opacities in both lungs, early viral pneumonia (covid-19)"
+valid_319_a_1.nii.gz,"pulmonary nodules, atelectasis, hepatosteatosis, hepatomegaly"
+valid_320_a_1.nii.gz,nonspecific pulmonary nodules
+valid_321_a_1.nii.gz,"lung infection or inflammation, liver cyst or suspicious hypodense lesion, osteopenia or reduced bone density, degenerative disc disease or osteophytic changes"
+valid_322_a_1.nii.gz,atherosclerotic plaque in left anterior descending (lad) coronary artery
+valid_323_a_1.nii.gz,"cardiomegaly, atherosclerotic wall calcifications, planjuan goiter, ground glass densities in lung parenchyma, subsegmental atelectatic changes, gallbladder stone-mud, scoliosis, spur formations"
+valid_324_a_1.nii.gz,"covid pneumonia, mild hepatosteatosis"
+valid_325_a_1.nii.gz,atelectasis
+valid_326_a_1.nii.gz,viral pneumonia
+valid_327_a_1.nii.gz,no findings
+valid_328_a_1.nii.gz,"calcified pulmonary nodule, atherosclerosis, minimal sequelae changes in lungs"
+valid_329_a_1.nii.gz,"mixed type hiatal hernia, lung nodules, emphysematous changes"
+valid_330_a_1.nii.gz,"atherosclerotic wall calcifications, tubular bronchiectasis, peribronchial thickening, focal atelectasis, parenchymal nodules"
+valid_331_a_1.nii.gz,"mild dilatation of the ascending aorta, calcified atherosclerotic changes in the thoracic aorta, calcified atherosclerotic changes in the coronary artery wall, centriacinar ground-glass opacities, possible asthma, possible respiratory effects due to smoking, sequelae changes in both lungs, mild emphysematous changes in both lungs, bilateral peribronchial thickenings, possible metabolic bone diseases"
+valid_331_b_1.nii.gz,"mild dilatation of the ascending aorta, atherosclerosis, coronary artery disease, possible asthma, tobacco use-related lung changes, pulmonary emphysema, chronic bronchitis, liver lesion, bilateral renal cysts, possible metabolic bone disease"
+valid_331_c_1.nii.gz,"allergic alveolitis, mild dilatation of the ascending aorta, calcified atherosclerotic changes, mild emphysematous changes, bilateral peribronchial thickenings, stable hypodense lesion in the liver, bilateral renal cysts, possible metabolic bone diseases"
+valid_331_d_1.nii.gz,"calcific and noncalcific parenchymal nodules, pulmonary sequelae changes, mild emphysematous changes, peribronchial thickening, centriacinar ground glass opacities, mild dilatation of the ascending aorta, calcified atherosclerotic changes, hypodense liver lesion, bilateral renal cortical cysts, heterogeneous bone densities suggestive of metabolic bone disease"
+valid_331_e_1.nii.gz,"atherosclerosis, pulmonary ground glass opacities, pulmonary nodules, metabolic bone disease"
+valid_332_a_1.nii.gz,"pulmonary consolidation, suspected early viral pneumonia (covid-19), history of sleeve gastrectomy"
+valid_332_b_1.nii.gz,"minimal effusion around the breast prosthesis, degenerative schmorl nodule impressions in thoracic end plateaus"
+valid_333_a_1.nii.gz,"covid-19 pneumonia, pulmonary nodule, nephrolithiasis"
+valid_333_b_1.nii.gz,"atypical viral pneumonia, nonspecific parenchymal nodule, degenerative change in l1 vertebral corpus"
+valid_334_a_1.nii.gz,no findings
+valid_335_a_1.nii.gz,"aneurysmatic dilatation in the ascending aorta, hiatal hernia, decrease in the volume of the right lung, leftward deviation of the mediastinum and heart, diffuse paraseptal-centracinar emphysema in the upper lobes, microretraction in the pleura, diffuse interlobular septal thickening, pulmonary fibrosis, right lung atelectasis in the middle and lower lobes, round atelectasis in the lower lobe of the right lung, minimal pleural effusion adjacent to the left lung baseline, left adrenal gland thickening, hypodense nodular lesions in the left kidney (possible cysts)"
+valid_336_a_1.nii.gz,no findings
+valid_337_a_1.nii.gz,"pulmonary nodules, atelectasis"
+valid_338_a_1.nii.gz,"cardiomegaly, pulmonary artery enlargement, nonspecific millimetric nodules, focal areas of atelectasis, type 1 hiatal hernia, collection in anterior abdominal wall"
+valid_339_a_1.nii.gz,"emphysema, ground glass opacities, possible infection, pulmonary nodules"
+valid_340_a_1.nii.gz,no findings
+valid_341_a_1.nii.gz,"aortic aneurysm, cardiomegaly, pulmonary artery dilation, atherosclerosis, hiatal hernia, pulmonary emphysema, pleural changes, pulmonary nodules"
+valid_342_a_1.nii.gz,"emphysema, air cyst, fibrotic changes, ground glass opacity, calcific nodules, parenchymal nodule with fibrotic recessions"
+valid_343_a_1.nii.gz,bilateral nephrolithiasis
+valid_344_a_1.nii.gz,"atelectasis of the left upper lobe inferior lingula, pleuroparenchymal sequelae, non-specific nodule in the right middle lobe, bilateral renal cortical cysts"
+valid_345_a_1.nii.gz,"chest mass, pulmonary nodules, subcarinal lymphadenopathy, axillary lymphadenopathy, retropectoral lymphadenopathy, pleural effusion, pulmonary consolidation, ground glass opacities"
+valid_346_a_1.nii.gz,"mosaic attenuation, small airway disease, small vessel disease"
+valid_347_a_1.nii.gz,"nonspecific parenchymal nodules, tractional bronchiectasis, fibroatelectatic changes, lymphadenopathy, atherosclerosis, atrophic changes in the left kidney, left renal cortical cyst"
+valid_348_a_1.nii.gz,"nonspecific parenchymal nodule in the right lung, subsegmental atelectasis in the left lung"
+valid_349_a_1.nii.gz,"mosaic attenuation pattern, small airway disease, small vessel disease, pulmonary nodules"
+valid_350_a_1.nii.gz,"bronchial obliteration, lobe atelectasis, soft tissue density, central obstructive pathology, ground glass opacities, emphysema, pulmonary nodules, thoracic spondylosis"
+valid_351_a_1.nii.gz,"atherosclerosis, small airway disease, small vessel disease, subpleural ground-glass opacity, possible covid-19 pneumonia"
+valid_351_b_1.nii.gz,covid-19 viral pneumonia
+valid_352_a_1.nii.gz,"atherosclerosis, passive atelectasis, possible adrenal adenoma"
+valid_353_a_1.nii.gz,"covid-19 pneumonia, hepatosteatosis"
+valid_354_a_1.nii.gz,"patchy ground-glass opacities likely representing viral pneumonia, hepatosteatosis"
+valid_355_a_1.nii.gz,"cardiomegaly, vascular calcification, renal cortical cysts, osteodegenerative bone disease"
+valid_355_b_1.nii.gz,"dilated pulmonary artery, cardiomegaly, aortic atheromatous calcification, coronary artery calcification, minimal right pleural effusion, renal cysts"
+valid_356_a_1.nii.gz,"tortuous abdominal aorta, aneurysmal dilatation of descending aorta, pulmonary artery dilation, increased cardiothoracic ratio, atherosclerosis with calcified atheroma plaques, bilateral pleural effusion, motion artifact obscuring lung parenchyma, pulmonary consolidation with air bronchograms, renal cysts, thoracic kyphosis, scoliosis of thoracic spine, osteopenia, intervertebral disc space narrowing, vacuum disc phenomenon, vertebral compression fracture at l1, goiter, multinodular goiter"
+valid_357_a_1.nii.gz,"emphysema, bronchiectasis, post-inflammatory pulmonary fibrosis"
+valid_357_b_1.nii.gz,nonspecific pulmonary nodules
+valid_357_c_1.nii.gz,"pulmonary nodules, hiatal hernia, bilateral nephrolithiasis"
+valid_357_d_1.nii.gz,"pulmonary nodules, nephrolithiasis, hiatal hernia"
+valid_357_e_1.nii.gz,"covid-19 pneumonia, sequela parenchymal changes, diffuse mild bronchial ectasia, bilateral nephrolithiasis, minimal hepatosteatosis, mild hiatal hernia"
+valid_358_a_1.nii.gz,no findings
+valid_359_a_1.nii.gz,"pulmonary hypertension, atherosclerosis, pulmonary nodule, atelectasis, thyroid nodular lesion, nephrolithiasis (kidney stone), degenerative bone disease"
+valid_360_a_1.nii.gz,"prostate cancer, liver metastases, atherosclerosis, coronary artery disease, pulmonary emphysema, atelectasis, pulmonary nodules"
+valid_361_a_1.nii.gz,"viral pneumonia, covid-19, influenza, parainfluenza, mycoplasma pneumonia, organizing pneumonia, drug-induced lung disease, connective tissue disease-associated lung disease"
+valid_362_a_1.nii.gz,"pulmonary nodule formations, bilateral pleural effusion, right-sided loculated pleural effusion, pleural thickening, possible empyema, volume overload-cardiac stasis, mosaic attenuation pattern, ground-glass opacities"
+valid_362_b_1.nii.gz,"surgical change post-sternotomy, cardiomegaly, aortic atherosclerosis, coronary artery atherosclerosis, pulmonary edema due to volume overload, bilateral pleural effusion, loculated pleural effusion on the right, pneumonia or pneumonic foci in the upper lobe of the right lung"
+valid_363_a_1.nii.gz,subpleural millimetric nonspecific nodule in the right lung lower lobe
+valid_364_a_1.nii.gz,"metastasis in both lungs, adenoid cystic carcinoma, covid pneumonia, widespread consolidation in both lungs, ground-glass density increases in both lungs, degenerative changes in bone structure, bone metastases, bilateral adrenal adenomas, cortical cyst in the left kidney"
+valid_365_a_1.nii.gz,"bilateral pleural effusion, pericardial effusion, diffuse reticulonodular densities in both lungs, ground-glass opacities, infective process, mild emphysematous changes, millimetric hemorrhagic cyst in the left kidney"
+valid_366_a_1.nii.gz,no findings
+valid_367_a_1.nii.gz,"covid-19 pneumonia, other viral pneumonias"
+valid_368_a_1.nii.gz,"multiple nonspecific pulmonary nodules, hepatosteatosis, lobulated liver and gallbladder contours"
+valid_369_a_1.nii.gz,"consolidation, pneumonic infiltration, emphysematous changes, nonspecific pulmonary nodules"
+valid_370_a_1.nii.gz,"covid-19 pneumonia, consolidation"
+valid_371_a_1.nii.gz,nonspecific millimetric pulmonary nodules
+valid_372_a_1.nii.gz,adrenal calcifications
+valid_373_a_1.nii.gz,"sternotomy changes, aortic atherosclerosis, coronary artery atherosclerosis, coronary stenting, non-specific millimetric lung nodules, focal ground-glass densities in the lung, suspected pneumonia, cholelithiasis"
+valid_373_b_1.nii.gz,viral pneumonia
+valid_374_a_1.nii.gz,no findings
+valid_375_a_1.nii.gz,no findings
+valid_376_a_1.nii.gz,no findings
+valid_377_a_1.nii.gz,"reticulonodular fibrosis, paraseptal emphysema, tubular bronchiectasis, peribronchial thickening, paramediastinal bulla, solitary subpleural nodule"
+valid_378_a_1.nii.gz,"ectasia in the ascending aorta, hiatal hernia, nodular ground glass opacities, nodular consolidations, crazy paving pattern, interlobular septal thickening, covid-19 pneumonia, minimal degenerative changes in bone structures"
+valid_379_a_1.nii.gz,"motion artefacts, mosaic perfusion, small airway disease, small vascular disease"
+valid_380_a_1.nii.gz,no findings
+valid_381_a_1.nii.gz,"bilateral pleural effusion, atelectasis, pulmonary emphysema, atherosclerosis, coronary artery disease, bilateral hydronephrosis, bone metastases"
+valid_382_a_1.nii.gz,"consolidation in right lung lower lobe, bacterial pneumonia"
+valid_382_b_1.nii.gz,"calcific atheroma, coronary artery disease, degenerative bone disease, pleural effusion, atelectasis, cholelithiasis"
+valid_382_c_1.nii.gz,no findings
+valid_383_a_1.nii.gz,"calcific atheroma plaques, hiatal hernia, subsegmentary atelectasis, degenerative bone disease, osteophytes"
+valid_384_a_1.nii.gz,"nonspecific parenchymal nodules in lungs, mild scoliosis"
+valid_385_a_1.nii.gz,"covid-19 pneumonia, subsegmental atelectasis, mediastinal lymphadenopathy"
+valid_386_a_1.nii.gz,"nonspecific pulmonary nodules, reticular densities in the lungs"
+valid_387_a_1.nii.gz,"pulmonary nodules, ground-glass opacities"
+valid_387_b_1.nii.gz,"pneumocystis pneumonia, infective pathology in both lungs"
+valid_388_a_1.nii.gz,"subsegmental atelectatic changes, round-shaped consolidation, undifferentiated round pneumonia, atelectasis, hepatosplenomegaly"
+valid_388_b_1.nii.gz,"catheter-related complication, pulmonary ground-glass consolidation, pulmonary nodules, suspected covid-19 pneumonia"
+valid_389_a_1.nii.gz,"pulmonary hypertension, cardiomegaly, atherosclerosis, hiatal hernia, pulmonary consolidation, lung infection, pulmonary nodule, mosaic attenuation pattern, osteodegenerative changes"
+valid_389_b_1.nii.gz,"acute myeloid leukemia (aml), pulmonary consolidation, pulmonary nodules, ground glass opacities, possible infectious pathology, possible neoplastic events, atelectasis, emphysematous changes"
+valid_390_a_1.nii.gz,"pulmonary nodules, focal atelectasis, hiatal hernia, hepatosteatosis, post-cholecystectomy status, mesenteric fat stranding, mesenteric lymphadenopathy"
+valid_391_a_1.nii.gz,"dilatation of the ascending aorta, pleural calcification, volume loss of right lung, pulmonary fibrosis, fibroatelectasis, pulmonary nodules, linear atelectasis, congenital block vertebra, scoliosis"
+valid_392_a_1.nii.gz,"ground-glass consolidation, pulmonary sequelae, covid pneumonia, pleuroparenchymal fibroelastosis, subpleural nodule, right kidney calculus"
+valid_393_a_1.nii.gz,"pulmonary artery dilation, pulmonary hypertension, coronary artery atherosclerosis, bronchial wall thickening, bronchial narrowing, atelectasis, lung aeration differences, osteoporosis, degenerative bone disease, diffuse idiopathic skeletal hyperostosis (dish)"
+valid_394_a_1.nii.gz,gynecomastia
+valid_395_a_1.nii.gz,pulmonary nodules
+valid_396_a_1.nii.gz,"mild sequelae changes in both lungs, mild emphysema"
+valid_397_a_1.nii.gz,"pneumonic infiltration, mosaic attenuation pattern, small airway disease, small vessel disease, atherosclerosis, coronary artery disease, degenerative bone disease"
+valid_398_a_1.nii.gz,"atypical viral pneumonia (covid-19), atelectasis, osteopenia, degenerative changes in bone structures, small hiatal hernia, hepatosteatosis"
+valid_399_a_1.nii.gz,"bilateral tubular bronchiectasis, linear atelectasis in both lungs, pulmonary nodules, thickening of the medial crus of the left adrenal gland"
+valid_400_a_1.nii.gz,pulmonary nodules
+valid_401_a_1.nii.gz,"small airway disease, pulmonary edema, pericardial effusion, left nephrolithiasis, cholelithiasis, osteopenia, degenerative changes in bone structures, atherosclerosis, possible urinary tract infection (uti), phleboliths in ovarian sites"
+valid_402_a_1.nii.gz,"ectasia in the ascending aorta, cardiomegaly, mosaic attenuation suggestive of small airway disease or small vessel disease, pleuroparenchymal sequelae with nodular formation in the left lung apex"
+valid_403_a_1.nii.gz,"pneumonic consolidations in upper lobes and right middle lobe (regressed), respiratory bronchiolitis, increased bronchial wall thickness in basal segment bronchi"
+valid_403_b_1.nii.gz,"mild emphysematous changes, ground-glass opacity, possible covid pneumonia, hepatosteatosis"
+valid_404_a_1.nii.gz,sequelae changes in both lungs
+valid_405_a_1.nii.gz,no findings
+valid_406_a_1.nii.gz,"covid-19 viral pneumonia, nonspecific pulmonary nodules"
+valid_407_a_1.nii.gz,pleuroparenchymal sequelae
+valid_408_a_1.nii.gz,"bladder cancer, possible peritoneal and mesocolonic contamination"
+valid_409_a_1.nii.gz,"respiratory bronchiolitis, millimetric nonspecific nodule in the left lung"
+valid_410_a_1.nii.gz,"bilateral pneumothorax, diffuse ground glass opacities, pulmonary fibrosis, consolidation, atelectasis, covid-19 pneumonia sequelae, tracheostomy tube application"
+valid_410_b_1.nii.gz,no findings
+valid_410_c_1.nii.gz,"interstitial lung disease, bronchiectasis, viral pneumonia (possibly covid-19), interstitial fibrosis, acinar nodularity, ground-glass opacities, lymphadenopathy, mild hepatosteatosis, reduced bone density"
+valid_411_a_1.nii.gz,"emphysema, bronchial dilatation"
+valid_412_a_1.nii.gz,"covid-19 viral pneumonia, pulmonary nodules"
+valid_413_a_1.nii.gz,"cardiomegaly, aortic ectasia, coronary artery ectasia, mediastinal lymphadenopathy, hilar lymphadenopathy, calcified lymph nodes, diffuse emphysema, pulmonary consolidations, ground glass opacities, nodular consolidations with irregular borders, bronchial wall thickening, bronchiectasis, intrabronchial secretory densities, infectious process in the lungs, possible mass in the right upper lobe, possible mass in the left upper lobe, pneumobilia"
+valid_414_a_1.nii.gz,"pulmonary consolidation, bacterial pneumonia, emphysema, mediastinal lymphadenopathy, aortic atheromatous disease, left adrenal adenoma"
+valid_414_b_1.nii.gz,"regression of consolidation in right upper lobe, possible space-occupying lesion or nodule in lung, interstitial lung disease, emphysematous changes, calcified atheroma plaques in aortic arch, mediastinal lymphadenopathy, adenoma in left adrenal gland"
+valid_415_a_1.nii.gz,nonspecific lung nodules
+valid_416_a_1.nii.gz,no findings
+valid_416_b_1.nii.gz,"mild sequelae changes in both lungs, atherosclerotic changes, slight increase in calibration of vascular structures in the mediastinum, hepatosteatosis, hiatal hernia"
+valid_417_a_1.nii.gz,"sequelae of previous tb infection, aortic dilation, left adrenal adenoma, cortical cyst in left kidney"
+valid_418_a_1.nii.gz,"bronchiectasis, atelectasis, bronchial secretion, peribronchial thickening, ground glass opacity, bronchopneumonic infiltration, pulmonary nodules, mosaic attenuation pattern, degenerative bone disease"
+valid_419_a_1.nii.gz,"chronic liver parenchymal disease, emphysema, hiatal hernia"
+valid_420_a_1.nii.gz,"bronchiectasis, peribronchial thickening, mosaic attenuation pattern, small airway disease, small vessel disease, pulmonary parenchymal changes, pulmonary nodules, calcified pulmonary nodules"
+valid_421_a_1.nii.gz,"millimetric nonspecific parenchymal nodule in the left lung upper lobe, millimetric nonspecific parenchymal nodule in the right lung middle lobe"
+valid_422_a_1.nii.gz,no findings
+valid_423_a_1.nii.gz,"pleural effusion, compression atelectasis, perfusion abnormality (small vessel disease or small airway disease), significant atherosclerotic changes, porcelain gallbladder, adrenal adenomas"
+valid_423_b_1.nii.gz,"calcified atherosclerosis of the thoracic aorta, coronary artery calcification, hiatal hernia, bilateral pleural effusion, atelectasis, peribronchial thickening, bilateral ground glass opacities, possible viral pneumonia, porcelain gallbladder, adrenal adenoma, renal cysts, degenerative changes in thoracic vertebrae, scoliosis"
+valid_423_c_1.nii.gz,"covid-19, atherosclerosis, pleural effusion"
+valid_424_a_1.nii.gz,band atelectasis
+valid_425_a_1.nii.gz,"tracheobronchopathia osteochondroplastica, aortic ectasia, cardiomegaly, aortic valve replacement, atherosclerosis with calcified atheromatous plaques, hiatal hernia, bilateral pleural effusion, atelectasis, pulmonary congestion, ground-glass opacities, fibroatelectasis, diastasis recti, osteoarthritis, sacroiliitis"
+valid_426_a_1.nii.gz,hepatosteatosis
+valid_427_a_1.nii.gz,"fusiform ectasia of the thoracic aorta, atherosclerotic disease of the thoracic aorta, cardiomegaly, mosaic attenuation pattern (possible small airway or small vessel disease), atelectatic changes in both lungs, adrenal gland abnormality (nodular thickening in the left adrenal gland corpus), osteodegenerative changes"
+valid_428_a_1.nii.gz,"minimal bronchiectasis, minimal peribronchial thickening, minimal emphysematous changes, millimetric nonspecific nodules"
+valid_429_a_1.nii.gz,"early infectious process in the lungs, possible covid-19 viral pneumonia, mild fibrotic changes, bronchiectasis, atherosclerosis"
+valid_429_b_1.nii.gz,"fusiform aneurysm of the thoracic aorta, atherosclerosis with wall calcifications, bilateral pleural effusion, covid-19 pneumonia, pulmonary nodules, reticulonodular pattern indicative of interstitial lung disease, spondylosis of the thoracic spine"
+valid_430_a_1.nii.gz,"subpleural millimetric non-specific solitary nodule in the lower lobe of the left lung, cholelithiasis, lymphadenopathy, bronchial wall thickening"
+valid_431_a_1.nii.gz,"pulmonary nodules, right nephrolithiasis"
+valid_432_a_1.nii.gz,"bronchiectasis, bronchial wall thickening, peribronchial reticulonodular densities, ground-glass densities, acute bronchitis, bronchiolitis, millimetric nonspecific nodules"
+valid_433_a_1.nii.gz,"calcified pleural plaques, atherosclerotic changes, peribronchial thickening, degenerative bone disease"
+valid_434_a_1.nii.gz,no findings
+valid_435_a_1.nii.gz,viral pneumonia
+valid_436_a_1.nii.gz,"emphysema, atelectasis, pulmonary nodules"
+valid_437_a_1.nii.gz,"emphysema, paracicatricial bronchiectasis, ground-glass opacities, lymphadenomegaly, cholelithiasis"
+valid_437_b_1.nii.gz,"emphysema, tuberculosis sequelae, aortic ectasia, coronary atherosclerosis"
+valid_438_a_1.nii.gz,"diffuse atherosclerosis of thoracic aorta, coronary artery calcification, fusiform ectasia of the descending aorta, central bronchiectasis, peribronchial thickening, pulmonary air cysts, fibroatelectatic changes, left renal hemorrhagic cyst, thoracic vertebral syndesmophytes"
+valid_439_a_1.nii.gz,"covid-19 pneumonia, other infectious pneumonia, noninfectious lung pathology"
+valid_440_a_1.nii.gz,no findings
+valid_441_a_1.nii.gz,"pulmonary sequela, bronchiectasis, subpleural interstitial disease, pectus excavatum"
+valid_442_a_1.nii.gz,pulmonary nodules
+valid_443_a_1.nii.gz,"hiatal hernia, millimetric nonspecific parenchymal nodule, fibrotic sequelae changes, spur formations"
+valid_444_a_1.nii.gz,no findings
+valid_445_a_1.nii.gz,nonspecific nodules in the right lung
+valid_446_a_1.nii.gz,"atypical pneumonia, covid-19 pulmonary infection, thyroid nodule with extraparenchymal extension"
+valid_446_b_1.nii.gz,nodules in left thyroid lobe
+valid_447_a_1.nii.gz,"coronary atherosclerosis, millimetric nodules in both lungs, thoracic kyphoscoliosis"
+valid_448_a_1.nii.gz,"pulmonary nodules, mild hepatosteatosis"
+valid_449_a_1.nii.gz,"hepatosteatosis, hepatomegaly, angiomyolipoma of the right kidney"
+valid_449_b_1.nii.gz,viral pneumonia
+valid_450_a_1.nii.gz,"viral pneumonia, covid-19, influenza, parainfluenza, mycoplasma infection, organizing pneumonia, drug toxicity, connective tissue disease"
+valid_451_a_1.nii.gz,"pleuroparenchymal sequelae, pulmonary nodule, atelectasis"
+valid_452_a_1.nii.gz,"budding tree appearance indicating possible infectious process, nonspecific pulmonary nodules, bronchiectasis, mediastinal lymphadenopathy"
+valid_453_a_1.nii.gz,"cardiomegaly, bronchiectasis, peribronchial wall thickening, ground-glass opacities, bronchopneumonia, cholelithiasis"
+valid_454_a_1.nii.gz,"pulmonary nodules, bronchiectasis"
+valid_454_b_1.nii.gz,"multiple millimetric pulmonary nodules, subsegmental atelectasis, hypodense renal lesion, parapelvic cyst"
+valid_454_c_1.nii.gz,"subsegmental atelectasis, left renal parapelvic cyst"
+valid_455_a_1.nii.gz,"pulmonary nodules, right nephrolithiasis"
+valid_456_a_1.nii.gz,no findings
+valid_456_b_1.nii.gz,"left lung lower lobe pneumonia, right lung lower lobe pneumonia, possible covid-19 pneumonia"
+valid_457_a_1.nii.gz,"post liver transplant complications, intraabdominal free air, collections near the liver transplant site, pleural effusion in the right hemithorax, compression atelectasis in the right lower lobe, segmental atelectasis in the left lung, increased interlobular septal thickness, lymphadenopathy, splenomegaly"
+valid_457_b_1.nii.gz,no findings
+valid_457_c_1.nii.gz,"bilateral pleural effusion, bilateral lung atelectasis, right lower lobe collapse, pericardial effusion, atherosclerosis"
+valid_457_d_1.nii.gz,"atelectasis, suspected aspergilloma"
+valid_458_a_1.nii.gz,covid-19 pneumonia
+valid_459_a_1.nii.gz,"pulmonary embolism, right pleural effusion, loculated collection adjacent to the posterior segment of the upper lobe of the right lung"
+valid_460_a_1.nii.gz,mediastinal lymphadenopathy
+valid_461_a_1.nii.gz,"atypical pneumonic infiltration, covid pneumonia, hiatal hernia"
+valid_462_a_1.nii.gz,"thymic hyperplasia, pulmonary nodules, sequelae changes in the lung"
+valid_463_a_1.nii.gz,"linear atelectasis, emphysema"
+valid_464_a_1.nii.gz,"pulmonary fibrosis or scarring, pulmonary nodule"
+valid_465_a_1.nii.gz,no findings
+valid_466_a_1.nii.gz,covid-19 pneumonia
+valid_467_a_1.nii.gz,pulmonary nodule
+valid_468_a_1.nii.gz,"pulmonary nodules, focal pulmonary consolidation, ground-glass opacity, possible covid pneumonia"
+valid_469_a_1.nii.gz,"mild cardiomegaly, pericardial effusion, pericardial thickening, dilatation of the aortic arch, aortic wall thickening, emphysema, mild sequelae changes"
+valid_470_a_1.nii.gz,viral pneumonia
+valid_471_a_1.nii.gz,"lymphoma, pneumonia"
+valid_472_a_1.nii.gz,minimal bronchiectasis
+valid_473_a_1.nii.gz,no findings
+valid_474_a_1.nii.gz,"bronchial wall thickening, hyperaeration, mosaic attenuation pattern, pulmonary nodules"
+valid_475_a_1.nii.gz,"lung infection, mosaic attenuation pattern, possible small vessel disease, possible small airway disease, bilateral mild pleural effusion, ectasia or parapelvic cyst in the left kidney, edematous appearance in the gallbladder wall"
+valid_475_b_1.nii.gz,no findings
+valid_475_c_1.nii.gz,"increased density in subcutaneous adipose tissue possibly due to lymphedema or hypoalbuminemia, ground-glass opacities in both lungs, stable bilateral pleural effusion, degenerative bone changes"
+valid_475_d_1.nii.gz,"pulmonary nodules, degenerative bone disease"
+valid_475_e_1.nii.gz,"bilateral pleural effusion, stable parenchymal nodules in the lung, skin and intra-abdominal edema, diffuse degenerative changes in bone structure"
+valid_476_a_1.nii.gz,"infective pathology in the lower lobe of the left lung, minimal bronchiectasis in both lungs, emphysematous changes in both lungs, pleuroparenchymal sequelae in both lung apex"
+valid_477_a_1.nii.gz,emphysema
+valid_478_a_1.nii.gz,"covid pneumonia, atypical pneumonic infiltrates"
+valid_479_a_1.nii.gz,"covid-19 pneumonia, influenza pneumonia, organizing pneumonia, drug toxicity, connective tissue disease"
+valid_480_a_1.nii.gz,"cardiomegaly, mosaic attenuation pattern, hepatomegaly, hepatosteatosis, mild scoliosis, osteodegenerative changes"
+valid_481_a_1.nii.gz,covid 19 pneumonia
+valid_482_a_1.nii.gz,"semisolid nodule in the right lung, asymmetrical density increase in the left breast"
+valid_482_b_1.nii.gz,"semisolid nodule in the right lung, splenomegaly"
+valid_482_c_1.nii.gz,"pulmonary nodule, interlobular septal thickening, cardiac enlargement, mild atelectasis, pulmonary emphysema, atherosclerosis, splenomegaly, anterior abdominal wall hernia, hiatal hernia"
+valid_482_d_1.nii.gz,"mild emphysematous changes, cardiomegaly, atherosclerosis, fusiform dilatation of the ascending aorta, covid-19 pneumonia, viral pneumonia, parenchymal nodule in the right upper lobe, splenomegaly, mild pleural effusion, atelectasis, post-cholecystectomy changes, epigastric hernia"
+valid_482_e_1.nii.gz,"viral pneumonia, pulmonary infiltrates"
+valid_482_f_1.nii.gz,pneumonic consolidation in both lungs
+valid_482_g_1.nii.gz,"mild consolidation, millimetric nodules, ground glass opacities, old pneumonic consolidation areas, regressed pneumonia"
+valid_482_h_1.nii.gz,"cardiomegaly, atherosclerosis, stable mediastinal lymphadenopathy, viral pneumonia, diffuse alveolar hemorrhage, left pleural effusion, right minimal pleural effusion, hepatosplenomegaly, status post cholecystectomy"
+valid_483_a_1.nii.gz,"fibroratelectatic changes, pulmonary nodules, liver lesions, calcifications"
+valid_484_a_1.nii.gz,"lung fibrosis, calcific nodules, ground-glass opacity"
+valid_484_b_1.nii.gz,"covid-19 viral pneumonia, subpleural calcific nodules"
+valid_485_a_1.nii.gz,no findings
+valid_486_a_1.nii.gz,"bronchopneumonia, covid-19, bacterial pneumonia, bronchial obstruction, hilar mass, pericardial effusion, cardiomegaly, atherosclerosis"
+valid_487_a_1.nii.gz,"surgical changes post sternum and tricuspid valve surgery, tetralogy of fallot postoperative state, pulmonary valve prosthesis, fusiform aneurysmatic dilatation of ascending aorta, fibroatelectasis in both lungs"
+valid_487_b_1.nii.gz,"surgical changes post sternotomy and tricuspid valve surgery, prosthetic pulmonary valve, aneurysmatic dilatation in ascending aorta, fibroatelectasis in both lungs"
+valid_488_a_1.nii.gz,no findings
+valid_489_a_1.nii.gz,"cardiomegaly, coronary artery atherosclerosis, pulmonary nodularity, hiatal hernia, renal cysts, right nephrolithiasis, cholelithiasis, renal atrophy, laryngeal asymmetry, subglottic stenosis"
+valid_490_a_1.nii.gz,"pneumonic infiltration, pleural effusion, lung consolidation, ground glass opacities, possible covid pneumonia"
+valid_491_a_1.nii.gz,no findings
+valid_492_a_1.nii.gz,"multiple pulmonary nodules, emphysema, linear atelectasis, hiatal hernia, renal cyst, thoracolumbar spondylosis"
+valid_492_b_1.nii.gz,"pulmonary nodules, atherosclerosis, ascending aorta dilation"
+valid_493_a_1.nii.gz,"metastatic pulmonary nodules, interstitial lung disease, hepatosteatosis, hiatal hernia, lymphadenopathy, pericardial effusion"
+valid_493_b_1.nii.gz,"lymphadenopathy, pulmonary nodules, pericardial effusion, pleural effusion, interlobular septal thickening, ground glass opacities"
+valid_493_c_1.nii.gz,no findings
+valid_494_a_1.nii.gz,"pulmonary fibrosis, liver lesion"
+valid_495_a_1.nii.gz,"primary tuberculosis sequelae, covid-19 pneumonia"
+valid_496_a_1.nii.gz,no findings
+valid_497_a_1.nii.gz,"atherosclerosis, covid-19 pneumonia, peribronchial thickening, nonspecific hypodense lesion (possible cyst)"
+valid_498_a_1.nii.gz,no findings
+valid_499_a_1.nii.gz,mild atherosclerosis
+valid_500_a_1.nii.gz,"cardiomegaly, ascending aortic aneurysm, pulmonary artery enlargement, lymphadenopathy, pleural effusion, compression atelectasis, interstitial lung disease, infective process, subsegmental atelectasis"
+valid_500_b_1.nii.gz,"pulmonary emphysema, pneumonic infiltration, cholelithiasis"
+valid_500_c_1.nii.gz,"cardiomegaly, ascending aortic aneurysm, increased pulmonary artery diameters, possible pulmonary hypertension, subpleural nodular lesion, round atelectasis"
+valid_500_d_1.nii.gz,"mediastinal lymphadenopathy, cardiomegaly, aortic dilatation, pulmonary artery dilatation, fibroatelectatic changes"
+valid_501_a_1.nii.gz,"linear atelectasis in the left lung, millimetric atheroma plaque in the aortic arch, adenoma in the left adrenal gland"
+valid_502_a_1.nii.gz,"fibroatelectatic changes in both lungs, nonspecific parenchymal nodules in the right lung, bilateral peribronchial thickening, tubular bronchiectasis in the lower lobes, micronodular opacities in the anterobasal segment of the lower lobe of the left lung, chronic bronchiolitis sequelae, right adrenal adenoma, pericardial minimal effusion, left renal hypodense lesion"
+valid_503_a_1.nii.gz,pulmonary nodules
+valid_503_b_1.nii.gz,nonspecific pulmonary nodules
+valid_504_a_1.nii.gz,"large cavitation in the right upper lung lobe, ground glass opacities, atypical features for covid-19 pneumonia, intra-abdominal free fluid"
+valid_505_a_1.nii.gz,"emphysema, atelectasis, hepatic steatosis, adrenal adenoma, thoracic spondylosis"
+valid_506_a_1.nii.gz,"mediastinal and hilar lymphadenopathy, bilateral pleural effusion, pulmonary ground-glass opacities, pulmonary nodules, focal pulmonary consolidation, liver lesion, bilateral adrenal gland thickening, adrenal adenoma, diffuse idiopathic skeletal hyperostosis (dish)"
+valid_507_a_1.nii.gz,"pneumomediastinum, hepatic lesion"
+valid_508_a_1.nii.gz,"nonspecific parenchymal nodule in the right lung, sequelae changes in the left lung"
+valid_509_a_1.nii.gz,"calcific atheromatous plaques, millimetric nonspecific lung nodules"
+valid_509_b_1.nii.gz,"covid pneumonia, ectasia of the ascending aorta, aortic atherosclerosis"
+valid_510_a_1.nii.gz,"sequela parenchymal changes, mild ectasia, peribronchial thickening"
+valid_511_a_1.nii.gz,"covid pneumonia, hepatosteatosis"
+valid_512_a_1.nii.gz,"covid pneumonia, ground-glass opacities, interlobular septal thickening"
+valid_512_b_1.nii.gz,"coronary atherosclerosis, covid pneumonia"
+valid_513_a_1.nii.gz,viral pneumonia
+valid_514_a_1.nii.gz,"covid-19 pneumonia, viral pneumonia, mild hepatosteatosis"
+valid_515_a_1.nii.gz,"hiatal hernia, aneurysm of ascending aorta, mosaic attenuation pattern, subpleural nodules in the right lung, nodular lesions in kidneys"
+valid_516_a_1.nii.gz,"pulmonary nodules, pulmonary emphysema"
+valid_517_a_1.nii.gz,"paraseptal emphysema, pulmonary nodules, pericardial effusion, hiatal hernia, adrenal adenoma"
+valid_518_a_1.nii.gz,"viral pneumonia, degenerative changes in vertebrae"
+valid_519_a_1.nii.gz,"ground-glass opacities, possible early stage infection, hepatosteatosis"
+valid_520_a_1.nii.gz,"mosaic attenuation pattern, increased bronchial wall thickness, small airway involvement, centralobular ground-glass nodules, bronchiolitis"
+valid_521_a_1.nii.gz,cholelithiasis
+valid_522_a_1.nii.gz,"bronchiectasis, vascular prominence, infective bronchiolitis, pneumonia, possible covid-19 infection"
+valid_523_a_1.nii.gz,"focal calcific atherosclerotic plaque in left anterior descending (lad) artery, nonspecific mediastinal lymphadenopathy, hepatosteatosis, renal contour lobulation, right kidney size reduction"
+valid_524_a_1.nii.gz,"covid-19 pneumonia, other infectious diseases, non-infectious diseases"
+valid_525_a_1.nii.gz,hiatal hernia
+valid_526_a_1.nii.gz,"viral pneumonia, covid-19, influenza, parainfluenza, mycoplasma pneumonia, organizing pneumonia, drug toxicity, connective tissue disease"
+valid_527_a_1.nii.gz,atelectasis
+valid_528_a_1.nii.gz,"atypical pneumonic infiltration, covid-19 lung involvement, lung parenchyma recovery process, sliding type hiatal hernia, dilatation in left collecting system"
+valid_529_a_1.nii.gz,no findings
+valid_530_a_1.nii.gz,"atypical pneumonia, possible viral infection, possible bacterial infection"
+valid_531_a_1.nii.gz,no findings
+valid_531_b_1.nii.gz,no findings
+valid_532_a_1.nii.gz,"hiatal hernia, covid-19 pneumonia, high-density nodular lesion in the right kidney, hemorrhagic cyst"
+valid_533_a_1.nii.gz,no findings
+valid_534_a_1.nii.gz,status post cholecystectomy
+valid_534_b_1.nii.gz,covid-19 pneumonia
+valid_535_a_1.nii.gz,"emphysema, pulmonary nodules"
+valid_535_b_1.nii.gz,minimal atelectasis changes
+valid_535_c_1.nii.gz,mild emphysema
+valid_536_a_1.nii.gz,"ground-glass opacities, viral pneumonia, status post cholecystectomy, renal cortical cysts"
+valid_536_b_1.nii.gz,no findings
+valid_537_a_1.nii.gz,"ground-glass opacity, covid pneumonia"
+valid_537_b_1.nii.gz,ground glass opacities
+valid_538_a_1.nii.gz,"left lung upper lobe mass with mediastinal invasion, lymphangitis carcinomatosa, intraparenchymal metastases in both lungs, pulmonary emphysema, bilateral pleural effusion, pathologically enlarged lymph nodes, ascending aorta aneurysm, pericardial effusion, hiatal hernia"
+valid_538_b_1.nii.gz,"non-hodgkin lymphoma, mass lesion in the left scapula, satellite lesions, mediastinal mass infiltration, lung nodules, pathological lymph node in the mediastinum"
+valid_538_c_1.nii.gz,"progressive mass lesions in the left scapula, stable mass in the mediastinum of the left lung, new malignant pulmonary nodules, mediastinal lymphadenopathy, ground-glass opacities in both lungs, pneumonic infiltration, potential infectious process, differential diagnosis includes non-typical presentation of covid-19 pneumonia, progressive malignancy"
+valid_539_a_1.nii.gz,"pericardial thickening, cardiomegaly, peribronchial thickening, pulmonary nodules, centriacinar nodules, degenerative bone disease"
+valid_540_a_1.nii.gz,no findings
+valid_541_a_1.nii.gz,"sequela parenchymal changes, pulmonary nodules, minimal emphysematous changes, bronchial ectasia"
+valid_542_a_1.nii.gz,"covid-19 pneumonia, pulmonary calcified nodule, coronary artery calcification, pulmonary artery enlargement"
+valid_543_a_1.nii.gz,"lung nodules, hypodense liver lesion, thoracic spondylosis"
+valid_544_a_1.nii.gz,"cardiomegaly, aortic ectasia, interstitial lung disease, ground-glass opacity, cardiac pulmonary edema"
+valid_545_a_1.nii.gz,no findings
+valid_546_a_1.nii.gz,no findings
+valid_547_a_1.nii.gz,"fibrotic changes in upper lobes of lungs, interlobular and interlobar septal thickening, ground glass opacities, emphysema, covid-19 pneumonia, atherosclerosis with calcific atheroma plaques, cardiomegaly, cholelithiasis"
+valid_548_a_1.nii.gz,"ground glass opacities likely secondary to infection, bilateral minimal pleural effusion, mild atelectasis, mosaic perfusion pattern - possible small airway disease or small vessel disease, cardiomegaly, thoracic spondylosis"
+valid_549_a_1.nii.gz,"atypical pneumonia, pulmonary sequelae changes, tractional bronchiectasis, non-specific parenchymal nodules, hepatosteatosis"
+valid_550_a_1.nii.gz,"atherosclerosis, chronic fibrotic changes in the lung, possible renal neoplasm or complicated cyst, degenerative bone changes, osteoporosis"
+valid_551_a_1.nii.gz,"pleuroparenchymal sequela, pulmonary nodules"
+valid_552_a_1.nii.gz,"tuberculosis sequelae, lung volume loss, pulmonary calcified nodules"
+valid_553_a_1.nii.gz,no findings
+valid_554_a_1.nii.gz,"atherosclerosis, pulmonary edema, covid-19 pneumonia, bilateral pleural effusion"
+valid_555_a_1.nii.gz,"emphysema, bronchiectasis, left adrenal adenoma, atherosclerosis"
+valid_556_a_1.nii.gz,"urolithiasis, hydroureter, hydronephrosis"
+valid_557_a_1.nii.gz,"pulmonary nodules, coronary artery atherosclerosis"
+valid_558_a_1.nii.gz,"nonspecific parenchymal nodules, diffuse idiopathic skeletal hyperostosis (dish)"
+valid_559_a_1.nii.gz,"surgical materials due to bypass surgery, cardiomegaly, aortic dilatation, pulmonary trunk dilatation, diffuse atherosclerosis, aortopulmonary lymphadenopathy, subcarinal lymphadenopathy, hiatal hernia, pulmonary metastasis, covid-19 pneumonia or viral pneumonia or drug-induced lung toxicity, liver metastases, abdominal lymphadenopathy"
+valid_560_a_1.nii.gz,"pulmonary nodules, emphysema, linear atelectasis, mediastinal lymphadenopathy, hiatal hernia, thoracic spondylosis"
+valid_561_a_1.nii.gz,nonspecific millimetric nodules
+valid_561_b_1.nii.gz,no findings
+valid_562_a_1.nii.gz,bronchiectasis
+valid_563_a_1.nii.gz,"post-inflammatory pulmonary fibrosis, pulmonary emphysema, possible infectious process in the left lung, lung nodules with irregular borders, scoliosis (dorsal kyphosis), hepatosteatosis (fatty liver disease), esophageal wall thickening and lumen narrowing due to previous perforation, paraesophageal lymphadenopathy"
+valid_564_a_1.nii.gz,"pneumonia with multilobar consolidation, bronchopneumonia with endobronchial spread, bilateral lower lobe cylindrical bronchiectasis, mucoid impactions with occasional bronchial obstruction"
+valid_564_b_1.nii.gz,"budding tree appearances in both lungs, minimal pericardial effusion"
+valid_565_a_1.nii.gz,"pulmonary nodule in the right lung, intrapulmonary lymph node enlargement"
+valid_565_b_1.nii.gz,"parenchymal nodule in the right lung lower lobe superior segment, intrapulmonary lymph node in the right lung lower lobe mediobasal segment"
+valid_566_a_1.nii.gz,"multiple bone metastases, pneumonic infiltration, ground glass opacities, pleural effusion, compression atelectasis, possible covid-19 pneumonia"
+valid_566_b_1.nii.gz,"right lung infiltration, bilateral pleural effusion, catheter-related complication"
+valid_567_a_1.nii.gz,"sequela parenchymal changes, pulmonary nodules, emphysema, calcified atheromatous plaques, hiatal hernia, degenerative bone disease"
+valid_568_a_1.nii.gz,"covid pneumonia, pulmonary nodules"
+valid_569_a_1.nii.gz,"nonspecific parenchymal nodule, air cyst"
+valid_569_b_1.nii.gz,millimetric nodular density in the right lung
+valid_569_c_1.nii.gz,pulmonary nodules
+valid_570_a_1.nii.gz,"atypical pneumonia, covid-19 pneumonia, left ventricular enlargement, coronary artery atherosclerosis"
+valid_571_a_1.nii.gz,"fusiform aneurysmatic dilatation of the ascending aorta, atherosclerosis with calcific atheromatous plaques, aberrant right subclavian artery, hiatal hernia, pleural effusion, ground-glass nodule (possible ultra-early covid-19 pneumonia), pulmonary emphysema, adrenal nodular thickening, renal cyst or hypodense nodular lesion, degenerative bone disease"
+valid_572_a_1.nii.gz,"mediastinal and hilar calcific lymphadenopathy, pulmonary emphysema, cystic bronchiectasis, pulmonary sequela, more pronounced in lower lobes, pulmonary nodule, round atelectasis"
+valid_573_a_1.nii.gz,viral pneumonia
+valid_574_a_1.nii.gz,no findings
+valid_575_a_1.nii.gz,no findings
+valid_575_b_1.nii.gz,"focal consolidation, ground-glass opacity, covid-19 pneumonia, other infectious diseases, non-infectious diseases"
+valid_576_a_1.nii.gz,"pulmonary nodule, subpleural reticular density increase, possible interlobular septal thickening, possible transient atelectasis, no active lung infection"
+valid_577_a_1.nii.gz,"ectasia in the ascending aorta, cardiomegaly, paraesophageal hernia, mosaic attenuation in the lungs, liver lesions, possible liver metastasis, abdominal lipoma, right adrenal nodular lesion, possible nonfunctional adrenal adenoma"
+valid_578_a_1.nii.gz,"cortical cyst in left kidney, hiatal hernia, degenerative changes in bone structure"
+valid_579_a_1.nii.gz,"covid-19 pneumonia, viral pneumonia, pulmonary consolidation, possible space-occupying lesions, pulmonary nodules"
+valid_580_a_1.nii.gz,"viral pneumonia, kidney cyst"
+valid_581_a_1.nii.gz,"ascending aortic aneurysm, coronary artery disease, left ventricular hypertrophy, bronchial wall thickening, obstructive pulmonary disease, bronchopneumonia, renal parenchymal disease, osteoporosis"
+valid_582_a_1.nii.gz,"covid pneumonia, mild hiatal hernia, hepatosteatosis"
+valid_583_a_1.nii.gz,"bronchiectasis, emphysematous changes, right nephrolithiasis"
+valid_584_a_1.nii.gz,"covid-19 pneumonia, other viral pneumonias, opportunistic infections, pulmonary nodules"
+valid_585_a_1.nii.gz,"pulmonary emphysema, liver lesion"
+valid_586_a_1.nii.gz,"right pleural effusion, cardiomegaly, coronary artery atherosclerosis, ascending aortic dilatation, right kidney atrophy, mosaic pattern of lung attenuation"
+valid_587_a_1.nii.gz,"pulmonary nodule, ground-glass opacity"
+valid_588_a_1.nii.gz,nonspecific calcific nodules in the lungs
+valid_589_a_1.nii.gz,"pulmonary nodules, mild emphysema, pancreatic lesion"
+valid_589_b_1.nii.gz,"centriacinar nonspecific ground-glass opacities, small airway disease, subsegmental atelectasis"
+valid_590_a_1.nii.gz,linear atelectasis in both lungs
+valid_591_a_1.nii.gz,"pulmonary edema, pneumonia, pleural effusion, atherosclerosis"
+valid_592_a_1.nii.gz,"enlargement of the pulmonary artery, cardiomegaly, mild pericardial effusion, aortic and coronary atherosclerosis, esophageal wall thickening, hiatal hernia, pulmonary emphysema, pleuroparenchymal fibroelastosis, status post cholecystectomy"
+valid_593_a_1.nii.gz,"consolidative pneumonia, peribronchial thickening, pulmonary nodules, bilateral pleural effusion, mediastinal lymphadenopathy, cardiomegaly"
+valid_594_a_1.nii.gz,"aspiration pneumonia, atherosclerotic changes, right adrenal adenoma?"
+valid_595_a_1.nii.gz,"lymphoma, splenomegaly, axillary lymphadenopathy, retropectoral lymphadenopathy, mediastinal lymphadenopathy, hilar lymphadenopathy, pulmonary emphysema, pulmonary nodules"
+valid_596_a_1.nii.gz,non-specific millimetric nodular lesions in both lungs
+valid_597_a_1.nii.gz,"bronchiectasis, peribronchial thickening, mosaic attenuation pattern, small airway disease, ground-glass opacities, subsegmental atelectasis"
+valid_598_a_1.nii.gz,no findings
+valid_599_a_1.nii.gz,"hepatosteatosis, mild sliding type hernia"
+valid_600_a_1.nii.gz,"cholelithiasis, left nephrolithiasis"
+valid_601_a_1.nii.gz,no findings
+valid_602_a_1.nii.gz,no findings
+valid_603_a_1.nii.gz,no findings
+valid_604_a_1.nii.gz,"calcific atheromatous plaques in the proximal parts of the lad and circumflex arteries, linear-band atelectasis sequelae in both lungs"
+valid_605_a_1.nii.gz,"mosaic attenuation pattern (suspected small airway disease or small vessel disease), sequelae of fibroatelectatic changes, calcified parenchymal nodules, hepatosteatosis, hiatal hernia, bilateral adrenal gland thickening (suspected hyperplasia)"
+valid_606_a_1.nii.gz,"hepatosteatosis, nonspecific hypodense lesions in the liver, cortical cyst in left kidney"
+valid_606_b_1.nii.gz,"sequela parenchymal changes, hepatosteatosis, hypodense lesions in the liver, left nephrolithiasis, cortical lesion (possible cyst) in the left kidney"
+valid_607_a_1.nii.gz,"viral pneumonia, hepatosteatosis"
+valid_608_a_1.nii.gz,"fusiform ectasia of the ascending aorta, hiatal hernia, nonspecific parenchymal nodules in both lungs, passive atelectatic changes in the right lung middle lobe, passive atelectatic changes in the left lung inferior lingular segment"
+valid_609_a_1.nii.gz,no findings
+valid_610_a_1.nii.gz,nonspecific pulmonary nodules
+valid_611_a_1.nii.gz,no findings
+valid_611_b_1.nii.gz,lymphadenopathy
+valid_612_a_1.nii.gz,mosaic attenuation pattern
+valid_613_a_1.nii.gz,"anterior mediastinal mass, right lung lower lobe superior segment mass with decreased size, mediastinal lymphadenopathy with minimal size reduction, subcarinal lymph node with significant size reduction, bilateral nodular pleural thickening, increased right pleural effusion"
+valid_614_a_1.nii.gz,"stent in left anterior descending (lad) coronary artery, resolving covid pneumonia, renal cysts in the right kidney"
+valid_615_a_1.nii.gz,"pulmonary nodules, calcified pulmonary nodules"
+valid_616_a_1.nii.gz,no findings
+valid_617_a_1.nii.gz,pulmonary nodules
+valid_618_a_1.nii.gz,"covid-19 pneumonia, reactive mediastinal lymphadenopathy, mild hepatosteatosis"
+valid_619_a_1.nii.gz,"viral pneumonia, lymphadenopathy, spondyloarthropathies"
+valid_620_a_1.nii.gz,"right lung lower lobe peripheral focal ground glass nodule, viral pneumonia, covid-19 pneumonia"
+valid_621_a_1.nii.gz,no findings
+valid_622_a_1.nii.gz,"calcified parenchymal nodule in the right lung, calcified mediastinal lymph nodes, calcified subdiaphragmatic lymph nodes"
+valid_623_a_1.nii.gz,"mediastinal lymphadenopathy, left pleural effusion, thoracic kyphosis, spondylosis"
+valid_624_a_1.nii.gz,adrenal gland lesion
+valid_624_b_1.nii.gz,colorectal cancer (colon ca)
+valid_625_a_1.nii.gz,"pulmonary nodules, pulmonary emphysema, aortic atherosclerosis, coronary artery atherosclerosis"
+valid_626_a_1.nii.gz,"paraseptal emphysema, pulmonary sequela changes"
+valid_627_a_1.nii.gz,no findings
+valid_628_a_1.nii.gz,calcific nodules in the lungs
+valid_629_a_1.nii.gz,"atherosclerosis of the aorta, atherosclerosis of the coronary artery, linear atelectasis in the lingula of the left lung"
+valid_630_a_1.nii.gz,"covid pneumonia, splenomegaly"
+valid_631_a_1.nii.gz,"fusiform ectasia of the ascending aorta, atherosclerosis, coronary artery disease, mitral valve calcification, covid-19 pneumonia, fibroatelectatic changes, mosaic attenuation pattern (possible small airway disease or small vessel disease), indeterminate hypodense hepatic lesion, diffuse idiopathic skeletal hyperostosis (dish)"
+valid_632_a_1.nii.gz,"paraseptal emphysema, subsegmental atelectasis"
+valid_633_a_1.nii.gz,"ground glass opacities, covid-19 pneumonia"
+valid_634_a_1.nii.gz,"pleuroparenchymal sequelae, atelectasis, emphysema"
+valid_635_a_1.nii.gz,"pericardial-pleural effusion, atypical pneumonia"
+valid_636_a_1.nii.gz,"bronchiectasis, ground-glass opacities, pulmonary consolidation, infectious lung disease, mosaic attenuation pattern, splenomegaly, degenerative bone disease"
+valid_636_b_1.nii.gz,"pulmonary artery dilatation, bilateral patchy consolidations, interlobular septal thickening, ground-glass opacities, progression of lung infection since last review, hepatosplenomegaly"
+valid_636_c_1.nii.gz,"infectious process in the lungs, regression of previous lung findings, hepatosplenomegaly, pulmonary artery dilatation, resolved pulmonary effusions, mild pericardial effusion"
+valid_637_a_1.nii.gz,"mosaic attenuation pattern likely due to small airway disease or small vessel disease, millimetric nodules in both lung parenchyma, nonspecific calcifications in bilateral adrenal glands"
+valid_638_a_1.nii.gz,"pleuroparenchymal sequela change, degenerative bone disease"
+valid_639_a_1.nii.gz,"pulmonary nodules, absence of left kidney"
+valid_640_a_1.nii.gz,"nonspecific pulmonary nodules, linear atelectasis"
+valid_641_a_1.nii.gz,"space-occupying lung consolidation, possible lung neoplasm, bilateral pleural effusions, mediastinal and supraclavicular lymphadenopathy, coronary artery calcification, cardiomegaly, hiatal hernia"
+valid_642_a_1.nii.gz,covid-19 pneumonia
+valid_643_a_1.nii.gz,"mosaic attenuation pattern, mild hepatosteatosis"
+valid_643_b_1.nii.gz,"emphysema, mosaic attenuation pattern, small airway disease, small vessel disease, pulmonary nodules, hepatosteatosis"
+valid_644_a_1.nii.gz,"emphysema, nonspecific nodules, atelectasis, bronchial wall thickening, peribronchial reticular densities, bronchiolitis"
+valid_645_a_1.nii.gz,"emphysema, bronchiectasis, air cysts, pulmonary sequelae"
+valid_645_b_1.nii.gz,"emphysematous changes, bronchiectasis, air cysts, viral pneumonia"
+valid_645_c_1.nii.gz,"emphysematous changes in both lungs, mild sequelae changes"
+valid_646_a_1.nii.gz,"pulmonary nodules, hepatic calcification"
+valid_647_a_1.nii.gz,"mitral valve prosthesis, postoperative changes with surgical suture materials in sternum, fusiform aneurysmatic dilation in the thoracic aorta, increased pulmonary artery diameters, cardiomegaly, pulmonary sequelae changes, millimetric nonspecific parenchymal nodules, focal ground glass areas in the lungs, potential sequelae or early viral pneumonias, sequelae changes in right kidney parenchyma, right nephrolithiasis, osteodegenerative changes in bone structure"
+valid_648_a_1.nii.gz,nonspecific pulmonary nodules
+valid_649_a_1.nii.gz,"nonspecific pulmonary nodules, hepatosteatosis"
+valid_650_a_1.nii.gz,"pathological mediastinal lymphadenopathy, hilar and peribronchial lymphadenopathy with extrinsic bronchial compression, subsegmental atelectasis in the lower lobes, indeterminate solitary subpleural ground glass density in the left lower lobe, fissuritis in the right major fissure, cardiomegaly, biatrial enlargement, diffuse atherosclerotic disease, pulmonary hypertension, renal cortical cyst, hiatal hernia of the sliding type"
+valid_651_a_1.nii.gz,"calcified hilar lymphadenopathy, calcified pulmonary nodule, possible early covid-19 infection"
+valid_651_b_1.nii.gz,"calcified granulomas or old healed lesions in the right upper lobe, non-calcified nodules in the right lower lobe, calcified hilar lymphadenopathy on the right"
+valid_652_a_1.nii.gz,"calcified parenchymal nodule in the right lung, non-pathologically enlarged mediastinal lymph nodes"
+valid_653_a_1.nii.gz,"emphysema, gallbladder sludge, possible choledocholithiasis, hiatal hernia, degenerative bone disease, diffuse idiopathic skeletal hyperostosis (dish)"
+valid_654_a_1.nii.gz,"viral pneumonia, hepatic steatosis"
+valid_655_a_1.nii.gz,ground-glass nodule in the right lung lower lobe superior segment
+valid_655_b_1.nii.gz,minimal pericardial effusion
+valid_656_a_1.nii.gz,"covid-19 pneumonia, small hiatal hernia"
+valid_657_a_1.nii.gz,pulmonary nodules
+valid_658_a_1.nii.gz,"pericardial effusion, bronchial ectasia, increased interlobular septal thickness, pulmonary nodules"
+valid_659_a_1.nii.gz,"covid-19 viral pneumonia, enlargement of the ascending aorta, degenerative bone changes"
+valid_660_a_1.nii.gz,no findings
+valid_661_a_1.nii.gz,"emphysema, pulmonary nodules"
+valid_662_a_1.nii.gz,"neoplasm of the lung, lung metastasis, pleural effusion, cardiomegaly, atherosclerosis, mediastinal lymphadenopathy, pulmonary emphysema, pulmonary atelectasis"
+valid_663_a_1.nii.gz,"viral pneumonia, covid-19, influenza, parainfluenza, mycoplasma infection, organizing pneumonia, drug-induced lung toxicity, connective tissue disease-associated lung disease"
+valid_664_a_1.nii.gz,"covid pneumonia, mediastinal reactive lymphadenopathy"
+valid_665_a_1.nii.gz,no findings
+valid_666_a_1.nii.gz,"ground glass opacities, fibroatelectatic changes"
+valid_667_a_1.nii.gz,viral pneumonia
+valid_667_b_1.nii.gz,no findings
+valid_667_c_1.nii.gz,"calcific atheroma plaques in lad, emphysematous-sequelae changes in both lungs, hepatosteatosis, degenerative changes in bone structure, left-facing scoliosis"
+valid_668_a_1.nii.gz,viral pneumonia
+valid_668_b_1.nii.gz,no findings
+valid_669_a_1.nii.gz,"fibrotic bands, emphysema, parenchymal nodules"
+valid_670_a_1.nii.gz,no findings
+valid_671_a_1.nii.gz,"bronchiectasis, pneumonic infiltration"
+valid_672_a_1.nii.gz,"covid-related lung infection, lung parenchymal involvement"
+valid_673_a_1.nii.gz,"sequelae atelectasis, millimetric nonspecific nodules, mosaic attenuation pattern, calcified atheroma plaques, coronary artery disease, cardiomegaly, degenerative bone disease"
+valid_674_a_1.nii.gz,viral pneumonia
+valid_675_a_1.nii.gz,"cardiomegaly, pericardial effusion, pleural effusion, heart failure, perihepatic fluid"
+valid_675_b_1.nii.gz,"cardiomegaly, pericardial effusion, bilateral pleural effusion, atelectasis, pulmonary consolidation, ascites, undetermined hypodense liver lesions, pulmonary emphysema, pulmonary sequelae"
+valid_675_c_1.nii.gz,"cardiomegaly, pericardial effusion, bilateral pleural effusion, atelectasis, pulmonary consolidation, liver lesions, peritoneal carcinomatosis, pulmonary emphysema, pulmonary sequelae"
+valid_676_a_1.nii.gz,"pulmonary nodules, pulmonary emphysema"
+valid_677_a_1.nii.gz,"presence of pacemaker catheter, possible space-occupying lesion in the right lung hilum, luminal secretion accumulation in the lower lobe anterobasal segment bronchi, sequela parenchymal changes in both lungs, linear atelectasis in both lungs, millimetric non-specific nodules in both lungs"
+valid_678_a_1.nii.gz,"ascending aorta dilatation, covid-19 pneumonia, ground-glass opacities, consolidation, septal thickening, crazy paving pattern, pulmonary involvement, bilateral pleural thickening, mediastinal lymphadenopathy, degenerative bone disease"
+valid_679_a_1.nii.gz,"bronchiectasis, pulmonary sequelae"
+valid_680_a_1.nii.gz,no findings
+valid_681_a_1.nii.gz,"pulmonary nodules, adrenal gland thickening, osteodegenerative changes"
+valid_682_a_1.nii.gz,"covid pneumonia, pulmonary nodule, renal cortical cyst, aortic atherosclerosis, coronary artery atherosclerosis"
+valid_683_a_1.nii.gz,no findings
+valid_684_a_1.nii.gz,sequelae changes
+valid_685_a_1.nii.gz,"cardiomegaly, sliding hiatal hernia, pleural effusion, ground glass opacities, focal consolidation, pneumonic infiltration, fibroatelectasis, parenchymal nodules"
+valid_686_a_1.nii.gz,no findings
+valid_687_a_1.nii.gz,"emphysema, pulmonary nodules, hiatal hernia"
+valid_688_a_1.nii.gz,no findings
+valid_689_a_1.nii.gz,"dependent atelectasis, subpleural nodules, pulmonary fibrosis"
+valid_690_a_1.nii.gz,"enlargement of the pulmonary conus, atherosclerosis with calcified atheroma plaques, bilateral pleural effusion, pulmonary emphysema, pulmonary nodules, pulmonary consolidation, renal ectasia, angiomyolipoma or similar lesion in the left kidney, osteodegenerative changes, increased thoracic kyphosis, scoliosis with left-facing deviation of the thoracic vertebral column"
+valid_691_a_1.nii.gz,"infiltrative mass lesion in the right hilar region, obliteration of the right main bronchus, lung nodules, compression fractures of the t8, l1, and l4 vertebrae"
+valid_692_a_1.nii.gz,"covid-19 pneumonia, influenza pneumonia, rheumatoid arthritis, organizing pneumonia, drug toxicity, connective tissue disease"
+valid_693_a_1.nii.gz,"cardiomegaly, atherosclerosis of the aorta, atherosclerosis of the coronary arteries, bilateral pleural effusion, interlobular septal thickening, mediastinal lymphadenopathy, hilar lymphadenopathy, atelectasis, pulmonary emphysema"
+valid_694_a_1.nii.gz,hypodense nodular lesion in the liver
+valid_694_b_1.nii.gz,"postoperative changes in the left breast, breast skin thickening, soft tissue thickening, radiotherapy-related pulmonary changes, calcific nodule in left lung lingula, nonspecific pulmonary nodules in the right lung"
+valid_695_a_1.nii.gz,"mosaic attenuation pattern, reticular consolidations, fibroatelectatic changes, lymphadenopathy"
+valid_696_a_1.nii.gz,no findings
+valid_697_a_1.nii.gz,calcific nodule in the right lung
+valid_698_a_1.nii.gz,"mosaic attenuation pattern of the lungs, pneumonic consolidation, ground glass nodule, early stage of covid-19 infection, intrahepatic bile duct dilation, post-cholecystectomy state, bilateral parapelvic cysts, bilateral renal parenchymal thinning"
+valid_699_a_1.nii.gz,"bilateral pleural effusion, atelectasis, mosaic attenuation pattern, atherosclerotic changes, peribronchial thickening"
+valid_700_a_1.nii.gz,"ground-glass opacities likely due to viral pneumonia, possible covid-19 pneumonia, coronary artery disease due to calcified atheroma plaques, hiatal hernia, renal parenchymal defect, pelvicalyceal ectasia"
+valid_701_a_1.nii.gz,"lymphadenopathy, cardiomegaly, atherosclerosis, degenerative changes post-surgery"
+valid_702_a_1.nii.gz,covid-19 viral pneumonia
+valid_703_a_1.nii.gz,"emphysematous changes, pleuroparenchymal sequelae, fibrotic bands in lungs, aortic calcific atheroma, coronary artery disease, cardiomegaly, minimal pericardial effusion, right pleural effusion, sliding hiatal hernia"
+valid_704_a_1.nii.gz,"calcific atheromatous plaques, hiatal hernia, centriacinar-paraseptal emphysema, semi-solid nodule of lung with irregular borders, stable millimetric nonspecific pulmonary nodules, pleuroparenchymal sequelae, fibrotic density changes in lungs, subsegmental atelectasis"
+valid_705_a_1.nii.gz,"consolidative pneumonia, ground-glass opacity, emphysema, aortic arch prominence, coronary artery calcification"
+valid_706_a_1.nii.gz,"aortic calcification, coronary artery calcification, pulmonary emphysema, pulmonary atelectasis, pulmonary nodules, cholelithiasis, renal cyst"
+valid_707_a_1.nii.gz,"minimal dilatation of the thoracic aorta, atherosclerotic changes, diffuse subsegmental atelectasis, mild pleural effusion, volume loss in the left lower lobe, widespread atelectatic changes, hepatosteatosis, hypodense lesion in the liver (possible cyst)"
+valid_708_a_1.nii.gz,atelectasis
+valid_709_a_1.nii.gz,"lymphadenopathy, paraseptal emphysema, fibrosis, pulmonary nodule, mild degenerative changes of bones"
+valid_710_a_1.nii.gz,"atherosclerosis, hiatal hernia, pulmonary nodules, ground glass opacities with tree-in-bud pattern, possible distal airway disease or pneumonic infiltration"
+valid_711_a_1.nii.gz,"emphysema, parenchymal fibrosis, paracicatricial bronchiectasis, pulmonary nodules, calcified lung nodules, bronchopulmonary infection, focal consolidation, peribronchial thickening, ascending aorta dilatation, atherosclerosis, coronary artery calcification"
+valid_712_a_1.nii.gz,"well-circumscribed nodular lesion in left breast, linear atelectasis in left lung, linear atelectasis in right lung, millimetric schmorl nodules in thoracolumbar spine"
+valid_713_a_1.nii.gz,"nonspecific parenchymal nodule in the right lung, sequelae change in the right lung"
+valid_713_b_1.nii.gz,"nonspecific parenchymal nodule, subsegmentary atelectatic changes"
+valid_713_c_1.nii.gz,"nonspecific parenchymal nodule in the right lung, subsegmental atelectasis in both lungs, covid-19 pneumonia"
+valid_714_a_1.nii.gz,no findings
+valid_715_a_1.nii.gz,pulmonary nodule
+valid_715_b_1.nii.gz,covid-19 pneumonia
+valid_716_a_1.nii.gz,covid-19 pneumonia
+valid_717_a_1.nii.gz,"mediastinal lymphadenopathies, acute myeloid leukemia (aml), pulmonary nodules, panlobular emphysema, ground glass densities, infectious pathologies (suggested evaluation), fracture sequelae in right 10th rib, bilateral renal simple cortical cysts"
+valid_717_b_1.nii.gz,no findings
+valid_717_c_1.nii.gz,"lung consolidations, honeycomb appearance in lungs, opportunistic infection, reactivation tuberculosis, cavitary lesions in lungs, panlobular emphysema, mediastinal lymphadenopathy, thoracic spondylosis"
+valid_718_a_1.nii.gz,"atherosclerosis, ascending aortic dilatation, pleural effusion, mediastinal cyst, atelectasis, pulmonary emphysema, pulmonary sequelae, lymphadenopathy, liver contour irregularity"
+valid_719_a_1.nii.gz,no findings
+valid_720_a_1.nii.gz,"non-specific pulmonary nodule, postoperative changes in the abdomen due to cesarean section"
+valid_721_a_1.nii.gz,calcific nodules in the left lung
+valid_722_a_1.nii.gz,"chronic liver parenchymal disease, cholelithiasis, intraabdominal diffuse free fluid, bilateral peribronchial thickenings, atelectatic changes"
+valid_722_b_1.nii.gz,"pleural effusion in the right lung, partial aeration, lung parenchyma partial collapse, air bronchograms, sequelae changes, pleuroparenchymal density increase"
+valid_723_a_1.nii.gz,covid-19 pneumonia
+valid_724_a_1.nii.gz,"pulmonary nodules, splenomegaly"
+valid_725_a_1.nii.gz,"pleural masses, metastatic lymphadenopathies in the mediastinum, progression of target lesions, progression of non-target lesion"
+valid_726_a_1.nii.gz,"centrilobular emphysema, paraseptal emphysema, pulmonary nodules, osteopenia, degenerative changes of the bones"
+valid_727_a_1.nii.gz,"linear-subsegmental atelectasis, consolidation, covid-19 pneumonia"
+valid_728_a_1.nii.gz,viral pneumonia
+valid_729_a_1.nii.gz,"postoperative changes in anterior mediastinum, bronchopneumonia, stable parenchymal sequelae"
+valid_730_a_1.nii.gz,sequelae changes in the left lung
+valid_731_a_1.nii.gz,no findings
+valid_732_a_1.nii.gz,"cardiomegaly, cardiac pacemaker presence, aortic atherosclerosis, coronary artery atherosclerosis, bilateral massive pleural effusion, atelectasis, bronchial wall thickening, focal nonspecific ground glass densities, liver parenchymal disease, thoracic spondylosis"
+valid_733_a_1.nii.gz,no findings
+valid_734_a_1.nii.gz,covid-19 pneumonia
+valid_735_a_1.nii.gz,"tracheal and bronchial mucus plugging, pulmonary consolidation, acinar opacities, lobar pneumonia"
+valid_736_a_1.nii.gz,"benign cystic lesion in the anterior mediastinum, increased pulmonary artery diameters, cardiomegaly, diffuse atherosclerotic wall calcifications in the thoracic aorta, diffuse atherosclerotic wall calcifications in the coronary arteries, mosaic attenuation pattern in both lungs, findings consistent with cardiac stasis, subpleural nodular ground-glass area in the left lung upper lobe, focal nodular consolidation in the lower lobe of the right lung, linear subsegmental atelectatic changes in both lungs, nonspecific parenchymal nodules, thickening of the right adrenal gland, adenoma in the left adrenal gland, diffuse osteodegenerative changes"
+valid_737_a_1.nii.gz,"covid-19 pneumonia, nodular ground glass opacities, liver cysts"
+valid_738_a_1.nii.gz,"peribronchial soft tissue density, possible malignancy in the left upper lung lobe, pulmonary nodules, pulmonary emphysema, post-inflammatory pulmonary sequelae, hilar lymphadenopathy, aortic atherosclerosis, coronary artery atherosclerosis, cholelithiasis, left adrenal adenoma (possible)"
+valid_739_a_1.nii.gz,"aortic and coronary artery atherosclerosis, bronchial wall thickening, mosaic attenuation pattern in lung parenchyma, pleural calcifications, thoracic spondylosis"
+valid_740_a_1.nii.gz,no findings
+valid_741_a_1.nii.gz,pulmonary nodule
+valid_741_b_1.nii.gz,calcific nodule in the right lung
+valid_742_a_1.nii.gz,azygos lobe
+valid_743_a_1.nii.gz,"soft tissue lesion in the right lung, necrosis within lung lesion, pleural lesion, metastatic bone disease, destruction of the t10 vertebral spinous process, soft tissue mass associated with t10 vertebra"
+valid_744_a_1.nii.gz,"covid-19 viral pneumonia, accessory spleen"
+valid_745_a_1.nii.gz,"viral pneumonia (covid-19), hepatosteatosis, left nephrolithiasis"
+valid_746_a_1.nii.gz,"nonspecific pulmonary nodules, subsegmental atelectasis, mild hepatosteatosis"
+valid_747_a_1.nii.gz,"pneumonic infiltration in the right lung, mediastinal lymphadenopathy, hilar lymphadenopathy, right pleural effusion, millimetric pulmonary nodules"
+valid_748_a_1.nii.gz,"lung nodules, malignant pancreatic mass, invasion of adjacent structures, abdominal fluid, hepatomegaly, millimetric nodule in prehepatic adipose tissue"
+valid_749_a_1.nii.gz,"covid pneumonia, mild hepatosteatosis, degenerative changes in bone structure"
+valid_750_a_1.nii.gz,"fusiform aneurysm of thoracic aorta, atherosclerosis of thoracic aorta, coronary artery disease, subsegmental atelectasis, mosaic attenuation pattern in lungs, small airway disease, small vessel disease, hepatic lesions"
+valid_751_a_1.nii.gz,no findings
+valid_752_a_1.nii.gz,"viral pneumonia, covid-19, influenza, parainfluenza, mycoplasma infection, organized pneumonia, drug toxicity, connective tissue disease"
+valid_752_b_1.nii.gz,pulmonary nodules
+valid_753_a_1.nii.gz,"non-specific nodules in both lungs, mild emphysema"
+valid_754_a_1.nii.gz,"bronchiectasis, bronchial wall thickening, active bronchiolitis, bilateral renal atrophy, splenomegaly"
+valid_755_a_1.nii.gz,hiatal hernia
+valid_756_a_1.nii.gz,"linear atelectasis, pulmonary nodule, hepatosteatosis"
+valid_757_a_1.nii.gz,"aneurysmatic dilatation of the ascending and descending aorta, atherosclerosis with calcified plaques in the aortic arch and coronary arteries, hiatal hernia, covid-19 pneumonia, superposed linear density increase possibly representing an intrapulmonary lymph node, degenerative bone disease"
+valid_758_a_1.nii.gz,"small cortical cyst in left kidney, emphysematous changes, pulmonary emphysema, atherosclerosis, hepatosteatosis, osteoporosis or degenerative changes in bones"
+valid_759_a_1.nii.gz,"mosaic perfusion, small airway disease, small vessel disease, honeycomb lung, interstitial lung disease, septal thickening"
+valid_760_a_1.nii.gz,"viral pneumonia, mild hiatal hernia"
+valid_761_a_1.nii.gz,"centrilobular emphysema, paraseptal emphysema"
+valid_762_a_1.nii.gz,"sliding type hiatal hernia, sequelae changes in lung parenchyma, nonspecific millimetric nodules"
+valid_763_a_1.nii.gz,no findings
+valid_764_a_1.nii.gz,"postoperative changes, bronchiectasis, peribronchial thickening, increased air bronchogram density, potential infectious process, rib postoperative changes, nonspecific pulmonary nodules, atelectasis, mediastinal lymphadenopathy"
+valid_765_a_1.nii.gz,early viral pneumonia (covid-19)
+valid_766_a_1.nii.gz,"viral pneumonia, covid-19"
+valid_767_a_1.nii.gz,"nodular consolidation, air bronchograms, ground glass opacity, increased interlobular septal thickness, infection, subsegmental atelectasis, tractional bronchiectasis, emphysematous changes, multiple calcific nodules"
+valid_768_a_1.nii.gz,"mediastinal lymphadenopathy, lymph node calcification, pulmonary emphysema, bullous lung disease, pulmonary sequelae changes, bronchiectasis, lung nodules, hepatosteatosis or fatty liver, renal cyst"
+valid_769_a_1.nii.gz,"peribronchial reticulonodular densities, non-specific millimetric pulmonary nodules, possible small airway disease, potential tobacco-related lung changes"
+valid_770_a_1.nii.gz,no findings
+valid_770_b_1.nii.gz,viral pneumonia
+valid_770_c_1.nii.gz,covid-19 pneumonia
+valid_771_a_1.nii.gz,"ectasia in the ascending aorta, coronary atherosclerosis, mediastinal lymphadenopathy, pulmonary sequelae, pulmonary nodules, left renal lesion (possible cyst), thoracic spondylosis"
+valid_771_b_1.nii.gz,"dilatation of the aorta, dilatation of the pulmonary trunk, linear atelectasis, pulmonary nodules, epicardial fat pad lesion, renal cyst, hiatal hernia, thoracic spondylosis"
+valid_772_a_1.nii.gz,pulmonary nodules
+valid_773_a_1.nii.gz,covid-19 pneumonia
+valid_774_a_1.nii.gz,"viral pneumonia, covid-19"
+valid_774_b_1.nii.gz,"viral pneumonia, covid-19, infectious process"
+valid_775_a_1.nii.gz,"mild sequelae changes in lungs, nonspecific millimetric nodules in lungs, mild degenerative changes in bone structure"
+valid_776_a_1.nii.gz,"tracheobronchopathy osteochondroplastica, ultra-early covid-19 pneumonia"
+valid_777_a_1.nii.gz,"cardiomegaly, mediastinal lymphadenopathy, bilateral pleural effusion, passive atelectasis, pulmonary edema, early stage lung fibrosis"
+valid_778_a_1.nii.gz,"congenital mediastinal cyst, calcified atheroma plaques, covid-19 pneumonia, small airway disease or small vessel disease, degenerative bone changes"
+valid_778_b_1.nii.gz,"congenital mediastinal cyst, small airway disease, small vascular disease"
+valid_779_a_1.nii.gz,covid-19 pneumonia
+valid_780_a_1.nii.gz,"fibrotic changes, minimal emphysema, nodular appearance consistent with sequelae, nonspecific pulmonary nodules, suspicion of covid pneumonia"
+valid_781_a_1.nii.gz,"goiter with hypodense nodules, cardiomegaly, aortic elongation, atherosclerosis with wall calcifications, hiatal hernia, bronchopneumonia, fibroatelectasis sequelae, mosaic attenuation pattern, rotatory scoliosis"
+valid_782_a_1.nii.gz,covid-19 pneumonia
+valid_783_a_1.nii.gz,"focal pleural thickening, subpleural nodule, mosaic attenuation pattern, atherosclerosis, hiatal hernia"
+valid_784_a_1.nii.gz,"cardiomegaly, precordial pneumomediastinum, pleural effusion, parenchymal atelectasis, pericardial effusion, linear atelectasis, mosaic attenuation pattern"
+valid_785_a_1.nii.gz,"pleuroparenchymal sequela, fibrotic bands, bilateral nephrolithiasis"
+valid_786_a_1.nii.gz,viral pneumonia
+valid_787_a_1.nii.gz,"liver transplantation, calcified atherosclerotic plaques in coronary arteries"
+valid_787_b_1.nii.gz,no findings
+valid_787_c_1.nii.gz,"pulmonary nodules, possible infection"
+valid_787_d_1.nii.gz,"calcific plaques in the aorta and coronary arteries, nonspecific pulmonary nodules, splenomegaly"
+valid_788_a_1.nii.gz,no findings
+valid_789_a_1.nii.gz,pulmonary nodule
+valid_790_a_1.nii.gz,"lung nodule, ground-glass opacities, acinar infiltrates, pulmonary consolidation, atelectasis, pulmonary infection, pulmonary emphysema, parenchymal nodules, calcified lung nodules"
+valid_791_a_1.nii.gz,liver lesion in segment 2
+valid_792_a_1.nii.gz,no findings
+valid_793_a_1.nii.gz,"viral pneumonia, covid-19, influenza, parainfluenza, mycoplasma infection, organized pneumonia, drug toxicity, connective tissue diseases"
+valid_794_a_1.nii.gz,pulmonary nodules
+valid_795_a_1.nii.gz,"nodule in the right lobe of thyroid gland, mild ectasia of the ascending aorta, coronary atherosclerosis, emphysema, bronchial wall thickening, bilateral bronchiectasis, bronchitis or bronchiolitis, bilateral pulmonary nodules"
+valid_796_a_1.nii.gz,no findings
+valid_797_a_1.nii.gz,"covid-19 pneumonia, other viral pneumonias"
+valid_798_a_1.nii.gz,no findings
+valid_799_a_1.nii.gz,"respiratory infection, emphysema, pulmonary fibrosis, bronchiectasis, atherosclerosis"
+valid_800_a_1.nii.gz,possible early-stage infection not detected by ct
+valid_801_a_1.nii.gz,mild sequelae changes in the right lung
+valid_802_a_1.nii.gz,"resolving covid-19 pneumonia, reticulonodular sequelae, apical fibrotic changes, spinal hemangioma at t10 vertebra"
+valid_803_a_1.nii.gz,"pneumonic infiltration, sequelae changes in lungs, subpleural nodule, calcified nodule"
+valid_804_a_1.nii.gz,"atherosclerosis of the aorta, coronary artery disease, post-stent placement changes in the ascending aorta, bilateral pleural effusion, ground glass opacities in both lungs, pulmonary consolidations"
+valid_804_b_1.nii.gz,"atherosclerotic changes in the aorta, atherosclerotic changes in the coronary arteries, stent in the ascending aorta, bilateral pleural effusion, ground glass opacities in both lungs, consolidations in both lungs, potential cardiac pathology, possible covid-19 pneumonia"
+valid_805_a_1.nii.gz,"ground glass opacities, linear atelectasis, post-covid sequelae, pulmonary nodules, c7-t1 partial fusion defect"
+valid_806_a_1.nii.gz,"atherosclerosis, coronary artery disease, history of stent placement in lad and cx arteries, lung nodules, hepatosteatosis, spondylosis"
+valid_807_a_1.nii.gz,no findings
+valid_808_a_1.nii.gz,"ground glass opacities, mosaic attenuation pattern, covid-19 pneumonia"
+valid_809_a_1.nii.gz,"cholelithiasis, left renal angiomyolipoma"
+valid_810_a_1.nii.gz,hiatal hernia
+valid_810_b_1.nii.gz,hiatal hernia
+valid_811_a_1.nii.gz,"pleuroparenchymal fibroatelectasis, sequelae change in left lung upper lobe inferior lingular segment"
+valid_812_a_1.nii.gz,"atherosclerotic wall calcifications, covid-19 pneumonia, pleuroparenchymal fibroelastosis, fibroatelectasis, pulmonary nodules, gallbladder calcified polyp, osteodegenerative changes"
+valid_813_a_1.nii.gz,"covid-19 pneumonia, other viral pneumonias, nonspecific parenchymal nodules"
+valid_814_a_1.nii.gz,"focal ground-glass opacities, possible early covid-19 pneumonia"
+valid_815_a_1.nii.gz,"bilateral pleural effusion, left-sided pleural effusion, right-sided pleural effusion, bilateral lower lobe consolidation, atelectasis, pneumonia"
+valid_815_b_1.nii.gz,"bilateral pleural effusion, atelectasis, pneumonic consolidation, ground-glass opacities"
+valid_815_c_1.nii.gz,no findings
+valid_816_a_1.nii.gz,covid pneumonia
+valid_817_a_1.nii.gz,"cardiomegaly, dilatation of the thoracic aorta, dilatation of the pulmonary artery, postoperative changes in the coronary arteries, pulmonary sequelae changes, pulmonary emphysema, pulmonary nodules, ground-glass opacities, possible viral pneumonia"
+valid_818_a_1.nii.gz,hiatal hernia
+valid_819_a_1.nii.gz,covid-19 viral pneumonia
+valid_820_a_1.nii.gz,"total atelectasis in left upper lobe, multiple calcified nodules in left lung, tuberculosis sequelae, fibroatelectatic changes, left adrenal gland thickening, compression fracture in t8 vertebra"
+valid_821_a_1.nii.gz,"cardiomegaly, minimal effusion, tracheal deviation, polypoid protrusion in the trachea, lymphadenomegaly, pulmonary sequelae"
+valid_822_a_1.nii.gz,"thyroid gland atrophy, mediastinal lymphadenopathy, hiatal hernia, perigastric fat contamination, bronchiectasis with associated atelectasis"
+valid_823_a_1.nii.gz,covid-19 viral pneumonia
+valid_824_a_1.nii.gz,"bladder cancer, atelectasis, pulmonary emphysema, pulmonary calcific nodule, atherosclerosis, mediastinal and hilar lymphadenopathy"
+valid_824_b_1.nii.gz,"atherosclerotic changes, mediastinal and hilar lymphadenopathy, hiatal hernia, emphysema, lung nodule, linear atelectasis"
+valid_825_a_1.nii.gz,"hiatal hernia, pulmonary emphysema, pleuroparenchymal fibroatelectasis, pulmonary nodule, intrapulmonary lymph node, degenerative bone disease"
+valid_825_b_1.nii.gz,"hiatal hernia, emphysema, pleuroparenchymal fibroatelectasis, pulmonary nodules, intrapulmonary lymph node, degenerative bone disease, vertebral compression fractures at t7 and t8"
+valid_826_a_1.nii.gz,"pulmonary nodules, fibrotic lung disease, ground-glass opacity, possible post-covid-19 sequelae"
+valid_827_a_1.nii.gz,emphysema
+valid_828_a_1.nii.gz,"cardiomegaly, pleural effusion, pulmonary edema, situs inversus (to be questioned)"
+valid_829_a_1.nii.gz,"pleural effusion, post-surgical changes in left lung, minimal pericardial effusion, retrosternal effusion, ground glass opacities, viral pneumonia, covid-19 pneumonia, diffuse emphysema, mosaic attenuation pattern, sequelae of lung changes, aortic calcification, coronary artery calcification"
+valid_829_b_1.nii.gz,"history of operated lung cancer with left lower lobectomy, regressed anxic effusion which may suggest previous empyema, linear atelectasis in both lungs, pulmonary emphysema, nonspecific parenchymal nodules, chronic liver parenchymal disease"
+valid_830_a_1.nii.gz,"focal ground-glass opacities, possible covid-19 pneumonia, atelectasis in the right lung, paraaortic hypodense lesion, vertebral compression fracture"
+valid_830_b_1.nii.gz,"ovarian cancer with possible metastasis, bilateral paracardiac recess enlargement, paracardiac lymphadenopathy, paraesophageal lymphadenopathy, linear atelectasis in right lung, vertebral compression fracture at l1"
+valid_830_c_1.nii.gz,"stable millimetric lymph node in the right lung, millimetric lymph nodes in the pericardial fat pad and mediastinum, millimetric lymph nodes in the aorticopulmonary window, millimetric implant sizes adjacent to the posterior segment of the right lobe of the liver"
+valid_831_a_1.nii.gz,"sequela parenchymal changes, non-specific millimeter-sized nodules"
+valid_832_a_1.nii.gz,no findings
+valid_832_b_1.nii.gz,no findings
+valid_833_a_1.nii.gz,"bilateral gynecomastia, variation of the azygos fissure, hepatic steatosis"
+valid_834_a_1.nii.gz,bilateral gynecomastia
+valid_835_a_1.nii.gz,"emphysematous changes, linear atelectasis, pulmonary nodule, thoracic spondylosis"
+valid_836_a_1.nii.gz,"sarcoidosis, mediastinal lymphadenopathy, hilar lymphadenopathy, pulmonary nodules, angiomyolipoma of the right kidney"
+valid_837_a_1.nii.gz,"cardiomegaly, pulmonary nodule"
+valid_838_a_1.nii.gz,"pleural contour irregularities, subpleural striations, honeycomb appearance in the lower lobes, interstitial lung disease, fusiform aneurysm of the thoracic aorta, aortic calcified atherosclerosis, coronary artery calcified atherosclerosis, pericardial effusion, bilateral gynecomastia, right nephrolithiasis, right renal hypodense lesion (possibly a cyst), left minimal pleural effusion"
+valid_839_a_1.nii.gz,"indeterminate basal ground glass opacities, pulmonary nodule"
+valid_840_a_1.nii.gz,pulmonary nodule with ground-glass opacity
+valid_841_a_1.nii.gz,"solid breast lesion with irregular borders, mosaic attenuation pattern in lungs, small airways disease, decreased left pleural effusion, increased intra-abdominal free fluid"
+valid_842_a_1.nii.gz,"postoperative changes, atelectasis, pulmonary infection, pleural effusion, pericardial effusion, bilateral adrenal gland thickening"
+valid_843_a_1.nii.gz,"consolidation in the right lung, pneumonia, pleural effusion, possible space-occupying lesion"
+valid_844_a_1.nii.gz,"bronchiectasis, fibroatelectasis, peribronchial thickening, ground-glass opacity, cholelithiasis"
+valid_844_b_1.nii.gz,regression of ground glass opacities in the left lung lower lobe
+valid_845_a_1.nii.gz,"thyroid nodules, pulmonary consolidation, ground glass opacities, interlobular septal thickening, mosaic attenuation pattern in lungs, suspected infectious lung process, potential space-occupying lung lesion, renal focal dilatation, hepatomegaly, osteopenia, end plate tapering"
+valid_846_a_1.nii.gz,"viral pneumonia, tubular bronchiectasis, peribronchial thickening, subsegmental atelectasis, nonspecific lung nodules, ascending aorta dilatation, thyroid nodules, hiatal hernia, thoracic spondylosis"
+valid_847_a_1.nii.gz,"pulmonary parenchymal sequelae, pulmonary nodules, pulmonary emphysema, rib fractures, degenerative bone disease, hiatal hernia"
+valid_848_a_1.nii.gz,"bronchial wall thickening, probable bronchogenic carcinoma"
+valid_849_a_1.nii.gz,"focal consolidation in the right lung upper lobe, subsegmental atelectasis in the lower lobes, subpleural nodule in the left lung"
+valid_850_a_1.nii.gz,no findings
+valid_850_b_1.nii.gz,"bronchiectasis, peribronchial thickening, structural distortion, volume loss in the right lung, infective pathology in both lungs"
+valid_850_c_1.nii.gz,"bronchiectasis, peribronchial thickening, volume loss, consolidation in the upper lobe, possible bronchiolitis, enlargement of the right lung, bone structure porosity, partial compression in the l4 vertebra"
+valid_850_d_1.nii.gz,no findings
+valid_850_e_1.nii.gz,"bronchiectasis, pulmonary fibrosis, structural distortion"
+valid_850_f_1.nii.gz,"bronchiectasis, pulmonary fibrosis, structural lung distortion"
+valid_851_a_1.nii.gz,"calcified pulmonary nodules, focal pleural thickening"
+valid_852_a_1.nii.gz,"viral pneumonia, bilateral minimal pleural effusion"
+valid_853_a_1.nii.gz,no findings
+valid_854_a_1.nii.gz,nonspecific pulmonary nodules
+valid_855_a_1.nii.gz,"covid-19 pneumonia, hepatosteatosis"
+valid_856_a_1.nii.gz,"viral pneumonia, covid-19, influenza, parainfluenza, mycoplasma pneumonia, organized pneumonia, drug toxicity-related lung injury, connective tissue disease-associated lung disease"
+valid_857_a_1.nii.gz,"fibroatelectatic changes in both lung bases, mediastinal lymphadenopathy, cardiomegaly, coronary artery calcification, possible dirty mesentery in the central right mesenteric region, left renal cortical cyst"
+valid_858_a_1.nii.gz,millimetric nodules in both lungs
+valid_859_a_1.nii.gz,"cortical cystic lesions in both kidneys, lymphadenopathy, focal fissural thickness or scar tissue or lymphoid hyperplasia, increased kyphosis, osteopenia, ostephyte formation"
+valid_860_a_1.nii.gz,"emphysema, bronchiectasis, pulmonary nodules, hepatic steatosis"
+valid_861_a_1.nii.gz,"covid-19 pneumonia, pericardial effusion, atherosclerosis, coronary artery disease"
+valid_862_a_1.nii.gz,no findings
+valid_863_a_1.nii.gz,"emphysema, pulmonary nodules, nephrolithiasis"
+valid_864_a_1.nii.gz,"sequela fibrotic changes, minimal emphysema"
+valid_865_a_1.nii.gz,"covid-19 pneumonia, ground glass opacity"
+valid_866_a_1.nii.gz,"covid pneumonia, bacterial pneumonia"
+valid_867_a_1.nii.gz,"hypodense thyroid nodule, atherosclerosis, cardiomegaly, mitral valve calcification, pulmonary parenchymal changes, bronchiectasis, peribronchial thickening"
+valid_868_a_1.nii.gz,"pulmonary emphysema, pulmonary sequelae, focal ground-glass opacity, possible sequela of covid-19, calcific atheroma of the aorta, calcific atheroma of the coronary arteries, bilateral perinephric stranding"
+valid_869_a_1.nii.gz,minimal degenerative changes in thoracic vertebrae
+valid_869_b_1.nii.gz,no findings
+valid_870_a_1.nii.gz,"multiple myeloma, bronchopneumonia, interlobular septal thickness increase, subsegmental atelectasis, faint centriacinar nodular density increase, mediastinal lymphadenopathy, minimal pericardial effusion, hepatomegaly, hydropic gallbladder, mixed bone lesion at left 1st costochondral joint, sclerotic focus in the right 4th rib"
+valid_871_a_1.nii.gz,"viral pneumonia, covid-19, influenza, parainfluenza, mycoplasma infection, other organized pneumonias, drug toxicity, connective tissue diseases"
+valid_872_a_1.nii.gz,"post-mastectomy status with stable collection, radiation-induced lung disease, pulmonary nodules, calcified atheroma plaques in thoracic aorta, stable non-enlarged mediastinal lymph nodes, hiatal hernia"
+valid_873_a_1.nii.gz,no findings
+valid_874_a_1.nii.gz,covid-19 pneumonia
+valid_875_a_1.nii.gz,"early covid-19 pneumonia, parenchymal nodules in both lungs, hepatosteatosis"
+valid_876_a_1.nii.gz,"small airway disease, thyroid nodules, adrenal adenoma, breast lesion"
+valid_876_b_1.nii.gz,"parenchymal density increase in lung bases, possible ground glass opacities, thyroid nodules, atherosclerosis, adrenal nodular lesions suggestive of adenoma, abnormal findings in the left breast"
+valid_877_a_1.nii.gz,"scattered focal ground-glass opacities in both lungs, interstitial lung scarring, covid-19 infection, bilateral renal hypodensities, possible parapelvic cyst or pelvis calyceal ectasia"
+valid_878_a_1.nii.gz,"gastric foreign body, hepatosteatosis, rib fractures"
+valid_879_a_1.nii.gz,"nonspecific parenchymal nodules, resolved acinar opacities, pulmonary sequelae, metastatic liver lesions, complications from instrumentation, diffuse intra-abdominal free fluid, degenerative bone disease"
+valid_880_a_1.nii.gz,"pulmonary consolidation, elevation of the right hemidiaphragm, mediastinal lymphadenopathy, disseminated skeletal metastases"
+valid_881_a_1.nii.gz,"emphysema, peribronchial thickening, lung nodules, adrenal gland abnormality"
+valid_882_a_1.nii.gz,"atelectasis, bronchiectasis, renal cortical cysts, atherosclerosis"
+valid_883_a_1.nii.gz,"fusiform dilatation of the thoracic aorta, pericardial effusion, calcified lymph node, hiatal hernia, pulmonary nodules, peribronchial thickening, bronchiectasis, renal cysts"
+valid_884_a_1.nii.gz,"subsegmental atelectasis, mosaic attenuation, small airway disease, small vessel disease"
+valid_884_b_1.nii.gz,"increased cardiothoracic index, pulmonary nodules"
+valid_885_a_1.nii.gz,"mosaic attenuation consistent with small airway disease, peribronchial thickening, pulmonary consolidation with air bronchogram, cholelithiasis, lymphadenopathy in the mediastinal and celiac axis regions"
+valid_886_a_1.nii.gz,"pulmonary nodules, right nephrolithiasis"
+valid_887_a_1.nii.gz,"cardiomegaly, ascending aorta dilation, bilateral pleural effusion, compression atelectasis, nonspecific ground glass areas, interlobular septal thickness, mediastinal lymphadenopathy, periportal-paracaval lymphadenopathy, cholelithiasis, thyroid nodule"
+valid_888_a_1.nii.gz,"atelectasis, ground-glass opacity, possible viral pneumonia"
+valid_889_a_1.nii.gz,"hiatal hernia, mosaic attenuation pattern, small airway disease, small vessel disease"
+valid_890_a_1.nii.gz,"sequelae atelectatic changes, nonspecific pulmonary nodules"
+valid_891_a_1.nii.gz,"pulmonary emphysema, atelectasis, coronary artery disease, thoracic spondylosis"
+valid_892_a_1.nii.gz,no findings
+valid_893_a_1.nii.gz,"expansile lytic lesions on ribs, multiple lytic-sclerotic lesions, multiple myeloma"
+valid_894_a_1.nii.gz,"fusiform aneurysm of the ascending aorta, pericardial effusion, atherosclerosis with calcific plaques, coronary artery disease, hiatal hernia, tracheal diverticulum, paraseptal emphysema, interstitial lung disease, nonspecific parenchymal lung disease, pulmonary nodules, degenerative bone disease"
+valid_895_a_1.nii.gz,"cardiomegaly, left ventricular enlargement, chronic pangastritis, left adrenal nodular lesion, pulmonary nodules, lung aeration differences, sliding type hiatal hernia"
+valid_896_a_1.nii.gz,pulmonary nodules
+valid_897_a_1.nii.gz,"emphysema, interstitial lung disease, ground glass opacities, airway disease, small vessel disease"
+valid_898_a_1.nii.gz,"millimetric nonspecific parenchymal nodule in the right lung, possible early covid-19 (negative ct does not rule out)"
+valid_898_b_1.nii.gz,viral pneumonia
+valid_899_a_1.nii.gz,tuberculosis
+valid_900_a_1.nii.gz,"emphysema, postoperative changes in the stomach, atherosclerosis, calcified mediastinal lymph nodes"
+valid_901_a_1.nii.gz,no findings
+valid_902_a_1.nii.gz,"mass lesion in the left infrahilar region, involvement of the pericardium, possible esophageal involvement, nonspecific parenchymal nodules, subsegmental atelectatic changes"
+valid_903_a_1.nii.gz,no findings
+valid_904_a_1.nii.gz,"pulmonary artery dilatation, pulmonary nodules, atelectasis, mosaic attenuation pattern, ascites, renal atrophy, degenerative spine changes, bilateral gynecomastia"
+valid_905_a_1.nii.gz,bilateral nephrolithiasis
+valid_906_a_1.nii.gz,minimal sequelae changes in lungs
+valid_906_b_1.nii.gz,no findings
+valid_907_a_1.nii.gz,pulmonary nodule
+valid_908_a_1.nii.gz,"sequelae changes in lungs, mosaic density differences, emphysema, nonspecific pulmonary nodules, peribronchial ground-glass densities, subpleural ground-glass densities, regressed pneumonia foci"
+valid_909_a_1.nii.gz,"air trapping in upper lobes, linear atelectasis in lower lobes, asymmetrical left kidney enlargement, increased density of perirenal adipose tissue, possible urinary infection"
+valid_910_a_1.nii.gz,"status post cardiac bypass surgery, aneurysmal dilatation of the thoracic aorta, cardiomegaly, pulmonary artery enlargement, atherosclerosis of the thoracic aorta and coronary arteries, hiatal hernia, pulmonary emphysema, pleuroparenchymal fibroatelectasis, round atelectasis (suspected), cholelithiasis, renal cortical cysts (suspected), adrenal nodular thickening, scoliosis, anterolateral osteophyte bridging in the thoracic vertebrae"
+valid_911_a_1.nii.gz,"small airway disease, atypical viral pneumonia"
+valid_912_a_1.nii.gz,emphysema
+valid_913_a_1.nii.gz,no findings
+valid_914_a_1.nii.gz,no findings
+valid_915_a_1.nii.gz,no findings
+valid_915_b_1.nii.gz,pulmonary nodule
+valid_915_c_1.nii.gz,millimetric nodule in the left lung
+valid_916_a_1.nii.gz,"sequelae changes in lung parenchyma, centriacinar nodular opacities, nodular consolidation, ground glass opacities, secondary pneumonic infiltration"
+valid_916_b_1.nii.gz,no findings
+valid_916_c_1.nii.gz,no findings
+valid_917_a_1.nii.gz,"atypical pneumonia, covid-19 pneumonia"
+valid_918_a_1.nii.gz,"air cysts in the right lung, pulmonary nodules"
+valid_919_a_1.nii.gz,"sequelae parenchymal changes, mosaic attenuation pattern, possible small airway disease, possible small vessel disease"
+valid_920_a_1.nii.gz,"viral pneumonia, mediastinal lymphadenopathy, coronary artery calcification"
+valid_921_a_1.nii.gz,"emphysema, calcific lymphadenopathy, fatty pancreas, atherosclerosis, osteoporosis, degenerative disc disease"
+valid_922_a_1.nii.gz,no findings
+valid_923_a_1.nii.gz,viral pneumonia
+valid_924_a_1.nii.gz,"covid-19 pneumonia, acute respiratory distress syndrome (ards), subsegmental atelectasis"
+valid_925_a_1.nii.gz,"covid-19 pneumonia, hypodense lesions in the liver, possible liver cysts, minimal scoliosis of the thoracic spine, minimal osteodegenerative changes"
+valid_926_a_1.nii.gz,"coronary atherosclerosis, cholelithiasis, bilateral renal hypodense lesions, millimetric nonspecific nodules in both lungs"
+valid_927_a_1.nii.gz,"lung cancer, left pleural effusion, left total atelectasis, mediastinal lymphadenopathy, hilar lymphadenopathy, intraabdominal lymphadenopathy, right pleural effusion, pulmonary nodules"
+valid_928_a_1.nii.gz,"peribronchial thickening, emphysema, pulmonary nodules, thoracic spondylosis"
+valid_928_b_1.nii.gz,"covid-19 pneumonia, emphysematous changes, peribronchial thickening, nonspecific parenchymal nodules, mild thoracic spondylosis"
+valid_929_a_1.nii.gz,"cardiomegaly, thoracic aortic dilation, pulmonary sequelae, mosaic attenuation pattern, pulmonary emphysema, pulmonary nodules, hepatosteatosis"
+valid_930_a_1.nii.gz,"upper lobe emphysema, bilateral pleural effusion"
+valid_931_a_1.nii.gz,sequelae changes in both lungs
+valid_931_b_1.nii.gz,atelectasis
+valid_932_a_1.nii.gz,early covid pneumonia
+valid_933_a_1.nii.gz,"nonspecific pulmonary nodules, calcified atheromatous plaques, cortical cyst in the right kidney, sliding type hiatal hernia, osteoporosis"
+valid_933_b_1.nii.gz,"nonspecific pulmonary nodules, respiratory bronchiolitis, bronchial wall thickening, bronchiolitis, infectious bronchitis, coronary artery atherosclerosis, hiatal hernia"
+valid_934_a_1.nii.gz,"bronchiectasis, pulmonary nodule, cholelithiasis, renal lesion"
+valid_935_a_1.nii.gz,covid-19 pneumonia
+valid_936_a_1.nii.gz,"emphysema, pleuroparenchymal sequelae, atelectasis, anterior mediastinal mass (possible thymic origin)"
+valid_936_b_1.nii.gz,"covid-19 pneumonia, viral pneumonia, pulmonary sequelae, emphysematous changes, anterior mediastinal mass"
+valid_937_a_1.nii.gz,"bronchiectasis, peribronchial thickening, ground glass opacities, infective pathology, nodules, emphysema"
+valid_937_b_1.nii.gz,"bronchopneumonic infiltration, ground glass opacities, nodular consolidation, infectious pathologies, hypersensitivity pneumonitis, eosinophilic lung diseases"
+valid_937_c_1.nii.gz,no findings
+valid_937_d_1.nii.gz,"pneumothorax, ground-glass opacities, lung consolidation with cavitation"
+valid_937_e_1.nii.gz,"pneumothorax on both lungs, regression of pneumothorax on the left side, new development of pneumothorax on the right side"
+valid_937_f_1.nii.gz,no findings
+valid_937_g_1.nii.gz,"pneumonia, regression of consolidation-ground-glass areas, increase in bronchiectasis, newly emerged consolidation-ground-glass area"
+valid_937_h_1.nii.gz,"consolidations, ground-glass opacities, bronchiectasis, tree-in-bud pattern"
+valid_938_a_1.nii.gz,"emphysema, atelectasis"
+valid_939_a_1.nii.gz,covid-19 pneumonia
+valid_940_a_1.nii.gz,"fusiform dilatation of the ascending aorta, atherosclerosis, cardiomegaly, minimal pericardial effusion, lung infection or inflammatory process, ground-glass opacities, pulmonary fibrosis or calcified granuloma, nephrolithiasis, renal cyst"
+valid_941_a_1.nii.gz,"pulmonary nodules, pericardial effusion, retroperitoneal cyst"
+valid_942_a_1.nii.gz,"focal ground-glass opacity, possible atypical covid pneumonia, nonspecific pulmonary nodules"
+valid_943_a_1.nii.gz,"covid-19 viral pneumonia, hepatosteatosis, osteopenia, degenerative disc disease"
+valid_944_a_1.nii.gz,"covid pneumonia, ectasia in the ascending aorta"
+valid_945_a_1.nii.gz,"millimetric ground glass nodules in the right lung lower lobe, millimetric ground glass nodules in the left lung lower lobe"
+valid_945_b_1.nii.gz,no findings
+valid_946_a_1.nii.gz,"tubular bronchiectasis, sequela fibroatelectasis, adrenal gland thickening"
+valid_947_a_1.nii.gz,"mixed hiatal hernia, covid-19 pneumonia"
+valid_948_a_1.nii.gz,"cardiomegaly, increased calibration in the main vascular structures, prominent pleural effusion, atelectasis, ground glass opacities"
+valid_949_a_1.nii.gz,no findings
+valid_950_a_1.nii.gz,"infective pathology in the right lower lobe (regressed), nonspecific pulmonary nodule"
+valid_951_a_1.nii.gz,"nonspecific millimetric pulmonary nodules, cardiac pacemaker in situ"
+valid_952_a_1.nii.gz,"hypodense thyroid nodule, calcified lymph nodes, pleuroparenchymal fibroatelectasis, granulomatous infection sequelae, covid-19 pneumonia"
+valid_953_a_1.nii.gz,"diffuse fibroatelectasis, parenchymal distortion, volume loss in upper lobes, pleural irregularity, calcific nodules, traction bronchiectasis, linear atelectasis, degenerative changes in bone structures"
+valid_954_a_1.nii.gz,no findings
+valid_955_a_1.nii.gz,no findings
+valid_956_a_1.nii.gz,covid-19 pneumonia
+valid_957_a_1.nii.gz,pulmonary nodules
+valid_958_a_1.nii.gz,covid-19 pneumonia
+valid_959_a_1.nii.gz,atelectasis
+valid_960_a_1.nii.gz,"atherosclerosis, possibly small airway disease, possibly small vessel disease, subsegmentary atelectasis, structural distortion, pleural thickening, adrenal adenoma, degenerative bone disease"
+valid_961_a_1.nii.gz,"nonspecific sequelae changes in the lung, cholelithiasis, abdominal aorta and renal artery atherosclerosis, cystic lesion in the liver, severe osteoarthrosis in the bilateral shoulder joint"
+valid_962_a_1.nii.gz,"major fissure thickening, suspected covid-19 infection"
+valid_963_a_1.nii.gz,"peribronchial thickening, centriacinar nodules, infective pulmonary pathology, pulmonary emphysema, atherosclerosis of the aorta, atherosclerosis of coronary arteries, lymphadenopathy in the mediastinum and hilar region"
+valid_964_a_1.nii.gz,no findings
+valid_965_a_1.nii.gz,"calcific nodular lesion in the thyroid, tracheal compression, bilateral pulmonary emphysema, nonspecific millimetric nodules in the lungs, dependent ground glass densities in the lungs, chronic bronchitis"
+valid_966_a_1.nii.gz,"increased aeration, tubular bronchiectasis"
+valid_967_a_1.nii.gz,"sequelae changes in both lungs, emphysema, mild bronchiectasis, mild fusiform dilatation of the ascending aorta, hiatal hernia"
+valid_968_a_1.nii.gz,paradular consolidation in the right lung
+valid_968_b_1.nii.gz,"mediastinal lymphadenopathy, pericardial effusion, bilateral pleural effusion"
+valid_968_c_1.nii.gz,"pulmonary consolidation, centriacinar tree-in-bud pattern, increased nodular ground-glass opacities, suspected infectious pathology"
+valid_968_d_1.nii.gz,"fusiform ectasia of the thoracic aorta, pericardial effusion, bilateral pleural effusion, pleurodesis-related changes, diffuse atelectasis, bilateral bronchiectasis, peribronchial thickening, centriacinar nodular infiltrates, suspected bronchopneumonia, osteoporosis, degenerative bone changes"
+valid_969_a_1.nii.gz,"degenerative changes in lower thoracic vertebrae, increased thoracic kyphosis"
+valid_969_b_1.nii.gz,thoracic spondylosis
+valid_970_a_1.nii.gz,"pulmonary nodules, emphysema"
+valid_971_a_1.nii.gz,"ground glass densities in both lungs, nonspecific millimetric nodules in both lungs, left nephrolithiasis, cortical cyst in left kidney, superposed nodular density near right breast areola"
+valid_971_b_1.nii.gz,"pulmonary nodules, nephrolithiasis"
+valid_972_a_1.nii.gz,pulmonary nodules
+valid_973_a_1.nii.gz,"millimetric nonspecific parenchymal nodules, bilateral nephrolithiasis, mild scoliosis, minimal osteodegenerative changes"
+valid_974_a_1.nii.gz,"atherosclerosis of the thoracic aorta and its branches, coronary artery disease, hiatal hernia, linear atelectasis, pulmonary nodules, mosaic attenuation pattern, intrapulmonary lymph node, degenerative changes of the spine"
+valid_975_a_1.nii.gz,"viral pneumonia, mediastinal lymphadenopathy, hiatal hernia, thoracic spondylosis"
+valid_976_a_1.nii.gz,"nodular lesion likely a cyst in the right breast, hiatal hernia, covid-19 pneumonia, hepatosteatosis, thickening of the left adrenal gland"
+valid_977_a_1.nii.gz,"atelectasis, lung nodules, atherosclerosis, coronary artery disease, thoracic spondylosis"
+valid_978_a_1.nii.gz,"viral pneumonia, hepatic steatosis"
+valid_979_a_1.nii.gz,"ground-glass opacities, pulmonary consolidation, covid-19 pneumonia, hepatosteatosis, degenerative bone disease"
+valid_979_b_1.nii.gz,"calcified atheroma plaque in lad, mosaic attenuation pattern in lung parenchyma, hepatosteatosis, diffuse idiopathic skeletal hyperostosis in thoracic vertebrae"
+valid_980_a_1.nii.gz,covid pneumonia
+valid_981_a_1.nii.gz,"mosaic attenuation of the lung, small airway disease, small vessel disease, lung nodule"
+valid_982_a_1.nii.gz,"pulmonary nodules, hepatosteatosis"
+valid_983_a_1.nii.gz,"bilateral gynecomastia, eventration of the right hemidiaphragm, subsegmental atelectasis in the lower lobe, central tubular bronchiectasis, peribronchial thickening, prolonged covid-19 pneumonia, cortical cyst in the left kidney"
+valid_984_a_1.nii.gz,"mosaic attenuation pattern in lungs, post-cholecystectomy status, thyroid nodule, cardiomegaly, coronary artery calcification, bilateral renal parenchymal thinning, left adrenal nodule"
+valid_985_a_1.nii.gz,"ground glass opacity, interlobular septal thickening, bilateral pleural effusion, pulmonary edema, viral pneumonia, covid-19 pneumonia"
+valid_986_a_1.nii.gz,"ground-glass opacities, possible early infectious process in the lungs, hepatosteatosis"
+valid_987_a_1.nii.gz,"mild bronchial dilatation, peribronchial thickening"
+valid_988_a_1.nii.gz,no findings
+valid_989_a_1.nii.gz,nonspecific ground-glass nodule
+valid_990_a_1.nii.gz,"atherosclerosis, coronary artery disease, hiatal hernia, covid-19 pneumonia, atelectasis, pulmonary nodules, syndesmophytes with ankylosing spondylitis"
+valid_991_a_1.nii.gz,"nonspecific pulmonary nodules, mild atelectasis in right middle lobe, mild atelectasis in left upper lobe inferior lingula"
+valid_991_b_1.nii.gz,"aortic atherosclerosis, coronary artery atherosclerosis, aortic ectasia, bilateral gynecomastia, nonspecific pulmonary nodules, pulmonary fibrosis, ground glass densities in the lungs, post-covid pneumonia changes, status post cholecystectomy"
+valid_992_a_1.nii.gz,no findings
+valid_993_a_1.nii.gz,"hepatosteatosis, prominence in the epicardiac fat pad"
+valid_994_a_1.nii.gz,"ectasia in the ascending aorta, status post aortic valve replacement, minimal cardiomegaly, dependant density increases in both lung parenchyma (possibly small airway disease or small vessel disease), nonspecific-appearing nodules in the anterior segments of both lung upper lobes"
+valid_995_a_1.nii.gz,no findings
+valid_996_a_1.nii.gz,"linear atelectasis, parenchymal air trapping, pulmonary nodules, thyroid nodule, hepatosteatosis, renal cysts, left adrenal adenoma, atherosclerosis, degenerative bone disease"
+valid_997_a_1.nii.gz,no findings
+valid_998_a_1.nii.gz,"emphysema, pleuroparenchymal sequelae, atelectasis, pulmonary nodules, atherosclerosis, hiatal hernia"
+valid_999_a_1.nii.gz,no findings
+valid_1000_a_1.nii.gz,no findings
+valid_1001_a_1.nii.gz,pulmonary nodules
+valid_1002_a_1.nii.gz,"cardiomegaly, mild dilatation of the ascending aorta, significant dilatation of the pulmonary artery, bilateral pleural effusion, bilateral peribronchial thickening, atherosclerosis, coronary artery disease, liver parenchymal disease, degenerative bone disease"
+valid_1003_a_1.nii.gz,no findings
+valid_1004_a_1.nii.gz,"loculated cystic lesion, mild pulmonary emphysema, pulmonary sequelae, pulmonary consolidation, multiple pulmonary nodules, mediastinal lymphadenopathy, hilar lymphadenomegaly, hiatal hernia"
+valid_1005_a_1.nii.gz,"constrictive pericarditis, pleural effusion, atelectasis, emphysema"
+valid_1005_b_1.nii.gz,"pericardial effusion, hemorrhagic pericardial effusion, pericardial calcification, bilateral minimal pleural effusion"
+valid_1006_a_1.nii.gz,"space-occupying lesions in upper abdomen, calcific foci in thyroid parenchyma, degenerative changes in bone structures, fibrotic sequela changes in left lung, atelectasis"
+valid_1006_b_1.nii.gz,"lymphoma, minimal pericardial effusion, bilateral minimal pleural effusion, atelectasis, bronchiectasis, structural distortion and volume loss in the left upper lobe, emphysematous changes, intraabdominal collection"
+valid_1006_c_1.nii.gz,"cardiomegaly, pericardial effusion, intra-abdominal collection, right pleural effusion, soft tissue edema"
+valid_1007_a_1.nii.gz,"atherosclerosis, hiatal hernia, pulmonary nodules, bronchiectasis, peribronchial thickening, degenerative bone disease"
+valid_1008_a_1.nii.gz,"pulmonary fibrosis, reticulonodular pattern, fibroatelectasis"
+valid_1009_a_1.nii.gz,"breast lesion, pulmonary nodules, hepatosteatosis"
+valid_1010_a_1.nii.gz,no findings
+valid_1011_a_1.nii.gz,"arcus aorta, atherosclerosis, hiatal hernia, lung parenchymal changes, pulmonary nodules, mosaic attenuation pattern, colonic dilatation"
+valid_1012_a_1.nii.gz,no findings
+valid_1013_a_1.nii.gz,"ground-glass opacities, peribronchial thickening, bilateral pleural effusion, atelectasis, right nephrolithiasis, bilateral renal cysts, cardiomegaly"
+valid_1014_a_1.nii.gz,"mild atelectasis, cardiomegaly, pericardial effusion, splenomegaly, ascites, renal cortical cyst, atherosclerosis"
+valid_1015_a_1.nii.gz,"covid-19 pneumonia, other viral pneumonias, subpleural parenchymal nodule"
+valid_1016_a_1.nii.gz,"lymphadenopathy, mediastinal lymphadenopathy, hilar lymphadenopathy, pulmonary nodules with possible ground-glass opacities, peribronchovascular thickening, interlobular septal thickening"
+valid_1016_b_1.nii.gz,no findings
+valid_1016_c_1.nii.gz,"soft tissue density mass likely indicative of a primary lung malignancy, alveolar carcinomatosis, possible metastatic nodules in the left lung lower lobe, centriacinar nodular density increase suggestive of tree-in-bud pattern, potentially due to infection, bilateral pleural effusion, compressive atelectasis, enlarged mediastinal lymph nodes with fusiform configuration"
+valid_1016_d_1.nii.gz,"lung mass, pulmonary nodules"
+valid_1016_e_1.nii.gz,no findings
+valid_1016_f_1.nii.gz,no findings
+valid_1017_a_1.nii.gz,"atelectasis, pulmonary nodules"
+valid_1018_a_1.nii.gz,suspicious anterior mediastinal thickening
+valid_1019_a_1.nii.gz,"lung masses, mediastinal lymphadenopathy, bilateral axillary lymphadenopathy"
+valid_1019_b_1.nii.gz,"cardiomegaly, atherosclerosis, aberrant right subclavian artery, fibroatelectasis, bone destruction due to soft tissue lesion"
+valid_1019_c_1.nii.gz,"vertebral compression fracture, rib destruction, rib fracture"
+valid_1019_d_1.nii.gz,"pleural thickening, pleural effusion, fibroatelectasis, lymphadenopathy, progressive diffuse bone disease"
+valid_1020_a_1.nii.gz,no findings
+valid_1021_a_1.nii.gz,"pericardial effusion, pleuroparenchymal fibroelastosis, pulmonary fibrosis, lung nodule, mild scoliosis"
+valid_1022_a_1.nii.gz,"linear fibroatelactasis, hepatosteatosis, accessory spleens, scoliosis"
+valid_1023_a_1.nii.gz,"pleural plaques, pulmonary parenchymal sequela, apical scarring of the lungs, centriacinar emphysema, sliding hiatal hernia"
+valid_1024_a_1.nii.gz,"calcific atheroma plaques, hiatal hernia, covid-19 pneumonia, sequela fibrotic recessions, paracicatricial bronchiectasis, volume loss in lungs, nodular lesion in left kidney, osteoporosis, osteodegenerative changes"
+valid_1025_a_1.nii.gz,"covid-19 pneumonia, influenza pneumonia, organizing pneumonia, drug toxicity, connective tissue disease, hepatosteatosis"
+valid_1025_b_1.nii.gz,no findings
+valid_1025_c_1.nii.gz,no findings
+valid_1026_a_1.nii.gz,millimetric nodule in the right lung
+valid_1027_a_1.nii.gz,"cardiomegaly, hiatal hernia, mosaic attenuation pattern, small airway disease, small vessel disease, parenchymal nodules"
+valid_1028_a_1.nii.gz,"aortic ectasia, pulmonary artery ectasia, pulmonary hypertension, atherosclerosis of the aorta, coronary artery atherosclerosis, mediastinal lymphadenopathy, hilar lymphadenopathy, bilateral pleural effusion, airway disease, perfusion defect, peribronchial patchy infiltrates, bronchopneumonia, pulmonary edema, renal cysts, degenerative bone disease"
+valid_1029_a_1.nii.gz,"ground glass nodular density, possible infectious process, potential carcinomatous finding"
+valid_1030_a_1.nii.gz,"pulmonary consolidation, post-covid pulmonary changes, hiatal hernia, mediastinal lymphadenopathy"
+valid_1031_a_1.nii.gz,"presence of pacemaker, cardiomegaly, aortic atherosclerosis, coronary artery atherosclerosis, mild ectasia of the ascending aorta, mild ectasia of the pulmonary artery, bilateral pleural effusion, atelectasis, mosaic pattern of lung attenuation, interlobular septal thickening, peribronchial thickening, pulmonary edema, degenerative changes in bone structures"
+valid_1032_a_1.nii.gz,covid-19 pneumonia
+valid_1033_a_1.nii.gz,covid-19 viral pneumonia
+valid_1034_a_1.nii.gz,"aneurysmatic dilatation of the ascending aorta, dilated pulmonary trunk, posterior gastric diverticulum at the cardio-fundus junction"
+valid_1035_a_1.nii.gz,"nonspecific pulmonary nodules, hiatal hernia, hepatic steatosis"
+valid_1036_a_1.nii.gz,"upper lobe consolidations, ground-glass opacities, covid-19 pneumonia, right minimal pleural effusion"
+valid_1037_a_1.nii.gz,right nephrolithiasis
+valid_1038_a_1.nii.gz,"pulmonary calcification, pulmonary nodules"
+valid_1039_a_1.nii.gz,sequela fibrotic changes in bilateral lungs
+valid_1040_a_1.nii.gz,"mild emphysematous changes, parenchymal nodule, lung sequelae changes, ground-glass opacity, mediastinal lymphadenopathy"
+valid_1041_a_1.nii.gz,"subacute-chronic coronavirus infection, pleuroparenchymal fibroelastosis, ground glass opacification, pulmonary sequelae, tractional bronchiectasis, mosaic attenuation pattern, goiter, liver lesion, perihepatic effusion, perisplenic effusion, hiatal hernia, esophageal abnormality, lymphadenopathy, chronic renal failure (crf), renal atrophy, cortical irregularities, ankylosing spondylitis"
+valid_1041_b_1.nii.gz,"pulmonary fibrosis, bronchiectasis, pulmonary nodules, atherosclerosis, perihepatic effusion, perisplenic effusion, degenerative bone disease"
+valid_1041_c_1.nii.gz,"peribronchial sheath thickening, interstitial fibrosis, pleural effusion, atelectasis, chronic liver parenchyma disease, perisplenic effusion, chronic renal failure (crf), spondyloarthropathy"
+valid_1041_d_1.nii.gz,no findings
+valid_1042_a_1.nii.gz,"right lung agenesis or post-surgical absence, soft tissue densities at surgical site, ground-glass opacities in the left lung, possible covid-19 pneumonia, multiple pulmonary nodules in the left lung, ectatic aorta"
+valid_1043_a_1.nii.gz,"hiatal hernia, covid-19 viral pneumonia, lymphadenopathy, hepatosteatosis"
+valid_1044_a_1.nii.gz,"atypical pneumonic infiltration, early covid pneumonia, mild parenchymal involvement of covid infection"
+valid_1045_a_1.nii.gz,no findings
+valid_1046_a_1.nii.gz,"atheroma plaques in the aorta, atheroma plaques in the coronary arteries"
+valid_1047_a_1.nii.gz,no findings
+valid_1048_a_1.nii.gz,covid-19 pneumonia
+valid_1049_a_1.nii.gz,"fusiform aneurysm of the thoracic aorta, atherosclerotic cardiovascular disease, pleural thickening, interstitial lung disease (suggested by subpleural density increases and interlobular septal thickenings)"
+valid_1050_a_1.nii.gz,viral pneumonia
+valid_1051_a_1.nii.gz,no findings
+valid_1052_a_1.nii.gz,cardiomegaly
+valid_1053_a_1.nii.gz,"sequelae changes in lungs, nonspecific parenchymal nodules"
+valid_1054_a_1.nii.gz,no findings
+valid_1055_a_1.nii.gz,nonspecific lung nodules
+valid_1056_a_1.nii.gz,"calcific atheroma plaques in the thoracic aorta, calcific atheroma plaques in the coronary arteries, covid-19 pneumonia, history of cholecystectomy"
+valid_1057_a_1.nii.gz,"mosaic attenuation pattern (possible small airway disease or small vessel disease), pulmonary nodules, cardiomegaly, atherosclerosis of the aorta, coronary artery disease, pulmonary hypertension, hiatal hernia, thoracic spondylosis"
+valid_1057_b_1.nii.gz,"post-coronary bypass changes, mild hiatal hernia, subpleural septal thickening, calcific atherosclerosis of the aorta"
+valid_1058_a_1.nii.gz,no findings
+valid_1059_a_1.nii.gz,hepatic steatosis
+valid_1060_a_1.nii.gz,"covid-19 pneumonia, viral pneumonia, bilateral nephrolithiasis, cystic lesion in anterior mediastinum, atherosclerosis, fusiform dilatation of the ascending aorta"
+valid_1061_a_1.nii.gz,nonspecific pulmonary nodule
+valid_1062_a_1.nii.gz,"emphysema, pulmonary nodules"
+valid_1063_a_1.nii.gz,no findings
+valid_1064_a_1.nii.gz,"metallic prosthetic aortic valve, mosaic attenuation pattern in lungs, possible small vessel disease, possible small airway disease, kidney calculus, degenerative bone disease"
+valid_1065_a_1.nii.gz,"atherosclerosis, bronchiectasis, nonspecific linear opacities"
+valid_1066_a_1.nii.gz,viral pneumonia
+valid_1067_a_1.nii.gz,"massive pleural effusion - right side, atelectasis - right lung, minimal pleural effusion - left side, minimal pericardial effusion, possible debris or hemorrhage within right pleural effusion, potential soft tissue lesion within right pleural effusion, atherosclerosis of the aorta and coronary arteries, minimal pulmonary emphysema, ground glass opacity - left lung upper lobe"
+valid_1067_b_1.nii.gz,"interstitial lung disease, thickening of interlobular septa, irregularity in pleural surfaces, pulmonary consolidation"
+valid_1067_c_1.nii.gz,"fusiform aneurysm of the thoracic aorta, atherosclerosis with calcific atheroma plaques in the thoracic aorta and coronary arteries, cardiomegaly, pericardial effusion, pulmonary artery dilation, hiatal hernia, pleural effusion, formation of phantom tumor in pleura due to pleural effusion, pulmonary congestion, ground-glass opacities in the lungs, interlobular septal thickening, pleural irregularities, possible viral infection in the lungs"
+valid_1067_d_1.nii.gz,"lymphadenopathy, cardiac pulmonary stasis, gallbladder sludge or stone"
+valid_1068_a_1.nii.gz,"sequelae changes in the lung, azygos fissure variation, parapelvic cyst"
+valid_1069_a_1.nii.gz,"mild dilatation of the ascending aorta, atherosclerosis, coronary artery disease, cardiomegaly, pericardial effusion, bilateral pleural effusion, atelectasis, bilateral adrenal adenoma, bilateral renal parapelvic cyst"
+valid_1069_b_1.nii.gz,"covid pneumonia, dilatation of the ascending aorta, coronary atherosclerosis, cardiomegaly, bilateral adrenal adenomas, degenerative changes in the vertebrae"
+valid_1070_a_1.nii.gz,no findings
+valid_1071_a_1.nii.gz,"pulmonary nodules, hiatal hernia"
+valid_1072_a_1.nii.gz,"emphysematous changes, sequelae changes, bronchiectasis, ground-glass density increase in the lower lobe of the left lung, possible covid 19 pneumonia"
+valid_1073_a_1.nii.gz,no findings
+valid_1074_a_1.nii.gz,"arterial coronary bypass graft, hiatal hernia, atypical pneumonia, cholelithiasis, renal cysts, hemorrhagic cyst in the left kidney, splenic calcifications"
+valid_1075_a_1.nii.gz,"early viral pneumonia, hepatosteatosis"
+valid_1076_a_1.nii.gz,"diffuse consolidations, ground-glass opacities, minimal interlobular septal thickening"
+valid_1077_a_1.nii.gz,no findings
+valid_1078_a_1.nii.gz,"left pleural effusion, pneumonic infiltration in both lungs, pulmonary emphysema, pulmonary nodules, atherosclerosis of aorta, coronary artery disease"
+valid_1079_a_1.nii.gz,no findings
+valid_1080_a_1.nii.gz,"focal ground glass opacities, intraabdominal free fluid, cardiomegaly"
+valid_1081_a_1.nii.gz,viral pneumonia
+valid_1081_b_1.nii.gz,no findings
+valid_1082_a_1.nii.gz,"pleural effusion, heart failure, pericardial effusion, pulmonary hypertension, non-specific ground-glass opacities"
+valid_1082_b_1.nii.gz,"cardiomegaly, coronary artery stents, pulmonary artery ectasia, pulmonary edema, bilateral pleural effusion, bronchopneumonic infiltrates, perihepatic free fluid"
+valid_1083_a_1.nii.gz,"pulmonary nodules, emphysema, peribronchial thickening, linear atelectasis, nephrolithiasis, renal cortical lesion (possible cyst)"
+valid_1084_a_1.nii.gz,"cardiomegaly, atherosclerosis, lymphadenopathy, centrilobular emphysema, pulmonary fibrosis, bronchiectasis, pneumonia, covid-19 pneumonia (suspected), chronic kidney disease, kyphoscoliosis, degenerative disc disease"
+valid_1085_a_1.nii.gz,no findings
+valid_1086_a_1.nii.gz,no findings
+valid_1087_a_1.nii.gz,covid-19 pneumonia
+valid_1088_a_1.nii.gz,"viral pneumonia, mediastinal lymphadenopathy, hiatal hernia"
+valid_1089_a_1.nii.gz,no findings
+valid_1090_a_1.nii.gz,no findings
+valid_1091_a_1.nii.gz,subpleural nodule in the right lung
+valid_1092_a_1.nii.gz,"lung mass, pulmonary nodules, bronchiectasis, peribronchial thickening, ground-glass opacities, pulmonary consolidation, calcified pulmonary nodule, centriacinar emphysema, mediastinal lymphadenopathy, osteodegenerative disease, renal cortical cyst"
+valid_1093_a_1.nii.gz,no findings
+valid_1094_a_1.nii.gz,"cardiomegaly, atherosclerosis of the left anterior descending (lad) artery, hiatal hernia, renal cysts, air trapping in lungs, pulmonary nodule"
+valid_1095_a_1.nii.gz,"pulmonary infection, pulmonary consolidation"
+valid_1096_a_1.nii.gz,no findings
+valid_1097_a_1.nii.gz,"bronchial ectasia, pleuroparenchymal sequelae, pulmonary nodules, thin-walled air cysts"
+valid_1097_b_1.nii.gz,"chronic pulmonary changes, pulmonary nodules, pulmonary emphysema, bronchiectasis, peribronchial thickening, potential renal cysts, hepatosteatosis, cholelithiasis, degenerative bone disease"
+valid_1097_c_1.nii.gz,"emphysema, atherosclerosis, pulmonary fibrosis, pulmonary nodules, liver lesion, renal cysts"
+valid_1098_a_1.nii.gz,"bilateral pleural effusion, atelectasis"
+valid_1099_a_1.nii.gz,"calcific lymphadenopathy in both hilar regions, pulmonary sequelae in both lungs, pulmonary nodules in both lungs"
+valid_1100_a_1.nii.gz,"peripheral consolidation in the left lung, ground glass opacities in the left lung"
+valid_1101_a_1.nii.gz,no findings
+valid_1102_a_1.nii.gz,no data provided
+valid_1103_a_1.nii.gz,pulmonary nodule
+valid_1103_b_1.nii.gz,"post-surgical changes, fibrosis, structural distortion"
+valid_1104_a_1.nii.gz,"atherosclerosis, dependent density increase in both lungs, hepatosteatosis"
+valid_1105_a_1.nii.gz,pulmonary nodules
+valid_1106_a_1.nii.gz,"pulmonary ground-glass opacities, possible covid pneumonia, hiatal hernia"
+valid_1107_a_1.nii.gz,left nephrolithiasis
+valid_1108_a_1.nii.gz,no findings
+valid_1109_a_1.nii.gz,scoliosis
+valid_1110_a_1.nii.gz,"lung nodules, left kidney calculus"
+valid_1111_a_1.nii.gz,"respiratory infection, covid-19, atherosclerosis, lymphadenopathy, pancreatic pseudocyst, intraductal papillary mucinous neoplasm (ipmn), bilateral corticoplevic cysts, osteopenia, rib fractures, sclerotic bone lesions"
+valid_1112_a_1.nii.gz,"centriacinar paraseptal emphysema, dependent density increases in lower lobes"
+valid_1113_a_1.nii.gz,pulmonary nodules
+valid_1114_a_1.nii.gz,no findings
+valid_1115_a_1.nii.gz,"possible parapelvic cyst, possible dilatation of the right kidney collecting system"
+valid_1116_a_1.nii.gz,"coronary atherosclerosis, exophytic nodule in the thyroid gland"
+valid_1117_a_1.nii.gz,"linear atelectasis, parenchymal air cyst"
+valid_1118_a_1.nii.gz,"atelectasis, hepatosteatosis"
+valid_1119_a_1.nii.gz,nonspecific pulmonary nodules
+valid_1120_a_1.nii.gz,"pulmonary nodular lesion, possible pulmonary tumor, possible wegener's granulomatosis, cavitary lung lesion, hepatomegaly, hepatosteatosis"
+valid_1121_a_1.nii.gz,"pulmonary nodules, atelectasis, coronary artery atherosclerosis, hiatal hernia"
+valid_1122_a_1.nii.gz,"pulmonary emphysema, lung nodules, thoracic aortic calcification, vascular atherosclerosis"
+valid_1123_a_1.nii.gz,"mosaic attenuation pattern of the lungs, pleural parenchymal sequelae, hepatosteatosis, non-specific hypodense lesion in the left adrenal gland, renal contour irregularity, degenerative bone changes"
+valid_1124_a_1.nii.gz,"cardiomegaly, atherosclerotic vascular disease, coronary artery disease, thoracic aortic dilation, emphysema, renal atrophy, renal cyst, cholelithiasis"
+valid_1125_a_1.nii.gz,"nonspecific ground-glass opacities, sequelae changes in both lungs"
+valid_1126_a_1.nii.gz,"pulmonary nodules with suspicion of metastases, ground glass opacities surrounding pulmonary nodules, bone lesions with suspicion of metastases"
+valid_1126_b_1.nii.gz,no findings
+valid_1126_c_1.nii.gz,"pleural effusion, progression of previous pleural effusion, thickening of interlobular septa, increased pleuroparenchymal density, interlobar fluid collection, degenerative bone changes, possible metastatic lesions"
+valid_1127_a_1.nii.gz,"cardiomegaly, atherosclerosis, pleural effusion, pulmonary sequelae changes, emphysema, renal cyst, diffuse idiopathic skeletal hyperostosis (dish)"
+valid_1128_a_1.nii.gz,"dependent atelectasis, thyroid parenchymal disease"
+valid_1129_a_1.nii.gz,no findings
+valid_1130_a_1.nii.gz,subpleural ground-glass opacities
+valid_1131_a_1.nii.gz,"lung nodules, parenchymal changes, ground glass opacities, bilateral nephrolithiasis"
+valid_1131_b_1.nii.gz,"calcific atheroma plaques, atypical viral pneumonia"
+valid_1132_a_1.nii.gz,"pulmonary nodules, subsegmental atelectasis, hepatosteatosis, ground glass opacity, possible covid 19 pneumonia"
+valid_1133_a_1.nii.gz,no findings
+valid_1134_a_1.nii.gz,"viral pneumonia, covid-19 pneumonia, coronary artery atherosclerosis, hiatal hernia, renal cyst, compression fracture of t12 vertebral body"
+valid_1135_a_1.nii.gz,"infectious pathology in right lung, emphysema, atherosclerosis, pericardial effusion, lymphadenopathy"
+valid_1136_a_1.nii.gz,"pulmonary nodules, bilateral atelectasis, left atrial enlargement, pericardial effusion"
+valid_1137_a_1.nii.gz,"hypodense thyroid nodule, sliding hiatal hernia, nonspecific millimetric pulmonary nodules"
+valid_1138_a_1.nii.gz,possible early parenchymal involvement of covid-19
+valid_1139_a_1.nii.gz,no findings
+valid_1140_a_1.nii.gz,"pericardial-pleural effusion, subsegmental atelectasis, thickening of the peribronchovascular interstitium"
+valid_1141_a_1.nii.gz,nonspecific pulmonary nodules
+valid_1142_a_1.nii.gz,"goiter, thyroid nodules"
+valid_1143_a_1.nii.gz,"atheroma plaque in the aortic arch, hepatic steatosis, thoracic spondylosis"
+valid_1144_a_1.nii.gz,"pulmonary nodules, angiomyolipoma of the right kidney, indeterminate hypodense liver lesion"
+valid_1145_a_1.nii.gz,emphysema
+valid_1146_a_1.nii.gz,"ectasia of the ascending aorta, hiatal hernia, passive atelectatic changes, band atelectasis, calcific nodule in the lung, hepatic cysts"
+valid_1147_a_1.nii.gz,no findings
+valid_1147_b_1.nii.gz,"pleural effusion, mosaic attenuation pattern, pericardial effusion"
+valid_1148_a_1.nii.gz,"mediastinal lymphadenopathy, pulmonary nodules, pulmonary fibrosis, hepatic steatosis"
+valid_1148_b_1.nii.gz,"pulmonary nodules, bronchiectasis, air trapping, fatty liver disease"
+valid_1149_a_1.nii.gz,"structural distortion of the lungs, sequela parenchymal changes, volume loss in bilateral upper lobes, pulmonary nodules"
+valid_1150_a_1.nii.gz,"covid-19 pneumonia, lung nodules, hepatosteatosis"
+valid_1151_a_1.nii.gz,"covid-19 pneumonia, influenza pneumonia, organizing pneumonia, drug toxicity, connective tissue disease, mediastinal lymphadenopathy, hepatosteatosis"
+valid_1152_a_1.nii.gz,"viral pneumonia, covid-19"
+valid_1153_a_1.nii.gz,"thymic hyperplasia, bronchiectasis"
+valid_1154_a_1.nii.gz,"pulmonary nodules, emphysema, atherosclerosis, pulmonary artery dilatation, hiatal hernia, liver hypertrophy"
+valid_1155_a_1.nii.gz,"interstitial lung disease, eosinophilic lung disease, adrenal nodule"
+valid_1156_a_1.nii.gz,covid pneumonia
+valid_1156_b_1.nii.gz,no findings
+valid_1157_a_1.nii.gz,"nonspecific parenchymal nodules in both lungs, sliding type hiatal hernia"
+valid_1158_a_1.nii.gz,nonspecific parenchymal nodule
+valid_1159_a_1.nii.gz,"enlarged right thyroid lobe, calcific atheroma plaques in the arcus aorta and supraaortic branches, cardiomegaly, hiatal hernia, pleural thickening, atelectasis, linear fibroatelectasis, ground-glass densities in the lungs, pulmonary nodule, hepatomegaly, hepatosteatosis, possible acute pancreatitis, exophytic renal cortical cyst, thoracic kyphosis, degenerative spinal changes, diffuse idiopathic skeletal hyperostosis"
+valid_1160_a_1.nii.gz,"increased thoracic kyphosis, thoracic spondylosis"
+valid_1161_a_1.nii.gz,"bronchiectasis, pulmonary nodules, atherosclerosis, coronary artery disease, nephrolithiasis"
+valid_1162_a_1.nii.gz,mild cardiomegaly
+valid_1163_a_1.nii.gz,"sequelae changes in both lungs, minimal bronchiectasis, nonspecific parenchymal nodule in the right lung middle lobe, left nephrolithiasis"
+valid_1164_a_1.nii.gz,no findings
+valid_1165_a_1.nii.gz,covid-19 viral pneumonia
+valid_1166_a_1.nii.gz,no findings
+valid_1167_a_1.nii.gz,"malignant mass of right lung lower lobe, possible metastasis to t11 vertebra, sequelae changes in both lungs, millimetric pulmonary nodules, minimal right pleural effusion, atheroma of aorta, coronary artery disease"
+valid_1168_a_1.nii.gz,no findings
+valid_1169_a_1.nii.gz,"atherosclerosis of the aorta, atherosclerosis of the coronary artery, viral pneumonia, pulmonary nodules, renal cyst, hiatal hernia"
+valid_1170_a_1.nii.gz,"diffuse bronchiectasis, cystic bronchiectasis, mucus plugging, parenchymal fibrosis, peribronchial thickening, nephrolithiasis, degenerative bone disease, increased thoracic kyphosis, pericardial effusion, pulmonary artery dilatation, atherosclerosis of the thoracic aorta, coronary artery calcification"
+valid_1170_b_1.nii.gz,"emphysematous changes, diffuse bronchiectasis, peribronchial thickenings, sequelae changes post-bronchiectasis, tree-in-bud appearances"
+valid_1170_c_1.nii.gz,"emphysematous changes, diffuse bronchiectasis, peribronchial thickenings, sequelae accompanying bronchiectasis, possible infective pathologies"
+valid_1171_a_1.nii.gz,"bronchiectasis, hepatosteatosis"
+valid_1171_b_1.nii.gz,atheroma plaques in the left anterior descending coronary artery
+valid_1172_a_1.nii.gz,no findings
+valid_1173_a_1.nii.gz,"pulmonary nodules, gallbladder calculus, possible spondyloarthropathy"
+valid_1174_a_1.nii.gz,calcific atheroma plaques in the aorta
+valid_1175_a_1.nii.gz,"mild cardiomegaly, goiter (increased size of both thyroid glands), ascending aorta dilatation, pulmonary nodule (millimetric nonspecific parenchymal nodule in the right lung), pulmonary atelectasis (sequelae changes-atelectasis in both lungs), mosaic attenuation pattern (possible small airway disease or small vessel disease), chronic liver parenchymal disease, status post splenectomy (splenectomized?)"
+valid_1176_a_1.nii.gz,"sequela parenchymal bands, cholelithiasis"
+valid_1177_a_1.nii.gz,pulmonary nodules
+valid_1178_a_1.nii.gz,"lesions in the left breast, parenchymal nodule in the right lung, fibroatelectatic changes in both lungs, hepatomegaly, lymphadenopathies in both anterior diaphragmatic localizations"
+valid_1179_a_1.nii.gz,nonspecific pulmonary nodules
+valid_1180_a_1.nii.gz,"atelectasis, emphysema, pulmonary nodules"
+valid_1181_a_1.nii.gz,"hiatal hernia, nonspecific parenchymal nodule, history of cholecystectomy"
+valid_1182_a_1.nii.gz,no findings
+valid_1183_a_1.nii.gz,"atherosclerotic changes in coronary arteries, advanced hepatic steatosis"
+valid_1184_a_1.nii.gz,"air cysts in the lung, calcified atheroma plaques, degenerative bone changes"
+valid_1184_b_1.nii.gz,"covid-19 pneumonia, other viral pneumonias, pulmonary air cyst, atherosclerosis of the thoracic aorta, degenerative bone disease"
+valid_1184_c_1.nii.gz,"air cyst in the right lung, sliding type hiatal hernia, atherosclerotic changes in the thoracic aorta, degenerative bone changes"
+valid_1185_a_1.nii.gz,no findings
+valid_1186_a_1.nii.gz,"well-circumscribed nodular lesion in the right breast, mosaic attenuation pattern in both lungs, small airway disease-asthma, focal ground-glass opacity in the right lung upper lobe, parenchymal nodules in both lungs"
+valid_1187_a_1.nii.gz,"covid-19 viral pneumonia, hepatosteatosis"
+valid_1188_a_1.nii.gz,no findings
+valid_1189_a_1.nii.gz,no findings
+valid_1190_a_1.nii.gz,"calcific atheroma plaques, hepatosteatosis"
+valid_1191_a_1.nii.gz,"pulmonary nodules, azygos lobe/fissure"
+valid_1192_a_1.nii.gz,compressive atelectasis
+valid_1192_b_1.nii.gz,"massive left pleural effusion, possible pleuroparenchymal fistula, right pleural effusion, lung consolidation, interlobular septal thickening, ground glass opacities, possible covid-19 or other viral pneumonia, mucus plug in the right main bronchus, mediastinal lymphadenopathy, left supraclavicular lymphadenopathy, right retrocrural lymphadenopathy, potential liver metastases"
+valid_1193_a_1.nii.gz,no findings
+valid_1194_a_1.nii.gz,atelectasis
+valid_1195_a_1.nii.gz,ground glass opacities in the lungs
+valid_1196_a_1.nii.gz,pulmonary nodules
+valid_1197_a_1.nii.gz,"covid-19 infection, hepatosteatosis"
+valid_1198_a_1.nii.gz,mild bronchiectasis
+valid_1199_a_1.nii.gz,"subpleural pulmonary nodule in the right lung, consolidation in the upper lobe of the right lung, possible pneumonic infiltration, nonspecific pulmonary nodule in the left lung, pleuroparenchymal density changes in the left lung consistent with sequelae"
+valid_1200_a_1.nii.gz,"centrilobular emphysema, bronchiectasis, peribronchial thickening, ground glass densities, thickening of the interlobular septa, mosaic attenuation pattern, covid-19 pneumonia, cortical cysts in the right kidney"
+valid_1201_a_1.nii.gz,"atherosclerosis, hepatosteatosis"
+valid_1202_a_1.nii.gz,"emphysema, atelectasis, pulmonary nodules, atherosclerosis, coronary artery disease, thoracic spondylosis"
+valid_1203_a_1.nii.gz,"emphysema, interstitial fibrosis, pulmonary nodules"
+valid_1204_a_1.nii.gz,no findings
+valid_1205_a_1.nii.gz,history of cholecystectomy
+valid_1206_a_1.nii.gz,no findings
+valid_1207_a_1.nii.gz,"ground-glass opacities in the lungs, suspected viral pneumonia, possible covid-19 infection"
+valid_1208_a_1.nii.gz,no findings
+valid_1209_a_1.nii.gz,"cardiac stasis, pleural effusion, pleural thickening, pleural calcification, cardiomegaly, atherosclerosis, osteopenia, degenerative disc disease, renal cortical cyst"
+valid_1209_b_1.nii.gz,"cardiomegaly, pleural calcifications suggestive of asbestosis, tracheobronchopathia osteochondroplastica"
+valid_1210_a_1.nii.gz,no findings
+valid_1211_a_1.nii.gz,"pulmonary artery dilatation, cardiomegaly, atherosclerosis of thoracic aorta, coronary artery calcification, small airway disease or small vessel disease, pulmonary sequela changes, pulmonary interlobular septal prominence, bilateral pleural effusion, pulmonary consolidations, adrenal gland hyperplasia"
+valid_1212_a_1.nii.gz,"subsegmental atelectasis in right lung middle lobe medial segment, subsegmental atelectasis in left lingular segment, nodules in bilateral lung, possible early covid-19 infection not detected on ct"
+valid_1213_a_1.nii.gz,subpleural lymph node
+valid_1214_a_1.nii.gz,"early covid-19 viral pneumonia, mediastinal lymphadenopathy"
+valid_1214_b_1.nii.gz,no findings
+valid_1215_a_1.nii.gz,"pulmonary nodules, adrenal calcifications"
+valid_1216_a_1.nii.gz,"mild sequela changes, bilateral nephrolithiasis"
+valid_1217_a_1.nii.gz,peribronchial thickening
+valid_1218_a_1.nii.gz,"pulmonary nodules, hiatal hernia"
+valid_1219_a_1.nii.gz,"consolidations with air bronchograms, viral infections, fungal infections, possible malignancies, inflammatory diseases"
+valid_1220_a_1.nii.gz,"covid-19 pneumonia, viral pneumonia, sliding type hiatal hernia, right nephrolithiasis"
+valid_1221_a_1.nii.gz,"bilateral peribronchial thickening, mild bronchiectasis, sequelae changes in both lungs, status post cholecystectomy"
+valid_1222_a_1.nii.gz,no findings
+valid_1223_a_1.nii.gz,"nonspecific parenchymal nodules, nephrolithiasis"
+valid_1224_a_1.nii.gz,no findings
+valid_1225_a_1.nii.gz,"covid-19 pneumonia, calcific atheroma plaques in the aorta, calcific atheroma plaques in the coronary arteries"
+valid_1226_a_1.nii.gz,"pleuroparenchymal sequelae, bilateral lung apex changes, right nephrolithiasis, spleen abnormality, degenerative change in thoracic t6 vertebra, osteopenia of thoracic vertebrae, paraaortic lymphadenopathy"
+valid_1227_a_1.nii.gz,"mosaic attenuation of the lung, small airway disease, small vessel disease, liver cyst"
+valid_1228_a_1.nii.gz,"atelectasis in the left lung, peribronchial thickening, liver lesion"
+valid_1229_a_1.nii.gz,"dependent atelectasis, early infectious process, mild atherosclerosis, small hiatal hernia"
+valid_1230_a_1.nii.gz,"mediastinal lymphadenopathy, right hilar lymphadenopathy, lymph node calcification, pulmonary calcified nodules, pulmonary sequelae, hiatal hernia, status post cholecystectomy"
+valid_1231_a_1.nii.gz,"pulmonary hypertension or pulmonary artery enlargement, atherosclerosis, cardiomegaly, pericardial effusion, pleural effusion, atelectasis, pulmonary nodules, cholelithiasis, renal sinus lipomatosis, hemorrhagic renal cyst, degenerative bone disease, scoliosis, vertebral collapse fractures"
+valid_1232_a_1.nii.gz,no findings
+valid_1233_a_1.nii.gz,"cardiomegaly, bilateral pleural effusion, interlobular septal thickening, possible pneumonia"
+valid_1234_a_1.nii.gz,covid pneumonia
+valid_1235_a_1.nii.gz,pulmonary nodule
+valid_1235_b_1.nii.gz,ground-glass nodule
+valid_1236_a_1.nii.gz,"pneumonic infiltration, covid pneumonia"
+valid_1237_a_1.nii.gz,"calcified pulmonary nodules, parenchymal-pleural sequelae, centriacinar nodules, possible distal airway disease, renal cortical cyst, degenerative bone changes"
+valid_1238_a_1.nii.gz,"left adrenal gland adenoma, solid nodule in right thyroid lobe"
+valid_1239_a_1.nii.gz,"covid-19 viral pneumonia, lymphadenopathy in the mediastinum and axillary regions"
+valid_1240_a_1.nii.gz,"small cell lung cancer, pericardial effusion, mediastinal lymphadenopathy, portal hilus metastatic lymph nodules"
+valid_1240_b_1.nii.gz,no findings
+valid_1241_a_1.nii.gz,"minimal pericardial effusion, mosaic attenuation pattern, pleural-based millimetric nodules, chilaiditi syndrome"
+valid_1242_a_1.nii.gz,"covid pneumonia, semisolid nodule in right lung"
+valid_1243_a_1.nii.gz,"operated hepatocellular carcinoma, atelectasis, pulmonary emphysema, pulmonary nodules, atherosclerosis of the aorta, atherosclerosis of the coronary arteries"
+valid_1243_b_1.nii.gz,no findings
+valid_1244_a_1.nii.gz,"bronchopneumonia, nonspecific parenchymal nodules"
+valid_1245_a_1.nii.gz,"covid-19 pneumonia, liver calcification"
+valid_1246_a_1.nii.gz,"aortic and coronary artery atherosclerosis, millimetric nodular thickening at the major fissure in the right lung, hiatal hernia, thoracic scoliosis"
+valid_1247_a_1.nii.gz,"nonspecific pulmonary nodules, hepatosteatosis, nephrolithiasis, renal cyst"
+valid_1247_b_1.nii.gz,viral pneumonia
+valid_1248_a_1.nii.gz,"covid pneumonia, solid pulmonary nodule, emphysema, lymphadenopathy"
+valid_1249_a_1.nii.gz,"bronchopneumonia, bacterial pneumonia, possible covid-19 infection"
+valid_1250_a_1.nii.gz,"bronchiectasis in the right upper lobe posterior segment, increased peribronchial thickness, consolidation consistent with pneumonic infiltration, sequelae of parenchymal changes in the left lower lobe superior segment, sequelae of parenchymal changes in the left lower lobe laterobasal segment, sequelae of parenchymal changes in the left lower lobe posterobasal segment, sequelae of parenchymal changes in the left upper lobe inferior lingular segment"
+valid_1250_b_1.nii.gz,no findings
+valid_1251_a_1.nii.gz,no findings
+valid_1252_a_1.nii.gz,"fusiform ectasia of the ascending aorta, paraseptal-centracinar emphysema, reticulonodular sequela, fibrotic density increases with structural distortion, subcentimetric nonspecific pulmonary nodules, left nephrolithiasis, minimal dilatation of the left renal pelvis"
+valid_1253_a_1.nii.gz,"malignant thyroid gland mass with possible esophageal invasion, tracheal indentation, esophageal wall thickening, radiation therapy (rt) related changes, lymphadenopathy, mediastinal enlargement, atherosclerosis of the aortic and coronary arteries, ascending aorta ectasia, pulmonary emphysema, chronic bronchitis, band atelectasis, probable lung metastasis"
+valid_1254_a_1.nii.gz,"covid-19 pneumonia, liver cyst"
+valid_1255_a_1.nii.gz,no findings
+valid_1256_a_1.nii.gz,"viral pneumonia, sliding hiatal hernia"
+valid_1257_a_1.nii.gz,viral pneumonia
+valid_1258_a_1.nii.gz,"aortic atherosclerosis, coronary artery atherosclerosis, emphysema, pulmonary nodules, aspergillosis, soft tissue mass, hepatic lesion"
+valid_1258_b_1.nii.gz,"aortic and coronary artery atherosclerosis, sequelae changes in both lungs, emphysema, decreased size of the nodular lesion in the left lung, irregularly circumscribed nodules in both lungs, minimal thickening of the left adrenal gland"
+valid_1259_a_1.nii.gz,"bronchiectasis, pulmonary nodules, emphysema"
+valid_1260_a_1.nii.gz,no findings
+valid_1261_a_1.nii.gz,nonspecific lung nodules
+valid_1262_a_1.nii.gz,"pneumonic infiltration, covid pneumonia"
+valid_1263_a_1.nii.gz,"fusiform dilatation of the ascending aorta, calcific atheromatous plaques, hiatal hernia, paraseptal-centriacinar emphysema, atelectasis, pleural thickening, cholelithiasis, bilateral nephrolithiasis, renal cyst"
+valid_1264_a_1.nii.gz,"mosaic attenuation pattern, pulmonary nodules"
+valid_1265_a_1.nii.gz,"nonspecific nodules, calcified nodules, structural distortion of the lung, volume loss, atelectasis, saccular bronchiectasis, suspected infective pathology"
+valid_1266_a_1.nii.gz,"pancreatic malignant neoplasm, bilateral pleural effusion, atelectasis, consolidation, pulmonary metastasis, hepatic metastasis, prehepatic nodular lesions"
+valid_1267_a_1.nii.gz,lymphadenopathy
+valid_1267_b_1.nii.gz,infection
+valid_1267_c_1.nii.gz,"regression of bilateral pleural effusion, mediastinal and bilateral hilar lymphadenopathy, splenomegaly, hypodense nodule in the left thyroid gland"
+valid_1268_a_1.nii.gz,no findings
+valid_1269_a_1.nii.gz,"pulmonary nodules, peribronchial thickening, pulmonary fibrosis"
+valid_1270_a_1.nii.gz,subpleural ground-glass opacity
+valid_1271_a_1.nii.gz,"dependent atelectasis, aortic dilatation, nephrolithiasis, renal calcifications"
+valid_1272_a_1.nii.gz,"sequelae of tuberculosis in the left lung upper lobe, parenchymal changes in the right lung upper lobe, mosaic attenuation pattern, reactive airway diseases"
+valid_1273_a_1.nii.gz,"respiratory bronchiolitis, advanced hepatosteatosis"
+valid_1274_a_1.nii.gz,no findings
+valid_1275_a_1.nii.gz,"pleural effusion, emphysema, atelectasis, pulmonary nodules, cardiomegaly, atherosclerosis, pulmonary hypertension, inferior vena cava enlargement, hepatomegaly, chronic liver disease"
+valid_1276_a_1.nii.gz,"covid-19 pneumonia, influenza pneumonia, organizing pneumonia, drug toxicity, connective tissue disease, right hilar lymphadenopathy"
+valid_1277_a_1.nii.gz,"fusiform aneurysm of the ascending aorta, atherosclerosis of the thoracic aorta, calcification of the right coronary artery (rca) root, calcified mediastinal lymph nodes, covid-19 pneumonia, vertebral compression fractures at t4, t5, t6, t7"
+valid_1278_a_1.nii.gz,pulmonary fibrosis
+valid_1279_a_1.nii.gz,"subpleural fibrosis, pulmonary fibrosis, post-inflammatory pulmonary fibrosis"
+valid_1280_a_1.nii.gz,thyroid parenchymal hypertrophy
+valid_1281_a_1.nii.gz,"infectious process, cardiac stasis, lymphadenopathy, cardiomegaly, atherosclerosis, pleural effusion, subcutaneous edema, thyroid nodule, osteopenia, hypertrophic osteophytosis"
+valid_1282_a_1.nii.gz,"nodular opacities, pneumonia"
+valid_1283_a_1.nii.gz,"hiatal hernia, mosaic attenuation pattern, small airway disease, small vessel disease"
+valid_1284_a_1.nii.gz,"cervical lymphadenopathy, axillary lymphadenopathy, passive atelectasis, bronchiolitis, left pleural effusion, peritoneal carcinomatosis"
+valid_1285_a_1.nii.gz,viral pneumonia
+valid_1286_a_1.nii.gz,"viral pneumonia, covid-19, influenza, parainfluenza, mycoplasma pneumonia, organizing pneumonia, drug-induced lung injury, connective tissue disease-associated lung disease"
+valid_1286_b_1.nii.gz,covid-19
+valid_1287_a_1.nii.gz,"right nephrolithiasis, sequelae changes in both lungs"
+valid_1288_a_1.nii.gz,no findings
+valid_1289_a_1.nii.gz,"emphysema, atherosclerosis, thoracic spondylosis"
+valid_1290_a_1.nii.gz,covid-19 pneumonia
+valid_1291_a_1.nii.gz,"covid-19 pneumonia, pleural thickening with calcifications, calcific plaques in the aortic coronary arteries, hepatosteatosis"
+valid_1292_a_1.nii.gz,covid-19 pneumonia
+valid_1293_a_1.nii.gz,"pulmonary nodules, left nephrolithiasis, dilatation of the left renal collecting system"
+valid_1294_a_1.nii.gz,"cardiomegaly, aortic calcification, coronary artery calcification, subsegmental atelectasis, pleural effusion, pleural thickening, calcification in the right lung, bronchial compression due to diaphragmatic elevation"
+valid_1295_a_1.nii.gz,"lung mass, atelectasis, mediastinal lymphadenopathy, pulmonary nodules, differential diagnosis includes metastasis or infection, bilateral diffuse emphysema, peribronchial diffuse reticular opacities suggesting possible lymphangitic dissemination, infective process, or pulmonary edema, calcific pulmonary nodules, aortic and coronary artery atherosclerosis, aortic ectasia, adrenal nodular lesions possibly adenomas, thoracic spondylosis"
+valid_1296_a_1.nii.gz,"ground-glass opacities, possible early-stage covid-19 pneumonia, calcific atherosclerotic changes in the pulmonary artery, hepatosteatosis, l3 vertebra right transverse process fracture"
+valid_1297_a_1.nii.gz,"ground glass opacities in lungs, covid pneumonia, chlamydia pneumonia, post-cholecystectomy state"
+valid_1298_a_1.nii.gz,"spiculated nodular lesion in the right lung, atelectasis in the left lung upper lobe inferior lingula, calcific nodules in both lungs"
+valid_1299_a_1.nii.gz,"ectasia of the ascending aorta, atherosclerosis of the aorta, pulmonary emphysema, interstitial lung disease, honeycomb lung, ground-glass opacities in the lungs, history of cholecystectomy, splenomegaly"
+valid_1300_a_1.nii.gz,no findings
+valid_1301_a_1.nii.gz,no findings
+valid_1302_a_1.nii.gz,covid-19 pneumonia
+valid_1303_a_1.nii.gz,"emphysema, bronchiectasis, peribronchial thickening, pulmonary fibrosis, chronic obstructive pulmonary disease (copd) sequela, increased lung density, mosaic perfusion pattern, thoracic aortic dilatation"
+valid_1304_a_1.nii.gz,space-occupying lesion in the right breast

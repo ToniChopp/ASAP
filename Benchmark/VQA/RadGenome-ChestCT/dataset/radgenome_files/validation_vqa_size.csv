@@ -1,0 +1,962 @@
+Volumename,Anatomy,Abnormality,Size
+valid_4_b_1.nii.gz,abdomen/abdomen/adrenal gland/right adrenal gland,lesion,28x17 mm
+valid_7_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nodule,6x4 mm
+valid_7_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nodule,5x2 mm
+valid_7_a_1.nii.gz,pleura/pleura,nodule,8x5 mm
+valid_7_a_1.nii.gz,abdomen/abdomen/gallbladder,calculus,3.5 mm
+valid_7_a_1.nii.gz,abdomen/abdomen/liver/liver vessel,density,2 mm
+valid_9_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific pulmonary nodules,3.5 mm
+valid_9_a_1.nii.gz,lung/lung,nonspecific pulmonary nodules,3.5 mm
+valid_10_a_1.nii.gz,lung/lung/right lung,nonspecific nodular density,5x3 mm
+valid_12_a_1.nii.gz,lung/lung/right lung,parenchymal nodules,8 mm
+valid_12_a_1.nii.gz,abdomen/abdomen/gallbladder,calculi,6 mm
+valid_19_a_1.nii.gz,heart/heart/heart ascending aorta,slight dilatation,40 mm
+valid_19_a_1.nii.gz,pleura/pleura,pleural effusion,2 cm
+valid_19_a_1.nii.gz,abdomen/abdomen/gallbladder,calculus,14 mm
+valid_21_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodules,6 mm
+valid_25_a_1.nii.gz,pleura/pleura,nodular lesions,32 mm
+valid_27_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,air cyst,4.3 cm
+valid_27_a_1.nii.gz,mediastinum/mediastinal tissue,mediastinal lymphadenomegaly,14 mm
+valid_27_a_1.nii.gz,heart/heart/heart tissue,pericardial effusion,2.7 cm
+valid_27_b_1.nii.gz,heart/heart/heart tissue,pericardial effusion,24 mm
+valid_27_b_1.nii.gz,pleura/pleura,pleural effusion,28 mm
+valid_28_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,29 mm
+valid_28_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,28 mm
+valid_28_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,33 mm
+valid_31_a_1.nii.gz,pleura/pleura,loculated pleural effusion,25 mm
+valid_33_a_1.nii.gz,others/thoracic cavity,effusion,15 mm
+valid_38_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,39 mm
+valid_38_a_1.nii.gz,breast/breast/left breast,calcified lesion,13x9 mm
+valid_38_a_1.nii.gz,abdomen/abdomen/aorta,above normal,30 mm
+valid_39_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodules,3 mm
+valid_41_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,bilateral calcules,13 mm
+valid_41_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,bilateral calcules,13 mm
+valid_42_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,parenchymal nodule,6 mm
+valid_43_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,42 mm
+valid_43_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,39 mm
+valid_44_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,34 mm
+valid_46_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,31 mm
+valid_46_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,45 mm
+valid_47_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,angiomyolipomas,7.5 mm
+valid_48_a_1.nii.gz,thyroid/thyroid/thyroid gland,hypodense nodule,3 mm
+valid_59_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,calcified parenchymal nodules,5.8 mm
+valid_59_a_1.nii.gz,lung/lung,calcified parenchymal nodules,5.8 mm
+valid_59_a_1.nii.gz,heart/heart/heart ascending aorta,fusiform dilatation,44 mm
+valid_59_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense lesion,1 cm
+valid_60_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,metastic nodules,10x12 mm
+valid_60_a_1.nii.gz,lung/lung,metastic nodules,10x12 mm
+valid_60_a_1.nii.gz,others/thoracic cavity,nodular metastatic lesions,16x20 mm
+valid_60_b_1.nii.gz,others/thoracic cavity,effusion,33 mm
+valid_60_c_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,metastatic nodules,10x12 mm
+valid_60_c_1.nii.gz,lung/lung,metastatic nodules,10x12 mm
+valid_62_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,exophytic cortical cyst,39 mm
+valid_63_a_1.nii.gz,lung/lung,nonspecific parenchymal nodules,4 mm
+valid_63_a_1.nii.gz,pleura/pleura,pleural effusion,1 cm
+valid_63_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,angiomyolipoma,10 mm
+valid_63_b_1.nii.gz,pleura/pleura,pleural effusion,6 mm
+valid_71_b_1.nii.gz,pleura/pleura,nodule,3 mm
+valid_72_a_1.nii.gz,abdomen/abdomen/aorta,increased,42 mm
+valid_80_a_1.nii.gz,lung/lung,nonspecific pulmonary nodules,3.5 mm
+valid_83_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodules,10 mm
+valid_86_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodule,7 mm
+valid_86_a_1.nii.gz,trachea and bronchie/bronchie,nodule,7 mm
+valid_86_a_1.nii.gz,thyroid/thyroid,nodules,14 mm
+valid_86_a_1.nii.gz,abdomen/abdomen/liver,hypodense cyst,14 mm
+valid_87_a_1.nii.gz,lung/lung,parenchymal nodules,5 mm
+valid_89_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,4 mm
+valid_94_a_1.nii.gz,heart/heart/heart tissue,pericardial effusion,2 cm
+valid_96_a_1.nii.gz,heart/heart,effusion,6 mm
+valid_96_b_1.nii.gz,pleura/pleura,subpleural 4 mm nonspecific parenchymal nodule,4 mm
+valid_97_a_1.nii.gz,pleura/pleura,nonspecific nodules,7 mm
+valid_99_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,22x16 mm
+valid_100_a_1.nii.gz,thyroid/thyroid/thyroid gland,32 mm diameter hypodense nodule,32 mm
+valid_100_a_1.nii.gz,abdomen/abdomen/liver,subcapsular parenchymal calcifications,1 cm
+valid_101_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific parenchymal nodules,6 mm
+valid_101_a_1.nii.gz,lung/lung,nonspecific parenchymal nodules,6 mm
+valid_102_a_1.nii.gz,lung/lung/right lung,central necrotic lymphadenopathies,3 cm
+valid_102_a_1.nii.gz,mediastinum/mediastinal tissue,central necrotic lymphadenopathies,3 cm
+valid_102_a_1.nii.gz,pleura/pleura,mass,3 cm
+valid_102_a_1.nii.gz,pleura/pleura,effusion areas,53 mm
+valid_102_a_1.nii.gz,abdomen/abdomen/abdominal tissue,lymphadenopathies,27x17 mm
+valid_102_a_1.nii.gz,abdomen/abdomen/celiac trunk,lymphadenopathies,27x17 mm
+valid_106_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nodule,15x17 mm
+valid_106_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,mass,52x70 mm
+valid_107_a_1.nii.gz,pleura/pleura,anky effusion,22 mm
+valid_107_b_1.nii.gz,abdomen/abdomen/liver,metastases,30 mm
+valid_109_a_1.nii.gz,pleura/pleura,pleural effusion,6.5 cm
+valid_111_a_1.nii.gz,thyroid/thyroid/thyroid gland,29 mm diameter hypodense nodule,29 mm
+valid_111_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,2 . 5 mm diameter calculus,2.5 mm
+valid_113_a_1.nii.gz,lung/lung,nodule,3 mm
+valid_113_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,3 mm diameter calculi,3 mm
+valid_114_a_1.nii.gz,pleura/pleura,pleural effusion,8 cm
+valid_117_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nodules,9x12 mm
+valid_118_a_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathies,18 mm
+valid_118_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesions,19 mm
+valid_118_b_1.nii.gz,lung/lung/right lung,lymphadenopathies,18 mm
+valid_118_b_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathies,18 mm
+valid_118_b_1.nii.gz,heart/heart/heart tissue,effusion,9 mm
+valid_118_b_1.nii.gz,abdomen/abdomen/liver,hypodense lesions,19 mm
+valid_118_c_1.nii.gz,abdomen/abdomen/liver,stable hypodense lesions,19 mm
+valid_118_d_1.nii.gz,abdomen/abdomen/liver,stable hypodense lesions,19 mm
+valid_119_a_1.nii.gz,heart/heart/heart ascending aorta,aneurysmatic dilatation,42 mm
+valid_120_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,parenchymal nodules,7.2 mm
+valid_120_a_1.nii.gz,lung/lung,parenchymal nodules,7.2 mm
+valid_121_a_1.nii.gz,abdomen/abdomen/spleen,accessory spleen,1 cm
+valid_123_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,multiple pulmonary nodules,11x11mm
+valid_123_a_1.nii.gz,lung/lung,multiple pulmonary nodules,11x11mm
+valid_127_a_1.nii.gz,lung/lung/right lung,parenchymal nodules,6.9x5.5 mm
+valid_127_a_1.nii.gz,lung/lung/lung lower lobe,parenchymal nodules,6.9x5.5 mm
+valid_127_a_1.nii.gz,esophagus/esophagus,wall thickness increase,5.9 cm
+valid_127_a_1.nii.gz,abdomen/abdomen/gallbladder,stone,1 cm
+valid_128_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,5 . 5 mm diameter nodule,5.5 mm
+valid_128_a_1.nii.gz,lung/lung,4 mm nodule,4 mm
+valid_128_a_1.nii.gz,heart/heart/heart ascending aorta,41 mm,41 mm
+valid_128_a_1.nii.gz,abdomen/abdomen/aorta,32 mm,32 mm
+valid_129_a_1.nii.gz,lung/lung/left lung,parenchymal nodules,5 mm
+valid_130_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodule,4 mm
+valid_131_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,hypodense fluid density lesion,18 mm
+valid_132_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nonspecific nodules,6 mm
+valid_132_a_1.nii.gz,lung/lung,nonspecific nodules,6 mm
+valid_134_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodules,4 mm
+valid_134_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,4 mm
+valid_134_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,exophytic cortical cyst,50 mm
+valid_139_a_1.nii.gz,heart/heart/heart tissue,effusion,29 mm
+valid_144_a_1.nii.gz,mediastinum/pulmonary artery,dilatation,34 mm
+valid_144_a_1.nii.gz,heart/heart/heart ascending aorta,fusiform dilatation,44 mm
+valid_144_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesions,21 mm
+valid_144_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,cortical cyst,65 mm
+valid_151_a_1.nii.gz,abdomen/abdomen/aorta,slightly larger than normal,30 mm
+valid_151_a_1.nii.gz,abdomen/abdomen/liver/right lobe of liver,nonspecific hypodense lesion,14x10 mm
+valid_151_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,cortical cysts,33x29 mm
+valid_151_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,cortical cysts,33x29 mm
+valid_151_c_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,12 mm
+valid_152_a_1.nii.gz,bone/bone/rib/rib 8/left rib 8,well-circumscribed nodular lesion,3x1.5 cm
+valid_152_a_1.nii.gz,bone/bone/vertebrae/thoracic vertebrae,well-circumscribed nodular lesion,3x1.5 cm
+valid_152_a_1.nii.gz,abdomen/abdomen/liver,nonspecific hypodense lesion,6 mm
+valid_152_a_1.nii.gz,abdomen/abdomen/liver/caudate lobe,nonspecific hypodense lesion,6 mm
+valid_155_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodule,15x13 mm
+valid_155_a_1.nii.gz,lung/lung/right lung,nonspecific millimetric nodules,5.5 mm
+valid_157_a_1.nii.gz,pleura/pleura,bulla,36 mm
+valid_161_a_1.nii.gz,lung/lung/left lung,nodules,5 mm
+valid_161_a_1.nii.gz,pleura/pleura,calcified nodule,7 mm
+valid_163_b_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,stable parenchymal nodule,4.6 mm
+valid_163_b_1.nii.gz,lung/lung/left lung,newly developed nodular lesions with irregular borders,7.5 mm
+valid_163_c_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,oval nodular appearance,13x4 mm
+valid_163_c_1.nii.gz,abdomen/abdomen/kidney/left kidney,2 mm diameter calculus,2 mm
+valid_163_d_1.nii.gz,lung/lung/right lung,solid nodules,6 mm
+valid_163_d_1.nii.gz,lung/lung/lung upper lobe,solid nodules,6 mm
+valid_168_a_1.nii.gz,lung/lung,nonspecific nodules,5 mm
+valid_170_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,3 mm diameter nonspecific nodule,3 mm
+valid_170_a_1.nii.gz,lung/lung/lung lower lobe,nonspecific nodule,2 mm
+valid_170_a_1.nii.gz,pleura/pleura,subpleural 2 mm diameter nonspecific nodule,2 mm
+valid_170_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,solid lesion,5 mm
+valid_170_b_1.nii.gz,pleura/pleura,subpleural nodule,5 mm
+valid_171_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,18 mm
+valid_173_a_1.nii.gz,lung/lung/right lung,nonspecific parenchymal nodules,5 mm
+valid_173_a_1.nii.gz,pleura/pleura,loculated pleural effusion,8 mm
+valid_173_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,calculus,9 mm
+valid_181_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodular lesions,4 mm
+valid_182_a_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathies,12 mm
+valid_182_a_1.nii.gz,pleura/pleura,free effusion,15 cm
+valid_182_a_1.nii.gz,pleura/pleura,20x15 mm nodule with a slightly irregular border,20x15 mm
+valid_183_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,3 mm diameter nonspecific nodule,3 mm
+valid_186_a_1.nii.gz,abdomen/abdomen/aorta,above normal,31 mm
+valid_188_a_1.nii.gz,pleura/pleura,subpleural 2 mm diameter nodule,2 mm
+valid_188_b_1.nii.gz,abdomen/abdomen/aorta,wider than normal,30 mm
+valid_189_a_1.nii.gz,pleura/pleura,nonspecific subpleural nodule,3.1 mm
+valid_191_a_1.nii.gz,abdomen/abdomen/liver,millimetric hypodense finding,3 in
+valid_191_b_1.nii.gz,lung/lung/right lung,nonspecific nodule,2 mm
+valid_191_b_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nodule,2 mm
+valid_191_b_1.nii.gz,pleura/pleura,subpleural 2 mm diameter nodule,2 mm
+valid_192_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,46 mm
+valid_193_a_1.nii.gz,pleura/pleura,subpleural nodules,5 mm
+valid_194_a_1.nii.gz,lung/lung,apical bulla formations,57 mm
+valid_194_a_1.nii.gz,heart/heart/heart ascending aorta,slight dilatation,39 mm
+valid_194_b_1.nii.gz,lung/lung,apical bulla formations,57 mm
+valid_194_b_1.nii.gz,heart/heart/heart ascending aorta,slight dilatation,39 mm
+valid_194_b_1.nii.gz,others/thoracic cavity,nodular soft tissue density,11 mm
+valid_194_b_1.nii.gz,bone/bone/rib/rib 6/right rib 6,nodular soft tissue density,11 mm
+valid_201_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense lesion,10 mm
+valid_202_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,metastatic lesions,20 mm
+valid_202_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,metastatic lesions,20 mm
+valid_202_b_1.nii.gz,pleura/pleura,stable pleural effusion,4 cm
+valid_203_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,millimetric nonspecific nodules,3mm
+valid_203_a_1.nii.gz,lung/lung,millimetric nonspecific nodules,3mm
+valid_207_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,hypodense nodular lesion,2.5 cm
+valid_207_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,calculus,6.5 mm
+valid_210_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,10 mm
+valid_210_b_1.nii.gz,abdomen/abdomen/liver,hypodense nodular lesion,14 mm
+valid_212_a_1.nii.gz,abdomen/abdomen/liver,nonspecific hypodense lesion,6 mm
+valid_213_a_1.nii.gz,lung/lung,nodules,4 mm
+valid_213_a_1.nii.gz,heart/heart/heart ascending aorta,ectatic,37 mm
+valid_213_a_1.nii.gz,abdomen/abdomen/liver,cysts,49x33 mm
+valid_215_c_1.nii.gz,lung/lung/right lung,cavitation,16x10 mm
+valid_218_a_1.nii.gz,pleura/pleura,subpleural nodules,5 mm
+valid_219_a_1.nii.gz,thyroid/thyroid/thyroid gland,nodule,15 mm
+valid_220_a_1.nii.gz,pleura/pleura,solid nodule,6 mm
+valid_227_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,32 mm
+valid_228_a_1.nii.gz,lung/lung,parenchymal nodules,4 mm
+valid_232_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nonspecific nodules,3.5 mm
+valid_232_a_1.nii.gz,lung/lung,nonspecific nodules,3.5 mm
+valid_233_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,parenchymal nodules,4 mm
+valid_233_a_1.nii.gz,lung/lung,parenchymal nodules,4 mm
+valid_233_a_1.nii.gz,pleura/pleura,pleural-based solid lesion,25x23 mm
+valid_235_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,33 mm
+valid_243_a_1.nii.gz,heart/heart/heart tissue,pericardial effusion,12 mm
+valid_243_a_1.nii.gz,pleura/pleura,pleural effusion,40 mm
+valid_244_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodule,6 mm
+valid_247_a_1.nii.gz,pleura/pleura,ground-glass nodules,5 mm
+valid_247_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,hypodense well-circumscribed nodular lesion,47x43 mm
+valid_249_a_1.nii.gz,pleura/pleura,pleural effusion,1 cm
+valid_249_a_1.nii.gz,abdomen/abdomen/aorta,dilatation,41 mm
+valid_250_c_1.nii.gz,lung/lung/lung upper lobe,approximately 2 cm in size,2 cm
+valid_254_a_1.nii.gz,abdomen/abdomen/spleen,accessory spleen,19 mm
+valid_256_a_1.nii.gz,abdomen/abdomen/aorta,larger than normal,33 mm
+valid_258_c_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nonspecific nodule,3 mm
+valid_263_a_1.nii.gz,lung/lung/lung upper lobe,calcific nodule,6 mm
+valid_269_a_1.nii.gz,lung/lung/right lung/right lung middle lobe,nonspecific nodules,3 mm
+valid_271_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,partial hypodense area,33 mm
+valid_274_a_1.nii.gz,pleura/pleura,pleural effusion,5.5 cm
+valid_274_a_1.nii.gz,pleura/pleura,pleural effusion,8 cm
+valid_275_a_1.nii.gz,thyroid/thyroid/thyroid gland,hypodense nodule,30x40 mm
+valid_275_a_1.nii.gz,mediastinum/mediastinal tissue,hypodense nodule,30x40 mm
+valid_275_a_1.nii.gz,thyroid/thyroid,hypodense nodule,30x40 mm
+valid_276_a_1.nii.gz,others/thoracic cavity,mass lesions,55 mm
+valid_277_e_1.nii.gz,abdomen/abdomen/liver,millimetric hypodense lesion,2 in
+valid_277_f_1.nii.gz,pleura/pleura,pleural effusion,1 cm
+valid_277_g_1.nii.gz,pleura/pleura,pleural effusion,1 cm
+valid_277_g_1.nii.gz,thyroid/thyroid/thyroid gland,nodules,12 mm
+valid_277_g_1.nii.gz,thyroid/thyroid/thyroid gland,nodules,12 mm
+valid_279_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,6x4 mm hyperdense stone,6x4 mm
+valid_282_a_1.nii.gz,lung/lung,nonspecific parenchymal nodules,6.2 mm
+valid_287_a_1.nii.gz,abdomen/abdomen/aorta,larger than normal,29 mm
+valid_291_a_1.nii.gz,pleura/pleura,subpleural nodule,4 mm
+valid_291_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,31 mm
+valid_291_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,nodular appearance,7 mm
+valid_292_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodules,3-4 mm
+valid_292_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,calcific nodule,7 mm
+valid_295_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,1 cm diameter nodule with irregular border,1 cm
+valid_295_a_1.nii.gz,mediastinum/pulmonary artery,increased by 35 mm,35 mm
+valid_300_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodule,2 mm
+valid_301_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,parenchymal nodules,8 mm
+valid_301_a_1.nii.gz,heart/heart/heart tissue,pericardial effusion,1 cm
+valid_301_a_1.nii.gz,pleura/pleura,pleural effusion,2 cm
+valid_305_a_1.nii.gz,lung/lung,millimetric nonspecific nodules,5 mm
+valid_305_a_1.nii.gz,thyroid/thyroid/thyroid gland,20 mm diameter cystic nodule,20 mm
+valid_309_a_1.nii.gz,pleura/pleura,5 mm diameter subpleural nodule,5 mm
+valid_310_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodules,6.5 mm
+valid_311_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodule,3 mm
+valid_311_a_1.nii.gz,mediastinum/mediastinal tissue,hypodense lesion,35x25 mm
+valid_319_a_1.nii.gz,pleura/pleura,nodules,5 mm
+valid_320_a_1.nii.gz,lung/lung,pulmonary nodules,5 mm
+valid_321_a_1.nii.gz,lung/lung,nodules,6 mm
+valid_321_a_1.nii.gz,abdomen/abdomen/liver,suspicious cyst,9 mm
+valid_321_a_1.nii.gz,abdomen/abdomen/liver,suspicious cyst,9 mm
+valid_328_a_1.nii.gz,lung/lung/right lung,calcified non-specific parenchymal nodule,3 mm
+valid_328_a_1.nii.gz,abdomen/abdomen/liver,parenchymal calcification,5 mm
+valid_331_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,calcified nonspecific parenchymal nodule,4 mm
+valid_331_a_1.nii.gz,abdomen/abdomen/aorta,slight dilatation,36 mm
+valid_331_b_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,calcified nonspecific parenchymal nodule,4 mm
+valid_331_b_1.nii.gz,abdomen/abdomen/aorta,slight dilatation,37 mm
+valid_331_c_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,parenchymal nodules,6 mm
+valid_331_c_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,calcified nonspecific parenchymal nodule,4 mm
+valid_331_c_1.nii.gz,abdomen/abdomen/aorta,slight dilatation,37 mm
+valid_331_d_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodules,5.5 mm
+valid_331_d_1.nii.gz,lung/lung,calcified nonspecific parenchymal nodules,4 mm
+valid_331_d_1.nii.gz,abdomen/abdomen/liver,hypodense finding,8 mm
+valid_335_a_1.nii.gz,lung/lung/lung upper lobe,nonspecific parenchymal nodules,4 mm
+valid_335_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,43 mm
+valid_335_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense nodular lesion,2.5 cm
+valid_338_a_1.nii.gz,lung/lung/right lung,nonspecific nodules,2.5 mm
+valid_338_a_1.nii.gz,lung/lung,nonspecific nodules,2.5 mm
+valid_342_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,air cyst,34 mm
+valid_344_a_1.nii.gz,lung/lung/right lung/right lung middle lobe,non-specific nodules,143 mm
+valid_344_a_1.nii.gz,lung/lung,non-specific nodules,143 mm
+valid_345_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodules,9 mm
+valid_345_a_1.nii.gz,pleura/pleura,pleural effusion,53 mm
+valid_345_a_1.nii.gz,others/thoracic cavity,lymphadenopathy,26mm
+valid_347_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific peripheral parenchymal nodules,3 mm
+valid_347_a_1.nii.gz,lung/lung,nonspecific peripheral parenchymal nodules,3 mm
+valid_348_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nonspecific parenchymal nodule,4 mm
+valid_350_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific nodules,3 mm
+valid_350_a_1.nii.gz,lung/lung,nonspecific nodules,3 mm
+valid_351_b_1.nii.gz,abdomen/abdomen/kidney/right kidney,cyst,14 mm
+valid_352_a_1.nii.gz,abdomen/abdomen/adrenal gland/right adrenal gland,hypodense lesion,30x15 mm
+valid_355_a_1.nii.gz,heart/heart/heart ascending aorta,dilated appearance,44 mm
+valid_355_b_1.nii.gz,pleura/pleura,minimal effusion,10 mm
+valid_357_a_1.nii.gz,lung/lung/right lung,calcific nonspecific pulmonary nodules,2 mm
+valid_359_a_1.nii.gz,pleura/pleura,nodule,5x3.5 mm
+valid_360_a_1.nii.gz,abdomen/abdomen/liver,metastatic lesions,17 mm
+valid_362_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodule,3 mm
+valid_362_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodule,5 mm
+valid_362_b_1.nii.gz,others/thoracic cavity,effusion,16 mm
+valid_362_b_1.nii.gz,others/thoracic cavity,loculated effusion,21 mm
+valid_364_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,30 mm
+valid_364_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,33 mm
+valid_365_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,30 mm
+valid_365_a_1.nii.gz,abdomen/abdomen/aorta,above normal,30 mm
+valid_368_a_1.nii.gz,lung/lung/lung upper lobe,nodules,3 mm
+valid_368_a_1.nii.gz,lung/lung,nodule,3x2 mm
+valid_368_a_1.nii.gz,lung/lung,nodule,2 mm
+valid_368_a_1.nii.gz,lung/lung,4 mm diameter nodule,4 mm
+valid_368_a_1.nii.gz,lung/lung/lung upper lobe,nodule,3 mm
+valid_368_a_1.nii.gz,lung/lung,nodule,8x2 mm
+valid_368_a_1.nii.gz,lung/lung/lung lower lobe,nodule,8 mm
+valid_371_a_1.nii.gz,pleura/pleura,2 mm diameter subpleural nodule,2 mm
+valid_371_a_1.nii.gz,pleura/pleura,nodule,2 mm
+valid_371_a_1.nii.gz,pleura/pleura,nodule,2 mm
+valid_373_a_1.nii.gz,abdomen/abdomen/aorta,ectatic,40 mm
+valid_373_a_1.nii.gz,heart/heart/heart ascending aorta,ectatic,40 mm
+valid_377_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,paramediastinal bulla formation,3.3 cm
+valid_377_a_1.nii.gz,pleura/pleura,subpleural nodule,7.5x5 mm
+valid_381_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,30 mm
+valid_381_a_1.nii.gz,pleura/pleura,pleural effusion,33 mm
+valid_382_b_1.nii.gz,pleura/pleura,pleural effusion,14 mm
+valid_384_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific parenchymal nodules,5 mm
+valid_384_a_1.nii.gz,lung/lung,nonspecific parenchymal nodules,5 mm
+valid_387_a_1.nii.gz,lung/lung/left lung,ground-glass nodule,5 mm
+valid_387_a_1.nii.gz,pleura/pleura,nodule,3 mm
+valid_387_a_1.nii.gz,pleura/pleura,nodule,5 mm
+valid_387_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,29 mm
+valid_390_a_1.nii.gz,lung/lung,nonspecific nodules,3 mm
+valid_390_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hyperdense stone,4 mm
+valid_391_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,calcific nodule,7.2 mm
+valid_391_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,parenchymal nodule,6.4 mm
+valid_391_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,38.5 mm
+valid_392_a_1.nii.gz,pleura/pleura,subpleural nodule,4 mm
+valid_399_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,2 . 5 mm nodule,2.5 mm
+valid_399_a_1.nii.gz,lung/lung,2 . 5 mm nodule,2.5 mm
+valid_401_a_1.nii.gz,heart/heart/heart tissue,pericardial effusion,7 mm
+valid_402_a_1.nii.gz,abdomen/abdomen/aorta,above normal,4 cm
+valid_408_a_1.nii.gz,lung/lung/lung upper lobe,round parenchymal nodules,12 mm
+valid_409_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nonspecific nodule,3 mm
+valid_412_a_1.nii.gz,trachea and bronchie/trachea,small nodules,11 mm
+valid_413_a_1.nii.gz,abdomen/abdomen/aorta,ectatic,40 mm
+valid_415_a_1.nii.gz,lung/lung,millimetric nodules,5 mm
+valid_416_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,stone,8 mm
+valid_416_b_1.nii.gz,bone/bone/rib/rib 7/left rib 7,nonspecific peripheral sclerotic lesions,7x6 mm
+valid_416_b_1.nii.gz,abdomen/abdomen/aorta,wider than normal,41 mm
+valid_416_b_1.nii.gz,abdomen/abdomen/spleen,nodular density,17 mm
+valid_417_a_1.nii.gz,abdomen/abdomen/aorta,ap diameter,34 mm
+valid_417_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,cortical cyst,21 mm
+valid_427_a_1.nii.gz,abdomen/abdomen/aorta,above normal,37 mm
+valid_430_a_1.nii.gz,abdomen/abdomen/gallbladder,focal calculi image,3 mm
+valid_437_a_1.nii.gz,abdomen/abdomen/aorta,33 mm,33 mm
+valid_437_b_1.nii.gz,heart/heart/heart ascending aorta,ectatic,41 mm
+valid_438_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,dense nodular lesion,8.5 mm
+valid_442_a_1.nii.gz,lung/lung,nonspecific nodules,4 mm
+valid_447_a_1.nii.gz,lung/lung,nonspecific nodules,5 mm
+valid_451_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodule,5 mm
+valid_453_a_1.nii.gz,abdomen/abdomen/gallbladder,calculus,22x15mm
+valid_453_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense nodular lesion,2x1.8cm
+valid_454_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,pneumocyst,7 mm
+valid_454_b_1.nii.gz,lung/lung,stable pulmonary nodule,4mm
+valid_454_b_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,air cyst,7 mm
+valid_454_b_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense lesion,17mm
+valid_454_c_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense lesion,17 mm
+valid_455_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,stone,6 mm
+valid_457_a_1.nii.gz,thyroid/thyroid/thyroid gland,hypodense nodule,7.5 mm
+valid_457_a_1.nii.gz,abdomen/abdomen/liver,low-density collection,20x30 mm
+valid_457_a_1.nii.gz,others/thoracic cavity,effusion,5 cm
+valid_457_b_1.nii.gz,pleura/pleura,pleural effusion,60 mm
+valid_457_c_1.nii.gz,heart/heart/heart tissue,new pericardial effusion,22 mm
+valid_459_a_1.nii.gz,pleura/pleura,effusion,20 mm
+valid_464_a_1.nii.gz,lung/lung/left lung,superposed 6x3 mm intrapulmonary nodule,6x3 mm
+valid_467_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,fissure-based nodule,3 mm
+valid_468_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,3 mm
+valid_468_a_1.nii.gz,pleura/pleura,subpleural nodule,8x6 mm
+valid_477_a_1.nii.gz,pleura/pleura,calcific nodule,4 mm
+valid_477_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,nodular appearance,10 mm
+valid_482_a_1.nii.gz,heart/heart/heart ascending aorta,minimally wider than normal,40 mm
+valid_482_c_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,semisolid nodule,10 mm
+valid_482_d_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,parenchymal nodule,8 mm
+valid_482_d_1.nii.gz,mediastinum/mediastinal tissue,fusiform dilatation,42 mm
+valid_482_d_1.nii.gz,heart/heart/heart ascending aorta,fusiform dilatation,42 mm
+valid_482_d_1.nii.gz,pleura/pleura,free pleural effusion,12 mm
+valid_482_d_1.nii.gz,abdomen/abdomen/spleen,faintly circumscribed hyperdense nodular lesion,15 mm
+valid_482_e_1.nii.gz,heart/heart/heart ascending aorta,ectatic,39 mm
+valid_482_g_1.nii.gz,pleura/pleura,nodules,9 mm
+valid_482_h_1.nii.gz,pleura/pleura,free pleural effusion,3 cm
+valid_483_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,parenchymal nodules,3.9 mm
+valid_483_a_1.nii.gz,lung/lung,parenchymal nodules,3.9 mm
+valid_483_a_1.nii.gz,abdomen/abdomen/liver,nonspecific hypodense lesions,1.5 cm
+valid_486_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,cyst,11 cm
+valid_487_a_1.nii.gz,heart/heart/heart ascending aorta,tetralogy of fallot,40 mm
+valid_487_b_1.nii.gz,heart/heart/heart ascending aorta,tetralogy of fallot,40 mm
+valid_489_a_1.nii.gz,lung/lung/right lung,ground glass opacity,5 mm
+valid_489_a_1.nii.gz,lung/lung/lung upper lobe,ground glass opacity,5 mm
+valid_489_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,calculi image,11 mm
+valid_492_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,8.5x7 mm
+valid_492_a_1.nii.gz,lung/lung,nodules,8.5x7 mm
+valid_492_b_1.nii.gz,abdomen/abdomen/aorta,wider than normal,42 mm
+valid_493_a_1.nii.gz,lung/lung,nodular lesions,30x25 mm
+valid_493_a_1.nii.gz,pleura/pleura,pleural effusion,18 mm
+valid_493_a_1.nii.gz,abdomen/abdomen/aorta,above normal,30 mm
+valid_493_b_1.nii.gz,heart/heart,pericardial effusion,28 mm
+valid_493_b_1.nii.gz,pleura/pleura,pleural effusion,35 mm
+valid_497_a_1.nii.gz,abdomen/abdomen/gallbladder,nonspecific hypodense lesion,16x11 mm
+valid_497_a_1.nii.gz,abdomen/abdomen/liver,nonspecific hypodense lesion,16x11 mm
+valid_500_a_1.nii.gz,mediastinum/mediastinal tissue,lap,13 mm
+valid_500_a_1.nii.gz,heart/heart/heart ascending aorta,above normal,39 mm
+valid_500_b_1.nii.gz,abdomen/abdomen/liver,calculus,3 mm
+valid_500_c_1.nii.gz,heart/heart/heart ascending aorta,above normal,40 mm
+valid_502_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific parenchymal nodules,5.5 mm
+valid_502_a_1.nii.gz,breast/breast/right breast,well-circumscribed hypodense lesion,8 mm
+valid_502_a_1.nii.gz,abdomen/abdomen/adrenal gland/right adrenal gland,hypodense lesion,19x14 mm
+valid_505_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,solid mass,17 mm
+valid_506_a_1.nii.gz,pleura/pleura,subpleural nodules,4 mm
+valid_506_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,14x9 mm
+valid_506_a_1.nii.gz,abdomen/abdomen/adrenal gland/right adrenal gland,adenoma,9 mm
+valid_506_a_1.nii.gz,others/thoracic cavity,effusion,2 cm
+valid_508_a_1.nii.gz,pleura/pleura,subpleural 2 mm nonspecific parenchymal nodule,2 mm
+valid_509_b_1.nii.gz,abdomen/abdomen/aorta,ectatic,36 mm
+valid_511_a_1.nii.gz,abdomen/abdomen/spleen,nodular formations,22 mm
+valid_515_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,40 mm
+valid_515_a_1.nii.gz,pleura/pleura,subpleural nodules,6 mm
+valid_517_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,low-density nodular lesion,17x13 mm
+valid_519_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,33 mm
+valid_532_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,high-density nodular lesion,5.3 mm
+valid_535_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,6x8 mm
+valid_535_b_1.nii.gz,pleura/pleura,subpleural nodules,6 mm
+valid_535_c_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,calcific nodule,5x3 mm
+valid_535_c_1.nii.gz,lung/lung,nodule,3 mm
+valid_535_c_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nodule,3 mm
+valid_535_c_1.nii.gz,pleura/pleura,nodule,7x5 mm
+valid_535_c_1.nii.gz,abdomen/abdomen/aorta,larger than normal,29 mm
+valid_538_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,mass lesion,10x8.6 cm
+valid_538_a_1.nii.gz,mediastinum/mediastinal tissue,mass lesion,10x8.6 cm
+valid_538_a_1.nii.gz,heart/heart/heart ascending aorta,mass lesion,10x8.6 cm
+valid_538_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,40 mm
+valid_538_a_1.nii.gz,heart/heart/heart tissue,pericardial effusion,1 cm
+valid_538_b_1.nii.gz,bone/bone/scapula/left scapula,mass lesion,9 cm
+valid_541_a_1.nii.gz,pleura/pleura,minimal effusion,8 mm
+valid_542_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,3.1 cm
+valid_547_a_1.nii.gz,heart/heart/heart ascending aorta,increased,46 mm
+valid_554_a_1.nii.gz,pleura/pleura,pleural effusion,2 cm
+valid_555_a_1.nii.gz,pleura/pleura,5 mm subpleural calcified nodule,5 mm
+valid_559_a_1.nii.gz,abdomen/abdomen/aorta,above normal,37 mm
+valid_559_a_1.nii.gz,abdomen/abdomen/liver,hypodense mass lesions,5 cm
+valid_560_a_1.nii.gz,lung/lung,nodules,6x7.5 mm
+valid_561_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nonspecific nodule,3 mm
+valid_563_a_1.nii.gz,lung/lung/lung lower lobe,nodule,3 mm
+valid_565_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,4 mm
+valid_565_b_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,4 mm
+valid_566_b_1.nii.gz,pleura/pleura,pleural effusion,6.5 cm
+valid_566_b_1.nii.gz,pleura/pleura,pleural effusion,16 mm
+valid_567_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,non-specific nodules,5 mm
+valid_567_a_1.nii.gz,lung/lung,non-specific nodules,5 mm
+valid_568_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific nodules,2 mm
+valid_569_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nonspecific parenchymal nodule,5 mm
+valid_571_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,40 mm
+valid_571_a_1.nii.gz,abdomen/abdomen/adrenal gland/right adrenal gland,high-density nodular mass lesion,9 mm
+valid_571_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense nodular lesion,24 mm
+valid_572_a_1.nii.gz,pleura/pleura,subpleural 5 mm diameter nodule,5 mm
+valid_576_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,5 mm diameter nodule,5 mm
+valid_577_a_1.nii.gz,heart/heart/heart ascending aorta,ectaic appearance,4.2 cm
+valid_577_a_1.nii.gz,abdomen/abdomen/adrenal gland/right adrenal gland,low-density hypodensity,3x2.5 cm
+valid_577_a_1.nii.gz,abdomen/abdomen/liver,hypodense areas,4x4 cm
+valid_577_a_1.nii.gz,abdomen/abdomen/abdominal tissue,lipoma,3 cm
+valid_578_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,2 mm diameter nonspecific nodular density,2 mm
+valid_578_a_1.nii.gz,lung/lung/right lung,nonspecific nodule,3 mm
+valid_578_a_1.nii.gz,lung/lung/left lung,nodule,5x3 mm
+valid_579_a_1.nii.gz,lung/lung,nodule,2 mm
+valid_579_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,5 mm diameter nodule,5 mm
+valid_580_a_1.nii.gz,abdomen/abdomen/abdominal tissue,lesion of hypodense fluid density,45 mm
+valid_581_a_1.nii.gz,heart/heart/heart ascending aorta,aneurysmatic dilatation,55 mm
+valid_582_a_1.nii.gz,mediastinum/pulmonary artery,above normal,28 mm
+valid_582_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,32 mm
+valid_583_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,stone,3 mm
+valid_585_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,25 mm
+valid_586_a_1.nii.gz,pleura/pleura,pleural effusion,1 cm
+valid_586_a_1.nii.gz,abdomen/abdomen/aorta,increased,45 mm
+valid_592_a_1.nii.gz,heart/heart,wider than normal,39 mm
+valid_592_a_1.nii.gz,heart/heart,effusion,9 mm
+valid_593_a_1.nii.gz,lung/lung,nonspecific nodules,3 mm
+valid_593_a_1.nii.gz,mediastinum/mediastinal tissue,laps,13x12mm
+valid_593_a_1.nii.gz,pleura/pleura,pleural effusion,18 mm
+valid_593_a_1.nii.gz,pleura/pleura,pleural effusion,8 mm
+valid_594_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,30 mm
+valid_594_a_1.nii.gz,abdomen/abdomen/adrenal gland/right adrenal gland,fusiform-looking lesion,25x10 mm
+valid_595_a_1.nii.gz,abdomen/abdomen/spleen,larger than normal,140 mm
+valid_596_a_1.nii.gz,lung/lung,non-specific nodular lesions,3 mm
+valid_600_a_1.nii.gz,abdomen/abdomen/gallbladder,pathology stones,3 mm
+valid_600_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,pathology stones,3 mm
+valid_605_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,calcified nonspecific parenchymal nodule,3.5 mm
+valid_608_a_1.nii.gz,lung/lung,nonspecific millimetric nodules,5 mm
+valid_614_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,lesions of cystic density,18 mm
+valid_615_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodules,4.5 mm
+valid_615_a_1.nii.gz,lung/lung/lung lower lobe,nodules,4.5 mm
+valid_622_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,calcified nonspecific parenchymal nodule,3 mm
+valid_623_a_1.nii.gz,pleura/pleura,pleural effusion,13 mm
+valid_624_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,nodular lesion,12 mm
+valid_624_b_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodular lesions,9.5x8 mm
+valid_624_b_1.nii.gz,lung/lung,nodular lesions,9.5x8 mm
+valid_625_a_1.nii.gz,lung/lung,millimetric nodules,5 mm
+valid_627_a_1.nii.gz,lung/lung,nodule,3 mm
+valid_627_a_1.nii.gz,lung/lung,nodule,2 mm
+valid_628_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,calcific nodules,4 mm
+valid_628_a_1.nii.gz,lung/lung,calcific nodules,4 mm
+valid_630_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,30 mm
+valid_631_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,37 mm
+valid_631_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,25x12 mm
+valid_635_a_1.nii.gz,heart/heart,effusion,9 mm
+valid_636_b_1.nii.gz,mediastinum/pulmonary artery,fusiform,37 mm
+valid_637_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific nodules,3.5 mm
+valid_637_a_1.nii.gz,lung/lung,nonspecific nodules,3.5 mm
+valid_639_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,small nodules,3 mm
+valid_640_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,3.5x6 mm
+valid_640_a_1.nii.gz,lung/lung,nodules,3.5x6 mm
+valid_643_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodule,5x3 mm
+valid_643_b_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,parenchymal nodules,5.7 mm
+valid_643_b_1.nii.gz,lung/lung/right lung,parenchymal nodules,5.7 mm
+valid_644_a_1.nii.gz,lung/lung,nodules,4.5 mm
+valid_645_a_1.nii.gz,lung/lung,air cysts,1 cm
+valid_645_b_1.nii.gz,lung/lung,air cysts,1 cm
+valid_645_c_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,stable nodule,2 mm
+valid_645_c_1.nii.gz,trachea and bronchie/bronchie,nodular formation,10x5.5 mm
+valid_645_c_1.nii.gz,trachea and bronchie/trachea,nodular formation,10x5.5 mm
+valid_645_c_1.nii.gz,abdomen/abdomen/spleen,nodular formation,9x5 mm
+valid_646_a_1.nii.gz,abdomen/abdomen/liver,calcifications,3 mm
+valid_647_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,calculi,2 mm
+valid_649_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific nodules,4.6 mm
+valid_649_a_1.nii.gz,lung/lung,nonspecific nodules,4.6 mm
+valid_650_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,cortical cyst,10 mm
+valid_651_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,calcified parenchymal nodule,5 mm
+valid_652_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,calcified parenchymal nodule,4.5 mm
+valid_653_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,32 mm
+valid_655_a_1.nii.gz,abdomen/abdomen/spleen,nodular density,12 mm
+valid_658_a_1.nii.gz,pleura/pleura,millimetric nodules,6x3 mm
+valid_659_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,42 mm
+valid_660_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,mass,37 mm
+valid_662_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,mass lesion,64 mm
+valid_665_a_1.nii.gz,lung/lung,superposed 2 mm diameter nodule,2 mm
+valid_673_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific nodule,5.5 mm
+valid_675_b_1.nii.gz,heart/heart/heart tissue,effusion,14 mm
+valid_675_c_1.nii.gz,heart/heart/heart tissue/myocardium,effusion,14 mm
+valid_678_a_1.nii.gz,heart/heart/heart ascending aorta,slight dilatation,39 mm
+valid_681_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific parenchymal nodules,5.5 mm
+valid_681_a_1.nii.gz,lung/lung,nonspecific parenchymal nodules,5.5 mm
+valid_685_a_1.nii.gz,pleura/pleura,pleural-based nodule,15x11mm
+valid_685_a_1.nii.gz,pleura/pleura,nonspecific pleural nodules,5.7 mm
+valid_687_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodule,4 mm
+valid_690_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nodules,10x5 mm
+valid_691_a_1.nii.gz,pleura/pleura,effusion,39 mm
+valid_691_a_1.nii.gz,others/thoracic cavity,lesion,33x23 mm
+valid_693_a_1.nii.gz,pleura/pleura,pleural effusion,30 mm
+valid_694_a_1.nii.gz,abdomen/abdomen/liver,hypodense nodular appearance,13 mm
+valid_694_b_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nonspecific nodules,3 mm
+valid_698_a_1.nii.gz,lung/lung,pulmonary nodules,5 mm
+valid_699_a_1.nii.gz,pleura/pleura,pleural effusion,9 cm
+valid_704_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,irregularly circumscribed semi-solid nodule,7.8x8 mm
+valid_704_a_1.nii.gz,pleura/pleura,parenchymal-subpleural nodules,6.2x5.1 mm
+valid_707_a_1.nii.gz,heart/heart/heart ascending aorta,slight dilatation,39 mm
+valid_707_a_1.nii.gz,pleura/pleura,pleural effusion,18 mm
+valid_707_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,17 mm
+valid_710_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nonspecific nodules,4 mm
+valid_713_a_1.nii.gz,lung/lung/right lung,3 . 5 mm diameter nonspecific parenchymal nodule,3.5 mm
+valid_713_b_1.nii.gz,lung/lung/right lung,3 . 5 mm diameter nonspecific parenchymal nodule,3.5 mm
+valid_713_c_1.nii.gz,lung/lung/right lung,millimetric nonspecific parenchymal nodule,3.5 mm
+valid_715_a_1.nii.gz,pleura/pleura,nonspecific nodule,3 mm
+valid_717_b_1.nii.gz,others/thoracic cavity,conglomerate lymphadenopathies,24 mm
+valid_717_c_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,cavitary lesions,13 mm
+valid_717_c_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense appearances,2 cm
+valid_718_a_1.nii.gz,mediastinum/mediastinal tissue,well-circumscribed cystic lesion,43x40 mm
+valid_718_a_1.nii.gz,heart/heart/heart ascending aorta,slight dilatation,41 mm
+valid_718_a_1.nii.gz,abdomen/abdomen/abdominal tissue,lymphadenopathies,15 mm
+valid_722_a_1.nii.gz,abdomen/abdomen/aorta,fusiform dilatation,42 mm
+valid_722_b_1.nii.gz,abdomen/abdomen/aorta,wider than normal,37 mm
+valid_724_a_1.nii.gz,abdomen/abdomen/spleen,larger than normal,138 mm
+valid_728_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,44 mm
+valid_736_a_1.nii.gz,pleura/pleura,subpleural nodular consolidation,14x10 mm
+valid_737_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesions,41x36 mm
+valid_738_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,nodular lesion,24 mm
+valid_740_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,30 mm
+valid_740_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,32 mm
+valid_741_a_1.nii.gz,pleura/pleura,nodule,4 mm
+valid_741_b_1.nii.gz,pleura/pleura,sequela calcific nodule,4 mm
+valid_743_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,soft tissue lesion,24x23 mm
+valid_743_a_1.nii.gz,lung/lung/right lung,spiculated contoured mass,25x21 mm
+valid_743_a_1.nii.gz,lung/lung/left lung,pulmonary nodules,13x11 mm
+valid_743_a_1.nii.gz,bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 10 (t10),mass lesion,57x40 mm
+valid_744_a_1.nii.gz,abdomen/abdomen/spleen,splenul,10 mm
+valid_745_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,calculus,4 mm
+valid_746_a_1.nii.gz,lung/lung/right lung,nonspecific nodules,3 mm
+valid_749_a_1.nii.gz,abdomen/abdomen/aorta,above normal,30 mm
+valid_750_a_1.nii.gz,heart/heart/heart ascending aorta,fusiform dilatation,44 mm
+valid_753_a_1.nii.gz,pleura/pleura,subpleural 3 mm diameter nodule,3 mm
+valid_753_a_1.nii.gz,pleura/pleura,subpleural nodule,4 mm
+valid_754_a_1.nii.gz,abdomen/abdomen/spleen,increased in size,154 mm
+valid_756_a_1.nii.gz,pleura/pleura,subpleural 1 mm diameter nonspecific nodule,1 mm
+valid_761_a_1.nii.gz,lung/lung/right lung,nodule,4 mm
+valid_768_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,calcified parenchymal nodule,4 mm
+valid_768_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,hypodense lesion,12 mm
+valid_771_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,5 mm
+valid_771_a_1.nii.gz,lung/lung,nodules,5 mm
+valid_771_a_1.nii.gz,heart/heart/heart ascending aorta,ectatic,40 mm
+valid_771_b_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,4.5 mm
+valid_771_b_1.nii.gz,lung/lung,nodules,4.5 mm
+valid_771_b_1.nii.gz,abdomen/abdomen/kidney/left kidney,low-density hypodense lesion,15 mm
+valid_772_a_1.nii.gz,lung/lung,pulmonary nodules,5 mm
+valid_773_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,sequela calcific nodule,1.5 cm
+valid_775_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,2 mm
+valid_775_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nonspecific nodule,3 mm
+valid_775_a_1.nii.gz,pleura/pleura,subpleural 2 mm diameter nodule,2 mm
+valid_775_a_1.nii.gz,pleura/pleura,subpleural 2 mm diameter nodule,2 mm
+valid_778_a_1.nii.gz,abdomen/abdomen/aorta,lesion,58x48 mm
+valid_778_a_1.nii.gz,heart/heart/heart tissue/myocardium,lesion,58x48 mm
+valid_778_a_1.nii.gz,heart/heart/heart tissue,lesion,58x48 mm
+valid_778_b_1.nii.gz,mediastinum/mediastinal tissue,cystic structure,5.5x2.5 cm
+valid_780_a_1.nii.gz,lung/lung,nonspecific nodules,5 mm
+valid_780_a_1.nii.gz,pleura/pleura,nodular appearance,7x4 mm
+valid_782_a_1.nii.gz,lung/lung,nonspecific nodules,5 mm
+valid_787_c_1.nii.gz,pleura/pleura,subpleural nodules,2-3 mm
+valid_790_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,low-density semisolid nodule,9x8.3 mm
+valid_791_a_1.nii.gz,abdomen/abdomen/liver,hypodense nodular lesion,7 mm
+valid_795_a_1.nii.gz,lung/lung/right lung/right lung middle lobe,bilateral large nodules,4.5 mm
+valid_795_a_1.nii.gz,mediastinum/mediastinal tissue,coarse calcification,36 mm
+valid_795_a_1.nii.gz,thyroid/thyroid/thyroid gland,coarse calcification,36 mm
+valid_795_a_1.nii.gz,heart/heart/heart ascending aorta,ectatic,39 mm
+valid_797_a_1.nii.gz,lung/lung,nodule,5x3 mm
+valid_797_a_1.nii.gz,pleura/pleura,subpleural nodule,2 mm
+valid_797_a_1.nii.gz,pleura/pleura,subpleural nodule,7x3 mm
+valid_797_a_1.nii.gz,abdomen/abdomen/aorta,above normal,30 mm
+valid_803_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,ground-glass nodule,4mm
+valid_803_a_1.nii.gz,pleura/pleura,subpleural 5x3mm nodule,5x3mm
+valid_804_a_1.nii.gz,pleura/pleura,pleural effusion,30 mm
+valid_809_a_1.nii.gz,abdomen/abdomen/gallbladder,calcules,15 mm
+valid_809_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense lesion,10 mm
+valid_813_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,cortical cyst,48 mm
+valid_815_a_1.nii.gz,pleura/pleura,pleural effusion,2 cm
+valid_816_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,cyst,4 cm
+valid_817_a_1.nii.gz,mediastinum/pulmonary artery,dilatation,35 mm
+valid_817_a_1.nii.gz,heart/heart/heart ascending aorta,dilatation,42 mm
+valid_820_a_1.nii.gz,lung/lung/left lung,millimetric calcific nodules,17x10 mm
+valid_820_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,nodular hypodense lesion,19x14 mm
+valid_829_a_1.nii.gz,pleura/pleura,pleural effusion,9 cm
+valid_829_b_1.nii.gz,heart/heart/heart tissue,pericardial effusion,7.5 mm
+valid_830_b_1.nii.gz,mediastinum/mediastinal tissue,mass lesions,15x10.6 mm
+valid_836_a_1.nii.gz,lung/lung,nodules,7x6 mm
+valid_836_a_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathies,15 mm
+valid_837_a_1.nii.gz,lung/lung/right lung/right lung middle lobe,fissure-based nodule,5 mm
+valid_838_a_1.nii.gz,heart/heart/heart ascending aorta,fusiform dilatation,45 mm
+valid_838_a_1.nii.gz,pleura/pleura,pleural effusion,1 cm
+valid_838_a_1.nii.gz,abdomen/abdomen/kidney,hypodense lesion,3 cm
+valid_839_a_1.nii.gz,pleura/pleura,nodule,1 cm
+valid_842_a_1.nii.gz,pleura/pleura,pleural effusion,4.5 cm
+valid_847_a_1.nii.gz,lung/lung/right lung,nodular appearance,5 mm
+valid_847_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,5 mm
+valid_847_a_1.nii.gz,pleura/pleura,subpleural 3 mm diameter nodule,3 mm
+valid_847_a_1.nii.gz,pleura/pleura,subpleural 3 mm diameter nodule,3 mm
+valid_847_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,30 mm
+valid_849_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,focal consolidations,12 mm
+valid_849_a_1.nii.gz,pleura/pleura,subpleural nodule,8x6 mm
+valid_850_b_1.nii.gz,abdomen/abdomen/aorta,wider than normal,45 mm
+valid_850_c_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,44 mm
+valid_850_d_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,45 mm
+valid_857_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,air cyst,11 mm
+valid_863_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,stone,4 mm
+valid_867_a_1.nii.gz,thyroid/thyroid/thyroid gland,hypodense nodule,13 mm
+valid_870_a_1.nii.gz,abdomen/abdomen/liver,liver ap diameter,190 mm
+valid_870_a_1.nii.gz,abdomen/abdomen/gallbladder,hydropic appearance,40 mm
+valid_876_a_1.nii.gz,breast/breast/left breast,space-occupying solid lesions,18 mm
+valid_876_b_1.nii.gz,breast/breast/left breast,space-occupying solid lesions,18 mm
+valid_879_a_1.nii.gz,heart/heart/heart ascending aorta,fusiform dilatation,41 mm
+valid_883_a_1.nii.gz,heart/heart/heart ascending aorta,dilatation,41 mm
+valid_883_a_1.nii.gz,heart/heart,effusion,12 mm
+valid_884_b_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,non-specific nodule,2-3 mm
+valid_884_b_1.nii.gz,abdomen/abdomen/spleen,nodular structure,18 mm
+valid_885_a_1.nii.gz,heart/heart,pericardial effusion,9 mm
+valid_886_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,stone density,1.5 mm
+valid_887_a_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathies,14 mm
+valid_887_a_1.nii.gz,trachea and bronchie/trachea,lymphadenopathies,14 mm
+valid_887_a_1.nii.gz,abdomen/abdomen/gallbladder,1 . 5 cm diameter hyperdense stone,1.5 cm
+valid_890_a_1.nii.gz,lung/lung/right lung/right lung middle lobe,nodules,3.5 mm
+valid_890_a_1.nii.gz,lung/lung,nodules,3.5 mm
+valid_894_a_1.nii.gz,lung/lung,parenchymal nodules,5 mm
+valid_894_a_1.nii.gz,abdomen/abdomen/aorta,above normal,40 mm
+valid_895_a_1.nii.gz,lung/lung,nonspecific millimetric nodules,3 mm
+valid_895_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,nodular lesion,1 cm
+valid_898_a_1.nii.gz,pleura/pleura,nonspecific parenchymal nodule,3 mm
+valid_899_a_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathies,15 mm
+valid_902_a_1.nii.gz,pleura/pleura,mass,11.5x5.5 cm
+valid_908_a_1.nii.gz,lung/lung/lung lower lobe,nodules,6 mm
+valid_908_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,6 mm
+valid_925_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,22x16 mm
+valid_926_a_1.nii.gz,lung/lung/lung lower lobe,nodules,5 mm
+valid_926_a_1.nii.gz,lung/lung,nodules,5 mm
+valid_926_a_1.nii.gz,mediastinum/mediastinal tissue,millimetric nodules,1 cm
+valid_926_a_1.nii.gz,abdomen/abdomen/gallbladder,stone density,20 mm
+valid_927_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodules,5 mm
+valid_927_a_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathies,30x25 mm
+valid_927_a_1.nii.gz,abdomen/abdomen/abdominal tissue,lymphadenopathies,13 mm
+valid_929_a_1.nii.gz,abdomen/abdomen/aorta,slight dilatation,38 mm
+valid_932_a_1.nii.gz,pleura/pleura,partially calcific 2 mm diameter nodule,2 mm
+valid_933_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific pulmonary nodules,5.5 mm
+valid_933_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,cortical cyst,14 mm
+valid_934_a_1.nii.gz,lung/lung/right lung,nonspecific pulmonary nodule,2 mm
+valid_934_a_1.nii.gz,abdomen/abdomen/gallbladder,calculus,2 cm
+valid_934_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,hypodense lesion,1 cm
+valid_936_a_1.nii.gz,mediastinum/mediastinal tissue,nodular lesion,20x16 mm
+valid_936_b_1.nii.gz,mediastinum/mediastinal tissue,nodular lesion,21x15 mm
+valid_937_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,9.5 mm
+valid_937_h_1.nii.gz,lung/lung/lung upper lobe,air density,25 mm
+valid_940_a_1.nii.gz,pleura/pleura,free pleural effusion,1 cm
+valid_940_a_1.nii.gz,abdomen/abdomen/aorta,fusiform dilatation,42 mm
+valid_940_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,hypodense lesion,1 cm
+valid_941_a_1.nii.gz,abdomen/abdomen/aorta,well-circumscribed hypodense lesion,30x25 mm
+valid_942_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,3 mm
+valid_942_a_1.nii.gz,lung/lung/left lung,nodule,2 mm
+valid_942_a_1.nii.gz,pleura/pleura,nodule,2 mm
+valid_944_a_1.nii.gz,heart/heart/heart ascending aorta,ectatic,36 mm
+valid_945_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,ground glass nodules,5 mm
+valid_945_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,ground glass nodules,5 mm
+valid_948_a_1.nii.gz,lung/lung/right lung/right lung middle lobe,nodule,5 mm
+valid_948_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,32 mm
+valid_948_a_1.nii.gz,mediastinum/pulmonary artery,greater than normal,29 mm
+valid_950_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nonspecific nodules,5 mm
+valid_950_a_1.nii.gz,lung/lung/left lung,nonspecific nodules,5 mm
+valid_951_a_1.nii.gz,lung/lung/right lung/right lung middle lobe,nonspecific millimetric nodules,6 mm
+valid_951_a_1.nii.gz,lung/lung/lung upper lobe,nonspecific millimetric nodules,6 mm
+valid_952_a_1.nii.gz,thyroid/thyroid/thyroid gland/left thyroid,hypodense nodule,9 mm
+valid_960_a_1.nii.gz,lung/lung/right lung/right lung middle lobe,hypodense lesion,50x20 mm
+valid_965_a_1.nii.gz,lung/lung/right lung,nodules,5 mm
+valid_965_a_1.nii.gz,lung/lung,nodules,5 mm
+valid_965_a_1.nii.gz,thyroid/thyroid/thyroid gland,dense calcific nodular lesion,55x40 mm
+valid_965_a_1.nii.gz,abdomen/abdomen/aorta,ectasia,40 mm
+valid_967_a_1.nii.gz,heart/heart/heart ascending aorta,mild fusiform dilatation,40 mm
+valid_968_a_1.nii.gz,heart/heart/heart tissue,effusion,7.5 mm
+valid_968_b_1.nii.gz,heart/heart/heart tissue/myocardium,effusion,10 mm
+valid_968_d_1.nii.gz,heart/heart/heart tissue,effusion,8.5 mm
+valid_968_d_1.nii.gz,abdomen/abdomen/aorta,ectatic appearance,37 mm
+valid_971_a_1.nii.gz,lung/lung/right lung,2 mm diameter nonspecific nodule,2 mm
+valid_971_a_1.nii.gz,lung/lung/right lung,nodule,3 mm
+valid_971_a_1.nii.gz,lung/lung,nonspecific nodules,4x3 mm
+valid_971_a_1.nii.gz,lung/lung,nodule,5x4 mm
+valid_971_a_1.nii.gz,pleura/pleura,subpleural 2 mm diameter nodule,2 mm
+valid_971_a_1.nii.gz,breast/breast/right breast,nodular density,30x12 mm
+valid_971_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,calculus,5x3.5 mm
+valid_971_b_1.nii.gz,abdomen/abdomen/kidney/left kidney,stone,6 mm
+valid_973_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,calculus images,3 mm
+valid_973_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,calculus images,3 mm
+valid_976_a_1.nii.gz,breast/breast/right breast,fluid density nodular lesion,26x18 mm
+valid_977_a_1.nii.gz,abdomen/abdomen/gallbladder,stones,1 cm
+valid_984_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,nodular lesion,6 mm
+valid_990_a_1.nii.gz,lung/lung,nonspecific pulmonary nodules,4.5 mm
+valid_991_b_1.nii.gz,heart/heart/heart ascending aorta,ectatic,39 mm
+valid_992_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nonspecific nodule,6x4.5 mm
+valid_996_a_1.nii.gz,thyroid/thyroid/thyroid gland,hypodense nodular lesion,14 mm
+valid_1002_a_1.nii.gz,mediastinum/pulmonary artery,dilatation,38 mm
+valid_1002_a_1.nii.gz,heart/heart/heart ascending aorta,slight dilatation,38 mm
+valid_1002_a_1.nii.gz,abdomen/abdomen/aorta,fusiform dilatation,32 mm
+valid_1004_a_1.nii.gz,lung/lung,parenchymal nodules,5 mm
+valid_1004_a_1.nii.gz,heart/heart/heart ascending aorta,loculated collection-cystic lesion,30x13 mm
+valid_1005_a_1.nii.gz,heart/heart/heart tissue,diffuse calcifications,11 mm
+valid_1005_b_1.nii.gz,heart/heart/heart tissue,pericardial effusion,55 mm
+valid_1005_b_1.nii.gz,pleura/pleura,pleural effusion,20 mm
+valid_1005_b_1.nii.gz,others/thoracic cavity,collection,22 mm
+valid_1006_b_1.nii.gz,pleura/pleura,pleural effusion,30 mm
+valid_1006_b_1.nii.gz,abdomen/abdomen/liver,collection,105x220 mm
+valid_1006_b_1.nii.gz,abdomen/abdomen/stomach,collection,105x220 mm
+valid_1011_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific nodules,5.5 mm
+valid_1014_a_1.nii.gz,heart/heart/heart tissue,pericardial effusion,12 mm
+valid_1015_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,well-circumscribed parenchymal nodule,6 mm
+valid_1016_a_1.nii.gz,pleura/pleura,nodular thickness increase,10x5 mm
+valid_1016_b_1.nii.gz,pleura/pleura,effusion,20 mm
+valid_1016_c_1.nii.gz,pleura/pleura,effusion,30 mm
+valid_1016_d_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,12 mm
+valid_1016_e_1.nii.gz,pleura/pleura,effusion,15 mm
+valid_1016_f_1.nii.gz,pleura/pleura,effusion,20 mm
+valid_1018_a_1.nii.gz,mediastinum/mediastinal tissue,suspicious soft tissue thickening,6 mm
+valid_1019_a_1.nii.gz,lung/lung/right lung,mass lesions,57x38 mm
+valid_1019_a_1.nii.gz,lung/lung/lung lower lobe,mass lesions,57x38 mm
+valid_1019_a_1.nii.gz,heart/heart,pericardial effusion,7 mm
+valid_1019_a_1.nii.gz,pleura/pleura,pleural-based mass lesion,24x28 mm
+valid_1023_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific nodule,5.4 mm
+valid_1024_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,nodular lesion,2.5 cm
+valid_1028_a_1.nii.gz,mediastinum/pulmonary artery,ectatic,42 mm
+valid_1028_a_1.nii.gz,heart/heart/heart ascending aorta,ectatic,41 mm
+valid_1030_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific nodules,2-3 mm
+valid_1030_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodule,7x4 mm
+valid_1031_a_1.nii.gz,mediastinum/pulmonary artery,ectatic,28 mm
+valid_1031_a_1.nii.gz,heart/heart/heart ascending aorta,ectatic,37 mm
+valid_1033_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,adenoma,11 mm
+valid_1034_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,30 mm
+valid_1034_a_1.nii.gz,heart/heart/heart ascending aorta,wider than normal,40 mm
+valid_1034_a_1.nii.gz,abdomen/abdomen/stomach,diverticula,25x21 mm
+valid_1038_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,punctate calcification,7x4 mm
+valid_1038_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,smooth contoured nodular lesion,4.5 mm
+valid_1038_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,low density nodule,6 mm
+valid_1040_a_1.nii.gz,pleura/pleura,3 . 5 mm diameter nonspecific parenchymal nodule,3.5 mm
+valid_1042_a_1.nii.gz,lung/lung/left lung,pulmonary nodules,4 mm
+valid_1042_a_1.nii.gz,abdomen/abdomen/aorta,increased,41 mm
+valid_1051_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,33 mm
+valid_1057_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,30 mm
+valid_1060_a_1.nii.gz,mediastinum/mediastinal tissue,well-circumscribed thin-walled cystic lesion,55x38 mm
+valid_1060_a_1.nii.gz,heart/heart/heart ascending aorta,mild fusiform dilatation,40 mm
+valid_1060_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,calculi,13 mm
+valid_1060_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,millimetric calculus,2 mm
+valid_1061_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific nodule,5 mm
+valid_1064_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,partially calcific nodule,5x2 mm
+valid_1067_b_1.nii.gz,mediastinum/pulmonary artery,larger than normal,30 mm
+valid_1067_b_1.nii.gz,pleura/pleura,pleural effusion,12 mm
+valid_1067_b_1.nii.gz,abdomen/abdomen/aorta,larger than normal,36 mm
+valid_1067_c_1.nii.gz,mediastinum/pulmonary artery,larger than normal,30 mm
+valid_1067_c_1.nii.gz,others/thoracic cavity,effusion,4.6 cm
+valid_1067_d_1.nii.gz,pleura/pleura,pleural effusion,3.5 cm
+valid_1068_a_1.nii.gz,abdomen/abdomen/spleen,nodular density,8 mm
+valid_1069_a_1.nii.gz,mediastinum/pulmonary artery,mild dilatation,31 mm
+valid_1069_a_1.nii.gz,heart/heart/heart ascending aorta,dilatation,41 mm
+valid_1069_a_1.nii.gz,heart/heart/heart tissue,effusion,1 cm
+valid_1069_b_1.nii.gz,heart/heart/heart ascending aorta,ectatic,40 mm
+valid_1072_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,cortical cyst,3 cm
+valid_1074_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,cystic lesions,120x106 mm
+valid_1074_a_1.nii.gz,abdomen/abdomen/kidney,cystic lesions,120x106 mm
+valid_1074_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hyperdense lesion,14 mm
+valid_1078_a_1.nii.gz,pleura/pleura,pleural effusion,70 mm
+valid_1082_a_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathies,12 mm
+valid_1082_b_1.nii.gz,mediastinum/pulmonary artery,ectatic,41 mm
+valid_1084_a_1.nii.gz,mediastinum/mediastinal tissue,lymphadenopathies,18 mm
+valid_1084_a_1.nii.gz,pleura/pleura,effusion,35 mm
+valid_1085_a_1.nii.gz,lung/lung,nonspecific nodules,5 mm
+valid_1091_a_1.nii.gz,pleura/pleura,subpleural nodule,7x4 mm
+valid_1092_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,mass,62x32 mm
+valid_1092_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,satellite masses,8 mm
+valid_1092_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,calcified parenchymal nodule,4 mm
+valid_1092_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense lesion,2 cm
+valid_1094_a_1.nii.gz,lung/lung/right lung,3 mm diameter nonspecific nodule,3 mm
+valid_1095_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,30 mm
+valid_1095_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense formation,16 mm
+valid_1097_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,2 . 5 mm diameter nodule,2.5 mm
+valid_1097_b_1.nii.gz,lung/lung/lung upper lobe,nonspecific nodules,4.5 mm
+valid_1097_c_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nonspecific pulmonary nodules,4 mm
+valid_1097_c_1.nii.gz,lung/lung,nonspecific pulmonary nodules,4 mm
+valid_1097_c_1.nii.gz,abdomen/abdomen/kidney/right kidney,hypodense appearance,2.5 cm
+valid_1098_a_1.nii.gz,pleura/pleura,pleural effusion,50 mm
+valid_1099_a_1.nii.gz,lung/lung,calcific laps,6x4 mm
+valid_1103_a_1.nii.gz,lung/lung/right lung,solid nodule,25x20 mm
+valid_1105_a_1.nii.gz,mediastinum/mediastinal tissue,mediastinal lymphadenomegaly,11 mm
+valid_1105_a_1.nii.gz,abdomen/abdomen/aorta,ectatic appearance,33 mm
+valid_1107_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,stone,4 mm
+valid_1110_a_1.nii.gz,lung/lung/right lung,nodule,4x2 mm
+valid_1110_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,calcific nodule,2 mm
+valid_1110_a_1.nii.gz,pleura/pleura,nodule,3 mm
+valid_1111_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,parapelvic cyst,32 mm
+valid_1111_a_1.nii.gz,abdomen/abdomen/kidney,parapelvic cyst,32 mm
+valid_1117_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,parenchymal air cyst,1 cm
+valid_1120_a_1.nii.gz,pleura/pleura,satellite nodules,1 cm
+valid_1123_a_1.nii.gz,abdomen/abdomen/aorta,above normal,30 mm
+valid_1123_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,nonspecific hypodense lesion,20x18 mm
+valid_1124_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,cortical cyst,18 mm
+valid_1125_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,ground-glass-like density increase,2 mm
+valid_1125_a_1.nii.gz,pleura/pleura,4 mm diameter nonspecific nodule,4 mm
+valid_1126_b_1.nii.gz,pleura/pleura,pleural effusion,1.5 cm
+valid_1126_c_1.nii.gz,mediastinum/pulmonary artery,larger than normal,35 mm
+valid_1126_c_1.nii.gz,mediastinum/pulmonary artery,wider than normal,28 mm
+valid_1126_c_1.nii.gz,abdomen/abdomen/aorta,wider than normal,31 mm
+valid_1127_a_1.nii.gz,pleura/pleura,minimal free pleural effusion,5 mm
+valid_1127_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,hypodense lesion,16 mm
+valid_1131_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,hyperdense stones,8x5.5 mm
+valid_1131_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hyperdense stones,8x5.5 mm
+valid_1132_a_1.nii.gz,pleura/pleura,subpleural pulmonary nodules,5 mm
+valid_1135_a_1.nii.gz,heart/heart,pericardial effusion,16mm
+valid_1137_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,4.5 mm
+valid_1137_a_1.nii.gz,lung/lung,nodules,4.5 mm
+valid_1137_a_1.nii.gz,thyroid/thyroid/thyroid gland,hypodense nodule,15 mm
+valid_1142_a_1.nii.gz,thyroid/thyroid/thyroid gland,nodules,15 mm
+valid_1144_a_1.nii.gz,abdomen/abdomen/abdominal tissue,hypodense lesion,20x13 mm
+valid_1144_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,20x13 mm
+valid_1146_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,35 mm
+valid_1146_a_1.nii.gz,abdomen/abdomen/liver,hypodense nodular lesions,9 mm
+valid_1147_b_1.nii.gz,bone/bone/vertebrae/thoracic vertebrae/thoracic vertebrae 5 (t5),hemangioma,7 mm
+valid_1148_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,parenchymal changes,2.5 mm
+valid_1154_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodules,6x9 mm
+valid_1154_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,38 mm
+valid_1155_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,29 mm
+valid_1155_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,30 mm
+valid_1155_a_1.nii.gz,abdomen/abdomen/adrenal gland/right adrenal gland,hypodense nodular formation,8 mm
+valid_1158_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nonspecific parenchymal nodule,2.5 mm
+valid_1159_a_1.nii.gz,pleura/pleura,subpleural nodule,7 mm
+valid_1159_a_1.nii.gz,abdomen/abdomen/liver,above normal,21 cm
+valid_1159_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,exophytic cortical cyst,5.4 cm
+valid_1163_a_1.nii.gz,lung/lung/right lung,nonspecific parenchymal nodule,3 mm
+valid_1169_a_1.nii.gz,lung/lung,bilateral nodules,5 mm
+valid_1170_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,3 mm diameter calculi,3 mm
+valid_1170_b_1.nii.gz,mediastinum/pulmonary artery,wider than normal,36 mm
+valid_1170_b_1.nii.gz,abdomen/abdomen/kidney/right kidney,stone,4 mm
+valid_1173_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodule,3 mm
+valid_1173_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific nodule,4 mm
+valid_1175_a_1.nii.gz,lung/lung/right lung/right lung middle lobe,nonspecific parenchymal nodule,5.5 mm
+valid_1175_a_1.nii.gz,heart/heart/heart ascending aorta,slight dilatation,39 mm
+valid_1184_a_1.nii.gz,pleura/pleura,air cyst,14 mm
+valid_1184_b_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,air cyst,16 mm
+valid_1184_c_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,air cyst,16 mm
+valid_1186_a_1.nii.gz,pleura/pleura,nonspecific subpleural nodule,3 mm
+valid_1186_a_1.nii.gz,breast/breast/right breast,well-circumscribed nodular lesion,21x18 mm
+valid_1191_a_1.nii.gz,pleura/pleura,subpleural subpleural nodules,3 mm
+valid_1192_b_1.nii.gz,pleura/pleura,free effusion,20 mm
+valid_1196_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific parenchymal nodules,4 mm
+valid_1199_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nonspecific nodule,2 mm
+valid_1199_a_1.nii.gz,pleura/pleura,subpleural 3 mm diameter nodule,3 mm
+valid_1199_a_1.nii.gz,abdomen/abdomen/aorta,above normal,33 mm
+valid_1200_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,cyst,78x88 mm
+valid_1202_a_1.nii.gz,heart/heart/heart ascending aorta,minimally wider than normal,41 mm
+valid_1203_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodule,2 mm
+valid_1203_a_1.nii.gz,lung/lung,nodule,4x2 mm
+valid_1203_a_1.nii.gz,lung/lung/left lung,nodule,4x2 mm
+valid_1203_a_1.nii.gz,lung/lung/lung lower lobe,subplebral nodule,3 mm
+valid_1203_a_1.nii.gz,pleura/pleura,subpleural nodule,3 mm
+valid_1203_a_1.nii.gz,abdomen/abdomen/aorta,wider than normal,31 mm
+valid_1209_a_1.nii.gz,lung/lung/right lung,fluid localization,44 mm
+valid_1211_a_1.nii.gz,mediastinum/pulmonary artery,fusiform dilatation,29mm
+valid_1212_a_1.nii.gz,lung/lung/left lung,nodule,7 mm
+valid_1214_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,patchy nodular ground-glass density,6 mm
+valid_1216_a_1.nii.gz,abdomen/abdomen/aorta,above normal,30 mm
+valid_1216_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,3 calculi,3 mm
+valid_1219_a_1.nii.gz,pleura/pleura,consolidation areas,102x36 mm
+valid_1223_a_1.nii.gz,lung/lung/lung lower lobe,nonspecific parenchymal nodules,5 mm
+valid_1223_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific parenchymal nodules,5 mm
+valid_1226_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,upper calyceal stone,4 mm
+valid_1226_a_1.nii.gz,abdomen/abdomen/spleen,enlarged,122x67 mm
+valid_1227_a_1.nii.gz,abdomen/abdomen/liver,hypodense nodular lesion,11 mm
+valid_1228_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,7.5 mm
+valid_1230_a_1.nii.gz,lung/lung/right lung/right lung middle lobe,calcified nonspecific parenchymal nodule,7.5 mm
+valid_1230_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,low-density nonspecific parenchymal nodule,4 mm
+valid_1231_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,parenchymal nodules,4.6 mm
+valid_1231_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hyperdense nodular lesion,11 mm
+valid_1234_a_1.nii.gz,thyroid/thyroid/thyroid gland/right thyroid,hypodense nodule,10 mm
+valid_1235_b_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nodule of ground glass density,5 mm
+valid_1237_a_1.nii.gz,abdomen/abdomen/kidney/right kidney,cortical cyst,44x22 mm
+valid_1238_a_1.nii.gz,thyroid/thyroid/thyroid gland,solid nodules,25 mm
+valid_1238_a_1.nii.gz,abdomen/abdomen/adrenal gland/left adrenal gland,nodular appearance,17 mm
+valid_1241_a_1.nii.gz,pleura/pleura,pleural-based nodule,7.5x4 mm
+valid_1245_a_1.nii.gz,abdomen/abdomen/liver,coarse calcification,2 in
+valid_1247_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nonspecific nodules,5.5 mm
+valid_1247_a_1.nii.gz,lung/lung,nonspecific nodules,5.5 mm
+valid_1248_a_1.nii.gz,pleura/pleura,hyperdense area,4 mm
+valid_1253_a_1.nii.gz,abdomen/abdomen/aorta,ectatic,46 mm
+valid_1254_a_1.nii.gz,abdomen/abdomen/liver,hypodense lesion,40x34 mm
+valid_1258_a_1.nii.gz,lung/lung,nodular densities,10 mm
+valid_1258_b_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nodular lesion,13x7 mm
+valid_1259_a_1.nii.gz,pleura/pleura,nonspecific parenchymal nodules,6.5 mm
+valid_1263_a_1.nii.gz,abdomen/abdomen/aorta,above normal,39 mm
+valid_1263_a_1.nii.gz,abdomen/abdomen/kidney/left kidney,hypodense nodular lesion,2.5 mm
+valid_1263_a_1.nii.gz,abdomen/abdomen/gallbladder,stones,2 cm
+valid_1265_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,infective pathology,10x14 mm
+valid_1266_a_1.nii.gz,lung/lung/lung upper lobe/left lung upper lobe,nodules,11 mm
+valid_1267_b_1.nii.gz,thyroid/thyroid/thyroid gland,central hypodense nodule,24 mm
+valid_1267_b_1.nii.gz,abdomen/abdomen/liver,hypodense space-occupying subcapsular lesion,28 mm
+valid_1267_c_1.nii.gz,thyroid/thyroid/thyroid gland,hypodense nodule,24x22 mm
+valid_1268_a_1.nii.gz,lung/lung/lung lower lobe/left lung lower lobe,nonspecific nodule,2 mm
+valid_1269_a_1.nii.gz,lung/lung/lung upper lobe/right lung upper lobe,nodules,4 mm
+valid_1269_a_1.nii.gz,lung/lung,nodules,4 mm
+valid_1273_a_1.nii.gz,lung/lung/right lung,nonspecific nodular densities,3 mm
+valid_1277_a_1.nii.gz,heart/heart/heart ascending aorta,above normal,40 mm
+valid_1281_a_1.nii.gz,others/thoracic cavity,effusion,34 mm
+valid_1284_a_1.nii.gz,pleura/pleura,pleural effusion,16 mm
+valid_1289_a_1.nii.gz,mediastinum/pulmonary artery,wider than normal,30 mm
+valid_1295_a_1.nii.gz,lung/lung/lung lower lobe,irregularly circumscribed nodules,7 mm
+valid_1295_a_1.nii.gz,heart/heart/heart ascending aorta,ectatic,39 mm
+valid_1298_a_1.nii.gz,lung/lung/lung lower lobe/right lung lower lobe,nodule,8 mm
+valid_1299_a_1.nii.gz,heart/heart/heart ascending aorta,ectatic,45 mm
+valid_1303_a_1.nii.gz,pleura/pleura,nonspecific pulmonary nodules,5 mm
+valid_1304_a_1.nii.gz,breast/breast/right breast,well-defined lesion,25x22 mm

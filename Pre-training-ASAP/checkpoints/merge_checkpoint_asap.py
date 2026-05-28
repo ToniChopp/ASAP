@@ -3,6 +3,7 @@ from collections import OrderedDict as odict
 import ipdb
 
 # ------ Merge the weights of BERT and MAE pre-trained models ------
+# TODO: Modify the paths of the checkpoints to your local paths
 bert_checkpoint = "./pytorch_model.bin"
 mae_checkpoint = "./mae_pretrain_vit_base.pth"
 

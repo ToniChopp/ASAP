@@ -660,7 +660,7 @@ def main():
 
     parser.add_argument("--stage", type=str, default="train", help="train or test?")
     
-    parser.add_argument("--task", choices=["CT-Rate", "RadChestCT", "CC-CCII", "LUNA16", "CT-Rate_O", "CC-CCII_new", "INSPECT", "RSPECT", "Stoic"],
+    parser.add_argument("--task", choices=["CT-Rate", "RadChestCT", "CC-CCII", "LUNA16", "INSPECT", "RSPECT", "Stoic"],
                         default="CT-Rate",
                         help="Which finetune task to take.")
     parser.add_argument("--num_classes",default = 14, type=int, help="the number of class")
